@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "word": "赤",
+    "partsOfSpeech": "noun",
+    "categories": ["colors"],
+    "english": "red",
+    "burmese": "အနီရောင်",
+    "definition": "A color at the end of the visible spectrum next to orange and opposite violet or blue.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "あか",
+    "romaji": "aka",
+    "synonyms": ["紅", "朱"],
+    "antonyms": ["青", "黒"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "彼女(かのじょ)は赤(あか)いバラを持(も)っています。",
+        "pronunciation": "kanojo wa akai bara o motte imasu.",
+        "translation": "She has a red rose."
+      },
+      {
+        "sentence": "赤(あか)い車(くるま)が通(とお)り過(す)ぎました。",
+        "pronunciation": "akai kuruma ga toorisugimashita.",
+        "translation": "A red car passed by."
+      },
+      {
+        "sentence": "夕焼(ゆうや)けで空(そら)が赤(あか)く染(そ)まった。",
+        "pronunciation": "yuuyake de sora ga akaku somatta.",
+        "translation": "The sky was dyed red by the sunset."
+      },
+      {
+        "sentence": "信号(しんごう)が赤(あか)になりました。",
+        "pronunciation": "shingou ga aka ni narimashita.",
+        "translation": "The traffic light turned red."
+      },
+      {
+        "sentence": "赤(あか)ちゃんはよく泣(な)きます。",
+        "pronunciation": "akachan wa yoku nakimasu.",
+        "translation": "Babies cry often."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "word": "姉",
+    "partsOfSpeech": "noun",
+    "categories": ["family"],
+    "english": "older sister",
+    "burmese": "အစ်မ",
+    "definition": "An older female sibling.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "あね",
+    "romaji": "ane",
+    "synonyms": ["お姉さん"],
+    "antonyms": ["妹"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "私(わたし)の姉(あね)は大学生(だいがくせい)です。",
+        "pronunciation": "watashi no ane wa daigakusei desu.",
+        "translation": "My older sister is a university student."
+      },
+      {
+        "sentence": "姉(あね)はピアノを弾(ひ)くのが上手(じょうず)です。",
+        "pronunciation": "ane wa piano o hiku no ga jouzu desu.",
+        "translation": "My older sister is good at playing the piano."
+      },
+      {
+        "sentence": "姉(あね)と一緒(いっしょ)に買い物(かいもの)に行(い)きました。",
+        "pronunciation": "ane to issho ni kaimono ni ikimashita.",
+        "translation": "I went shopping with my older sister."
+      },
+      {
+        "sentence": "姉(あね)は料理(りょうり)を作(つく)るのが得意(とくい)です。",
+        "pronunciation": "ane wa ryouri o tsukuru no ga tokui desu.",
+        "translation": "My older sister is good at cooking."
+      },
+      {
+        "sentence": "姉(あね)はいつも私(わたし)を助(たす)けてくれます。",
+        "pronunciation": "ane wa itsumo watashi o tasukete kuremasu.",
+        "translation": "My older sister always helps me."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "word": "兄",
+    "partsOfSpeech": "noun",
+    "categories": ["family"],
+    "english": "older brother",
+    "burmese": "အစ်ကို",
+    "definition": "An older male sibling.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "あに",
+    "romaji": "ani",
+    "synonyms": ["お兄さん"],
+    "antonyms": ["弟"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "私(わたし)の兄(あに)はエンジニアです。",
+        "pronunciation": "watashi no ani wa enjinia desu.",
+        "translation": "My older brother is an engineer."
+      },
+      {
+        "sentence": "兄(あに)はサッカーをするのが好(す)きです。",
+        "pronunciation": "ani wa sakkaa o suru no ga suki desu.",
+        "translation": "My older brother likes to play soccer."
+      },
+      {
+        "sentence": "兄(あに)は車(くるま)の運転(うんてん)が上手(じょうず)です。",
+        "pronunciation": "ani wa kuruma no unten ga jouzu desu.",
+        "translation": "My older brother is good at driving a car."
+      },
+      {
+        "sentence": "兄(あに)と一緒(いっしょ)にゲームをしました。",
+        "pronunciation": "ani to issho ni geemu o shimashita.",
+        "translation": "I played a game with my older brother."
+      },
+      {
+        "sentence": "兄(あに)はよく私(わたし)にアドバイスをくれます。",
+        "pronunciation": "ani wa yoku watashi ni adobaisu o kuremasu.",
+        "translation": "My older brother often gives me advice."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "word": "青",
+    "partsOfSpeech": "noun",
+    "categories": ["colors"],
+    "english": "blue",
+    "burmese": "အပြာရောင်",
+    "definition": "The color of a clear sky.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "あお",
+    "romaji": "ao",
+    "synonyms": ["紺"],
+    "antonyms": ["赤", "黄"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "空(そら)は青(あお)いです。",
+        "pronunciation": "sora wa aoi desu.",
+        "translation": "The sky is blue."
+      },
+      {
+        "sentence": "私(わたし)は青(あお)いシャツを着(き)ています。",
+        "pronunciation": "watashi wa aoi shatsu o kite imasu.",
+        "translation": "I am wearing a blue shirt."
+      },
+      {
+        "sentence": "青(あお)い海(うみ)はとても綺麗(きれい)です。",
+        "pronunciation": "aoi umi wa totemo kirei desu.",
+        "translation": "The blue sea is very beautiful."
+      },
+      {
+        "sentence": "青(あお)い花(はな)が咲(さ)いています。",
+        "pronunciation": "aoi hana ga saite imasu.",
+        "translation": "Blue flowers are blooming."
+      },
+      {
+        "sentence": "青(あお)い鳥(とり)が飛(と)んでいます。",
+        "pronunciation": "aoi tori ga tonde imasu.",
+        "translation": "A blue bird is flying."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "word": "服",
+    "partsOfSpeech": "noun",
+    "categories": ["clothing"],
+    "english": "clothes, clothing",
+    "burmese": "အဝတ်အစား",
+    "definition": "Clothing in general.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ふく",
+    "romaji": "fuku",
+    "synonyms": ["洋服", "衣装"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "新(あたら)しい服(ふく)を買(か)いました。",
+        "pronunciation": "atarashii fuku o kaimashita.",
+        "translation": "I bought new clothes."
+      },
+      {
+        "sentence": "服(ふく)を洗濯(せんたく)しなければなりません。",
+        "pronunciation": "fuku o sentaku shinakereba narimasen.",
+        "translation": "I have to wash the clothes."
+      },
+      {
+        "sentence": "この服(ふく)はとても着(き)やすいです。",
+        "pronunciation": "kono fuku wa totemo kiyasui desu.",
+        "translation": "These clothes are very comfortable to wear."
+      },
+      {
+        "sentence": "服(ふく)を選(えら)ぶのに時間(じかん)がかかりました。",
+        "pronunciation": "fuku o erabu no ni jikan ga kakarimashita.",
+        "translation": "It took time to choose clothes."
+      },
+      {
+        "sentence": "冬(ふゆ)には暖(あたた)かい服(ふく)が必要(ひつよう)です。",
+        "pronunciation": "fuyu niwa atatakai fuku ga hitsuyou desu.",
+        "translation": "Warm clothes are necessary in winter."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "word": "箱",
+    "partsOfSpeech": "noun",
+    "categories": ["objects"],
+    "english": "box",
+    "burmese": "သေတ္တာ",
+    "definition": "A container with flat sides and a removable or hinged lid.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "はこ",
+    "romaji": "hako",
+    "synonyms": ["ケース", "ボックス"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "箱(はこ)の中(なか)にプレゼントが入(はい)っています。",
+        "pronunciation": "hako no naka ni purezento ga haitte imasu.",
+        "translation": "There is a present inside the box."
+      },
+      {
+        "sentence": "箱(はこ)を運(はこ)ぶのを手伝(てつだ)ってください。",
+        "pronunciation": "hako o hakobu no o tetsudatte kudasai.",
+        "translation": "Please help me carry the box."
+      },
+      {
+        "sentence": "この箱(はこ)はとても重(おも)いです。",
+        "pronunciation": "kono hako wa totemo omoi desu.",
+        "translation": "This box is very heavy."
+      },
+      {
+        "sentence": "箱(はこ)を積(つ)み重(かさ)ねてください。",
+        "pronunciation": "hako o tsumikasane te kudasai.",
+        "translation": "Please stack the boxes."
+      },
+      {
+        "sentence": "箱(はこ)を開(あ)けて中身(なかみ)を見(み)ました。",
+        "pronunciation": "hako o akete nakami o mimashita.",
+        "translation": "I opened the box and looked at the contents."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "word": "話",
+    "partsOfSpeech": "noun",
+    "categories": ["communication"],
+    "english": "story, talk, conversation",
+    "burmese": "စကားပြောသည်။ပုံပြင်ပြောပြသည်",
+    "definition": "A report of an event or events; a story or narrative.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "はなし",
+    "romaji": "hanashi",
+    "synonyms": ["物語", "会話"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "面白(おもしろ)い話(はなし)を聞(き)きました。",
+        "pronunciation": "omoshiroi hanashi o kikimashita.",
+        "translation": "I heard an interesting story."
+      },
+      {
+        "sentence": "彼(かれ)と話(はなし)をするのが好(す)きです。",
+        "pronunciation": "kare to hanashi o suru no ga suki desu.",
+        "translation": "I like talking with him."
+      },
+      {
+        "sentence": "話(はなし)の途中(とちゅう)で邪魔(じゃま)をしないでください。",
+        "pronunciation": "hanashi no tochuu de jama o shinaide kudasai.",
+        "translation": "Please don't interrupt the conversation."
+      },
+      {
+        "sentence": "彼(かれ)は話(はなし)が上手(じょうず)です。",
+        "pronunciation": "kare wa hanashi ga jouzu desu.",
+        "translation": "He is good at telling stories."
+      },
+      {
+        "sentence": "長(なが)い話(はなし)でしたが、面白(おもしろ)かったです。",
+        "pronunciation": "nagai hanashi deshita ga, omoshirokatta desu.",
+        "translation": "It was a long story, but it was interesting."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "word": "左",
+    "partsOfSpeech": "noun",
+    "categories": ["directions"],
+    "english": "left",
+    "burmese": "ဘယ်",
+    "definition": "The left side.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ひだり",
+    "romaji": "hidari",
+    "synonyms": [],
+    "antonyms": ["右"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "左(ひだり)に曲(ま)がってください。",
+        "pronunciation": "hidari ni magatte kudasai.",
+        "translation": "Please turn left."
+      },
+      {
+        "sentence": "左(ひだり)の建物(たてもの)が図書館(としょかん)です。",
+        "pronunciation": "hidari no tatemono ga toshokan desu.",
+        "translation": "The building on the left is the library."
+      },
+      {
+        "sentence": "左(ひだり)の手(て)で持(も)ってください。",
+        "pronunciation": "hidari no te de motte kudasai.",
+        "translation": "Please hold it with your left hand."
+      },
+      {
+        "sentence": "彼(かれ)は左利(ひだりき)きです。",
+        "pronunciation": "kare wa hidarikiki desu.",
+        "translation": "He is left-handed."
+      },
+      {
+        "sentence": "左側(ひだりがわ)を歩(ある)いてください。",
+        "pronunciation": "hidarigawa o aruite kudasai.",
+        "translation": "Please walk on the left side."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "word": "東",
+    "partsOfSpeech": "noun",
+    "categories": ["directions"],
+    "english": "east",
+    "burmese": "အရှေ့",
+    "definition": "The direction where the sun rises.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ひがし",
+    "romaji": "higashi",
+    "synonyms": [],
+    "antonyms": ["西"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "東京(とうきょう)は日本(にほん)の東(ひがし)にあります。",
+        "pronunciation": "toukyou wa nihon no higashi ni arimasu.",
+        "translation": "Tokyo is in the east of Japan."
+      },
+      {
+        "sentence": "太陽(たいよう)は東(ひがし)から昇(のぼ)ります。",
+        "pronunciation": "taiyou wa higashi kara noborimasu.",
+        "translation": "The sun rises from the east."
+      },
+      {
+        "sentence": "東(ひがし)の空(そら)が明(あ)るくなってきた。",
+        "pronunciation": "higashi no sora ga akaruku natte kita.",
+        "translation": "The eastern sky is getting brighter."
+      },
+      {
+        "sentence": "東(ひがし)へ進(すす)んでください。",
+        "pronunciation": "higashi e susunde kudasai.",
+        "translation": "Please go east."
+      },
+      {
+        "sentence": "東(ひがし)の風(かぜ)が強(つよ)いです。",
+        "pronunciation": "higashi no kaze ga tsuyoi desu.",
+        "translation": "The east wind is strong."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "word": "本",
+    "partsOfSpeech": "noun",
+    "categories": ["books"],
+    "english": "book",
+    "burmese": "စာအုပ်",
+    "definition": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ほん",
+    "romaji": "hon",
+    "synonyms": ["書籍", "書物"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "私(わたし)は本(ほん)を読(よ)むのが好(す)きです。",
+        "pronunciation": "watashi wa hon o yomu no ga suki desu.",
+        "translation": "I like reading books."
+      },
+      {
+        "sentence": "この本(ほん)はとても面白(おもしろ)いです。",
+        "pronunciation": "kono hon wa totemo omoshiroi desu.",
+        "translation": "This book is very interesting."
+      },
+      {
+        "sentence": "図書館(としょかん)で本(ほん)を借(か)りました。",
+        "pronunciation": "toshokan de hon o karimashita.",
+        "translation": "I borrowed a book from the library."
+      },
+      {
+        "sentence": "本(ほん)を返(かえ)さなければなりません。",
+        "pronunciation": "hon o kaesanakereba narimasen.",
+        "translation": "I have to return the book."
+      },
+      {
+        "sentence": "本(ほん)を机(つくえ)の上(うえ)に置(お)きました。",
+        "pronunciation": "hon o tsukue no ue ni okimashita.",
+        "translation": "I put the book on the desk."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "word": "池",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "pond",
+    "burmese": "ရေကန်ငယ်။ရေအိုင်ငယ်",
+    "definition": "A small body of still water.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "いけ",
+    "romaji": "ike",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "池(いけ)に鯉(こい)が泳(およ)いでいます。",
+        "pronunciation": "ike ni koi ga oyoide imasu.",
+        "translation": "Carp are swimming in the pond."
+      },
+      {
+        "sentence": "池(いけ)の周(まわ)りを散歩(さんぽ)しました。",
+        "pronunciation": "ike no mawari o sanpo shimashita.",
+        "translation": "I took a walk around the pond."
+      },
+      {
+        "sentence": "池(いけ)の水(みず)はとても綺麗(きれい)です。",
+        "pronunciation": "ike no mizu wa totemo kirei desu.",
+        "translation": "The water in the pond is very clean."
+      },
+      {
+        "sentence": "池(いけ)のそばにベンチがあります。",
+        "pronunciation": "ike no soba ni benchi ga arimasu.",
+        "translation": "There is a bench by the pond."
+      },
+      {
+        "sentence": "池(いけ)の氷(こおり)が溶(と)け始(はじ)めました。",
+        "pronunciation": "ike no koori ga toke hajimemashita.",
+        "translation": "The ice on the pond has started to melt."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "word": "妹",
+    "partsOfSpeech": "noun",
+    "categories": ["family"],
+    "english": "younger sister",
+    "burmese": "ညီမ",
+    "definition": "A younger female sibling.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "いもうと",
+    "romaji": "imouto",
+    "synonyms": [],
+    "antonyms": ["姉"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "私(わたし)の妹(いもうと)は高校生(こうこうせい)です。",
+        "pronunciation": "watashi no imouto wa koukousei desu.",
+        "translation": "My younger sister is a high school student."
+      },
+      {
+        "sentence": "妹(いもうと)はアニメを見(み)るのが好(す)きです。",
+        "pronunciation": "imouto wa anime o miru no ga suki desu.",
+        "translation": "My younger sister likes watching anime."
+      },
+      {
+        "sentence": "妹(いもうと)と一緒(いっしょ)に公園(こうえん)に行(い)きました。",
+        "pronunciation": "imouto to issho ni kouen ni ikimashita.",
+        "translation": "I went to the park with my younger sister."
+      },
+      {
+        "sentence": "妹(いもうと)はよく私(わたし)の服(ふく)を借(か)ります。",
+        "pronunciation": "imouto wa yoku watashi no fuku o karimasu.",
+        "translation": "My younger sister often borrows my clothes."
+      },
+      {
+        "sentence": "妹(いもうと)は絵(え)を描(か)くのが得意(とくい)です。",
+        "pronunciation": "imouto wa e o kaku no ga tokui desu.",
+        "translation": "My younger sister is good at drawing pictures."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "word": "人",
+    "partsOfSpeech": "noun",
+    "categories": ["people"],
+    "english": "person, people",
+    "burmese": "လူ",
+    "definition": "A human being.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ひと",
+    "romaji": "hito",
+    "synonyms": ["人間", "人々"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "多(おお)くの人(ひと)が公園(こうえん)にいました。",
+        "pronunciation": "ooku no hito ga kouen ni imashita.",
+        "translation": "There were many people in the park."
+      },
+      {
+        "sentence": "あの人(ひと)は誰(だれ)ですか。",
+        "pronunciation": "ano hito wa dare desu ka.",
+        "translation": "Who is that person?"
+      },
+      {
+        "sentence": "人(ひと)に優(やさ)しくしてください。",
+        "pronunciation": "hito ni yasashiku shite kudasai.",
+        "translation": "Please be kind to people."
+      },
+      {
+        "sentence": "人(ひと)はそれぞれ違(ちが)う考(かんが)えを持(も)っています。",
+        "pronunciation": "hito wa sorezore chigau kangae o motte imasu.",
+        "translation": "People have different opinions."
+      },
+      {
+        "sentence": "人(ひと)は生(い)きていくために食(た)べなければなりません。",
+        "pronunciation": "hito wa ikiteiku tame ni tabenakereba narimasen.",
+        "translation": "People have to eat to live."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "word": "色",
+    "partsOfSpeech": "noun",
+    "categories": ["colors"],
+    "english": "color",
+    "burmese": "အရောင်",
+    "definition": "The property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "いろ",
+    "romaji": "iro",
+    "synonyms": ["色彩"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "何色(なにいろ)が好(す)きですか。",
+        "pronunciation": "nani iro ga suki desu ka.",
+        "translation": "What color do you like?"
+      },
+      {
+        "sentence": "色(いろ)とりどりの花(はな)が咲(さ)いています。",
+        "pronunciation": "irotoridori no hana ga saite imasu.",
+        "translation": "Flowers of various colors are blooming."
+      },
+      {
+        "sentence": "この絵(え)は色(いろ)が綺麗(きれい)です。",
+        "pronunciation": "kono e wa iro ga kirei desu.",
+        "translation": "The colors in this painting are beautiful."
+      },
+      {
+        "sentence": "色(いろ)を選(えら)ぶのに迷(まよ)いました。",
+        "pronunciation": "iro o erabu no ni mayoimashita.",
+        "translation": "I was confused about which color to choose."
+      },
+      {
+        "sentence": "色(いろ)によって意味(いみ)が違(ちが)います。",
+        "pronunciation": "iro ni yotte imi ga chigaimasu.",
+        "translation": "The meaning varies depending on the color."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "word": "昼",
+    "partsOfSpeech": "noun",
+    "categories": ["time"],
+    "english": "noon, daytime",
+    "burmese": "နေ့လည်",
+    "definition": "The middle of the day.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ひる",
+    "romaji": "hiru",
+    "synonyms": ["正午"],
+    "antonyms": ["夜"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "昼(ひる)ご飯(ごはん)を食(た)べました。",
+        "pronunciation": "hiru gohan o tabemashita.",
+        "translation": "I ate lunch."
+      },
+      {
+        "sentence": "昼休(ひるやす)みに公園(こうえん)を散歩(さんぽ)しました。",
+        "pronunciation": "hiruyasumi ni kouen o sanpo shimashita.",
+        "translation": "I took a walk in the park during lunch break."
+      },
+      {
+        "sentence": "昼(ひる)はとても暑(あつ)かったです。",
+        "pronunciation": "hiru wa totemo atsukatta desu.",
+        "translation": "It was very hot during the day."
+      },
+      {
+        "sentence": "昼(ひる)に電話(でんわ)します。",
+        "pronunciation": "hiru ni denwa shimasu.",
+        "translation": "I will call you during the day."
+      },
+      {
+        "sentence": "昼(ひる)から雨(あめ)が降(ふ)り始(はじ)めました。",
+        "pronunciation": "hiru kara ame ga furi hajimemashita.",
+        "translation": "It started raining from noon."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "word": "町",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "town, city",
+    "burmese": "မြို့",
+    "definition": "A town or city.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "まち",
+    "romaji": "machi",
+    "synonyms": ["市街", "都市"],
+    "antonyms": ["村"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "私(わたし)の町(まち)は静(しず)かです。",
+        "pronunciation": "watashi no machi wa shizuka desu.",
+        "translation": "My town is quiet."
+      },
+      {
+        "sentence": "町(まち)の中心(ちゅうしん)に公園(こうえん)があります。",
+        "pronunciation": "machi no chuushin ni kouen ga arimasu.",
+        "translation": "There is a park in the center of the town."
+      },
+      {
+        "sentence": "町(まち)を散歩(さんぽ)するのが好(す)きです。",
+        "pronunciation": "machi o sanpo suru no ga suki desu.",
+        "translation": "I like walking around the town."
+      },
+      {
+        "sentence": "町(まち)のレストランで食事(しょくじ)をしました。",
+        "pronunciation": "machi no resutoran de shokuji o shimashita.",
+        "translation": "I had a meal at a restaurant in the town."
+      },
+      {
+        "sentence": "町(まち)の祭(まつ)りはとても賑(にぎ)やかでした。",
+        "pronunciation": "machi no matsuri wa totemo nigiyaka deshita.",
+        "translation": "The town festival was very lively."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "word": "前",
+    "partsOfSpeech": "noun",
+    "categories": ["time", "directions"],
+    "english": "front, before",
+    "burmese": "အရှေ့။အချိန်မတိုင်ခင်",
+    "definition": "The front part of something; the time before.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "まえ",
+    "romaji": "mae",
+    "synonyms": ["前方", "以前"],
+    "antonyms": ["後", "後ろ"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "駅(えき)の前(まえ)で待(ま)ちます。",
+        "pronunciation": "eki no mae de machimasu.",
+        "translation": "I will wait in front of the station."
+      },
+      {
+        "sentence": "食事(しょくじ)の前(まえ)に手(て)を洗(あら)ってください。",
+        "pronunciation": "shokuji no mae ni te o aratte kudasai.",
+        "translation": "Please wash your hands before the meal."
+      },
+      {
+        "sentence": "私(わたし)の前(まえ)に誰(だれ)もいません。",
+        "pronunciation": "watashi no mae ni daremo imasen.",
+        "translation": "There is no one in front of me."
+      },
+      {
+        "sentence": "三日(みっか)前(まえ)に本(ほん)を借(か)りました。",
+        "pronunciation": "mikka mae ni hon o karimashita.",
+        "translation": "I borrowed the book three days ago."
+      },
+      {
+        "sentence": "彼(かれ)は私(わたし)の前(まえ)を歩(ある)いています。",
+        "pronunciation": "kare wa watashi no mae o aruite imasu.",
+        "translation": "He is walking in front of me."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "word": "道",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "road, street",
+    "burmese": "လမ်း",
+    "definition": "A way or course taken in getting from a starting point to a destination.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "みち",
+    "romaji": "michi",
+    "synonyms": ["道路", "街道"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "道(みち)に迷(まよ)いました。",
+        "pronunciation": "michi ni mayoimashita.",
+        "translation": "I got lost on the road."
+      },
+      {
+        "sentence": "この道(みち)はとても狭(せま)いです。",
+        "pronunciation": "kono michi wa totemo semai desu.",
+        "translation": "This road is very narrow."
+      },
+      {
+        "sentence": "道(みち)を渡(わた)るときは注意(ちゅうい)してください。",
+        "pronunciation": "michi o wataru toki wa chuui shite kudasai.",
+        "translation": "Please be careful when crossing the road."
+      },
+      {
+        "sentence": "道(みち)をまっすぐ進(すす)んでください。",
+        "pronunciation": "michi o massugu susunde kudasai.",
+        "translation": "Please go straight down the road."
+      },
+      {
+        "sentence": "道(みち)の脇(わき)に花(はな)が咲(さ)いています。",
+        "pronunciation": "michi no waki ni hana ga saite imasu.",
+        "translation": "Flowers are blooming along the side of the road."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "word": "緑",
+    "partsOfSpeech": "noun",
+    "categories": ["colors", "nature"],
+    "english": "green",
+    "burmese": "အစိမ်းရောင်",
+    "definition": "A color between blue and yellow in the spectrum; the color of growing foliage.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "みどり",
+    "romaji": "midori",
+    "synonyms": ["翠"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "緑(みどり)の葉(は)が綺麗(きれい)です。",
+        "pronunciation": "midori no ha ga kirei desu.",
+        "translation": "The green leaves are beautiful."
+      },
+      {
+        "sentence": "緑(みどり)の公園(こうえん)で遊(あそ)びました。",
+        "pronunciation": "midori no kouen de asobimashita.",
+        "translation": "I played in the green park."
+      },
+      {
+        "sentence": "緑(みどり)の野菜(やさい)は体(からだ)に良(よ)いです。",
+        "pronunciation": "midori no yasai wa karada ni yoi desu.",
+        "translation": "Green vegetables are good for your health."
+      },
+      {
+        "sentence": "緑(みどり)の服(ふく)を着(き)ています。",
+        "pronunciation": "midori no fuku o kite imasu.",
+        "translation": "I am wearing green clothes."
+      },
+      {
+        "sentence": "緑(みどり)の山(やま)が遠(とお)くに見(み)えます。",
+        "pronunciation": "midori no yama ga tooku ni miemasu.",
+        "translation": "The green mountains can be seen in the distance."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "word": "右",
+    "partsOfSpeech": "noun",
+    "categories": ["directions"],
+    "english": "right",
+    "burmese": "ညာ",
+    "definition": "The right side.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "みぎ",
+    "romaji": "migi",
+    "synonyms": [],
+    "antonyms": ["左"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "右(みぎ)に曲(ま)がってください。",
+        "pronunciation": "migi ni magatte kudasai.",
+        "translation": "Please turn right."
+      },
+      {
+        "sentence": "右(みぎ)の建物(たてもの)が郵便局(ゆうびんきょく)です。",
+        "pronunciation": "migi no tatemono ga yuubinkyoku desu.",
+        "translation": "The building on the right is the post office."
+      },
+      {
+        "sentence": "右(みぎ)の手(て)で持(も)ってください。",
+        "pronunciation": "migi no te de motte kudasai.",
+        "translation": "Please hold it with your right hand."
+      },
+      {
+        "sentence": "右側(みぎがわ)を歩(ある)いてください。",
+        "pronunciation": "migigawa o aruite kudasai.",
+        "translation": "Please walk on the right side."
+      },
+      {
+        "sentence": "彼(かれ)は右利(みぎき)きです。",
+        "pronunciation": "kare wa migikiki desu.",
+        "translation": "He is right-handed."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "word": "南",
+    "partsOfSpeech": "noun",
+    "categories": ["directions"],
+    "english": "south",
+    "burmese": "တောင်",
+    "definition": "The direction opposite north.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "みなみ",
+    "romaji": "minami",
+    "synonyms": [],
+    "antonyms": ["北"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "沖縄(おきなわ)は日本(にほん)の南(みなみ)にあります。",
+        "pronunciation": "okinawa wa nihon no minami ni arimasu.",
+        "translation": "Okinawa is in the south of Japan."
+      },
+      {
+        "sentence": "南(みなみ)の空(そら)が晴(は)れています。",
+        "pronunciation": "minami no sora ga harete imasu.",
+        "translation": "The southern sky is clear."
+      },
+      {
+        "sentence": "南(みなみ)へ進(すす)んでください。",
+        "pronunciation": "minami e susunde kudasai.",
+        "translation": "Please go south."
+      },
+      {
+        "sentence": "南(みなみ)の風(かぜ)が吹(ふ)いています。",
+        "pronunciation": "minami no kaze ga fuite imasu.",
+        "translation": "The south wind is blowing."
+      },
+      {
+        "sentence": "南(みなみ)の島(しま)に行(い)きたいです。",
+        "pronunciation": "minami no shima ni ikitai desu.",
+        "translation": "I want to go to a southern island."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "word": "皆",
+    "partsOfSpeech": "noun",
+    "categories": ["people"],
+    "english": "everyone, all",
+    "burmese": "အားလုံး",
+    "definition": "Every person.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "みんな",
+    "romaji": "minnna",
+    "synonyms": ["全員", "人々"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "皆(みんな)で一緒(いっしょ)に食事(しょくじ)をしました。",
+        "pronunciation": "minna de issho ni shokuji o shimashita.",
+        "translation": "We all ate together."
+      },
+      {
+        "sentence": "皆(みんな)さん、こんにちは。",
+        "pronunciation": "minna san, konnichiwa.",
+        "translation": "Hello, everyone."
+      },
+      {
+        "sentence": "皆(みんな)が喜(よろこ)んでいました。",
+        "pronunciation": "minna ga yorokonde imashita.",
+        "translation": "Everyone was happy."
+      },
+      {
+        "sentence": "皆(みんな)で協力(きょうりょく)しましょう。",
+        "pronunciation": "minna de kyouryoku shimashou.",
+        "translation": "Let's all cooperate."
+      },
+      {
+        "sentence": "皆(みんな)で歌(うた)を歌(うた)いました。",
+        "pronunciation": "minna de uta o utaimashita.",
+        "translation": "We all sang a song."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "word": "店",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "shop, store",
+    "burmese": "ဆိုင်",
+    "definition": "A place where goods are sold.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "みせ",
+    "romaji": "mise",
+    "synonyms": ["商店", "店舗"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "店(みせ)で服(ふく)を買(か)いました。",
+        "pronunciation": "mise de fuku o kaimashita.",
+        "translation": "I bought clothes at the shop."
+      },
+      {
+        "sentence": "この店(みせ)は人気(にんき)があります。",
+        "pronunciation": "kono mise wa ninki ga arimasu.",
+        "translation": "This shop is popular."
+      },
+      {
+        "sentence": "店(みせ)の前(まえ)で待(ま)ちます。",
+        "pronunciation": "mise no mae de machimasu.",
+        "translation": "I will wait in front of the shop."
+      },
+      {
+        "sentence": "店(みせ)の営業(えいぎょう)時間(じかん)は午前(ごぜん)10時(じ)からです。",
+        "pronunciation": "mise no eigyou jikan wa gozen juuji kara desu.",
+        "translation": "The shop's business hours start from 10 a.m."
+      },
+      {
+        "sentence": "店(みせ)の品物(しなもの)はとても綺麗(きれい)です。",
+        "pronunciation": "mise no shinamono wa totemo kirei desu.",
+        "translation": "The goods in the shop are very beautiful."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "word": "国",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "country",
+    "burmese": "နိုင်ငံ",
+    "definition": "A nation with its own government, occupying a particular territory.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "くに",
+    "romaji": "kuni",
+    "synonyms": ["国家"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "私(わたし)の国(くに)は日本(にほん)です。",
+        "pronunciation": "watashi no kuni wa nihon desu.",
+        "translation": "My country is Japan."
+      },
+      {
+        "sentence": "いろいろな国(くに)の人(ひと)がいます。",
+        "pronunciation": "iroiro na kuni no hito ga imasu.",
+        "translation": "There are people from various countries."
+      },
+      {
+        "sentence": "他(ほか)の国(くに)に行(い)きたいです。",
+        "pronunciation": "hoka no kuni ni ikitai desu.",
+        "translation": "I want to go to another country."
+      },
+      {
+        "sentence": "国(くに)によって文化(ぶんか)が違(ちが)います。",
+        "pronunciation": "kuni ni yotte bunka ga chigaimasu.",
+        "translation": "Culture varies depending on the country."
+      },
+      {
+        "sentence": "国(くに)の歴史(れきし)を学(まな)びました。",
+        "pronunciation": "kuni no rekishi o manabimashita.",
+        "translation": "I learned about the country's history."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "word": "黒",
+    "partsOfSpeech": "noun",
+    "categories": ["colors"],
+    "english": "black",
+    "burmese": "အနက်ရောင်",
+    "definition": "The darkest color, the opposite of white.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "くろ",
+    "romaji": "kuro",
+    "synonyms": ["漆黒"],
+    "antonyms": ["白"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "黒(くろ)い猫(ねこ)がいます。",
+        "pronunciation": "kuroi neko ga imasu.",
+        "translation": "There is a black cat."
+      },
+      {
+        "sentence": "黒(くろ)い服(ふく)を着(き)ています。",
+        "pronunciation": "kuroi fuku o kite imasu.",
+        "translation": "I am wearing black clothes."
+      },
+      {
+        "sentence": "黒板(こくばん)に字(じ)を書(か)きました。",
+        "pronunciation": "kokuban ni ji o kakimashita.",
+        "translation": "I wrote letters on the blackboard."
+      },
+      {
+        "sentence": "黒(くろ)い靴(くつ)を履(は)いています。",
+        "pronunciation": "kuroi kutsu o haite imasu.",
+        "translation": "I am wearing black shoes."
+      },
+      {
+        "sentence": "夜空(よぞら)は黒(くろ)いです。",
+        "pronunciation": "yozora wa kuroi desu.",
+        "translation": "The night sky is black."
+      }
+    ]
+  }
+]
