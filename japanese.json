@@ -1098,5 +1098,4185 @@
         "translation": "The night sky is black."
       }
     ]
+  },
+  {
+    "id": 26,
+    "word": "薬",
+    "partsOfSpeech": "noun",
+    "categories": ["health"],
+    "english": "medicine, drug",
+    "burmese": "ဆေး",
+    "definition": "A substance used in treating disease or relieving pain; a medicament.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "くすり",
+    "romaji": "kusuri",
+    "synonyms": ["薬品", "薬剤"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "風邪(かぜ)を引(ひ)いたので薬(くすり)を飲(の)みました。",
+        "pronunciation": "kaze o hiita node kusuri o nomimashita.",
+        "translation": "I took medicine because I caught a cold."
+      },
+      {
+        "sentence": "この薬(くすり)は食後(しょくご)に飲(の)んでください。",
+        "pronunciation": "kono kusuri wa shokugo ni nonde kudasai.",
+        "translation": "Please take this medicine after meals."
+      },
+      {
+        "sentence": "薬局(やっきょく)で薬(くすり)を買(か)いました。",
+        "pronunciation": "yakkyoku de kusuri o kaimashita.",
+        "translation": "I bought medicine at the pharmacy."
+      },
+      {
+        "sentence": "薬(くすり)の効果(こうか)はありましたか。",
+        "pronunciation": "kusuri no kouka wa arimashita ka.",
+        "translation": "Did the medicine have any effect?"
+      },
+      {
+        "sentence": "子供(こども)の手(て)の届(とど)かないところに薬(くすり)を置(お)いてください。",
+        "pronunciation": "kodomo no te no todokanai tokoro ni kusuri o oite kudasai.",
+        "translation": "Please keep the medicine out of children's reach."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "word": "灰皿",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "ashtray",
+    "burmese": "ပြာခွက်",
+    "definition": "A receptacle for tobacco ash and cigarette ends.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "はいざら",
+    "romaji": "haizara",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "low",
+    "examples": [
+      {
+        "sentence": "そこにある灰皿(はいざら)を使(つか)ってください。",
+        "pronunciation": "soko ni aru haizara o tsukatte kudasai.",
+        "translation": "Please use the ashtray over there."
+      },
+      {
+        "sentence": "灰皿(はいざら)はどこにありますか。",
+        "pronunciation": "haizara wa doko ni arimasu ka.",
+        "translation": "Where is the ashtray?"
+      },
+      {
+        "sentence": "灰皿(はいざら)を綺麗(きれい)にしてください。",
+        "pronunciation": "haizara o kirei ni shite kudasai.",
+        "translation": "Please clean the ashtray."
+      },
+      {
+        "sentence": "テーブルの上(うえ)に灰皿(はいざら)が置(お)いてあります。",
+        "pronunciation": "teeburu no ue ni haizara ga oite arimasu.",
+        "translation": "There is an ashtray on the table."
+      },
+      {
+        "sentence": "この灰皿(はいざら)はガラス製(せい)です。",
+        "pronunciation": "kono haizara wa garasusei desu.",
+        "translation": "This ashtray is made of glass."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "word": "半分",
+    "partsOfSpeech": "noun",
+    "categories": ["numbers"],
+    "english": "half",
+    "burmese": "တဝက်",
+    "definition": "One of two equal or virtually equal parts of a whole.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "はんぶん",
+    "romaji": "hannbunn",
+    "synonyms": ["二分の一"],
+    "antonyms": ["全部", "全体"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "ケーキを半分(はんぶん)に切(き)りました。",
+        "pronunciation": "keeki o hanbun ni kirimashita.",
+        "translation": "I cut the cake in half."
+      },
+      {
+        "sentence": "半分(はんぶん)は私(わたし)が食(た)べます。",
+        "pronunciation": "hanbun wa watashi ga tabemasu.",
+        "translation": "I will eat half."
+      },
+      {
+        "sentence": "時間(じかん)の半分(はんぶん)が過(す)ぎました。",
+        "pronunciation": "jikan no hanbun ga sugimashita.",
+        "translation": "Half of the time has passed."
+      },
+      {
+        "sentence": "値段(ねだん)が半分(はんぶん)になりました。",
+        "pronunciation": "nedan ga hanbun ni narimashita.",
+        "translation": "The price has been halved."
+      },
+      {
+        "sentence": "水(みず)がコップの半分(はんぶん)入(はい)っています。",
+        "pronunciation": "mizu ga koppu no hanbun haitte imasu.",
+        "translation": "There is water in half of the glass."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "word": "晴れ",
+    "partsOfSpeech": "noun",
+    "categories": ["weather"],
+    "english": "sunny weather, clear sky",
+    "burmese": "သာယာသောရာသီဥတု။",
+    "definition": "Weather with no clouds or rain.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "はれ",
+    "romaji": "hare",
+    "synonyms": ["快晴"],
+    "antonyms": ["雨", "曇り"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "今日(きょう)は晴(は)れです。",
+        "pronunciation": "kyou wa hare desu.",
+        "translation": "It is sunny today."
+      },
+      {
+        "sentence": "晴(は)れの日は気分(きぶん)がいいです。",
+        "pronunciation": "hare no hi wa kibun ga ii desu.",
+        "translation": "I feel good on sunny days."
+      },
+      {
+        "sentence": "明日(あした)も晴(は)れの予報(よほう)です。",
+        "pronunciation": "ashita mo hare no yohou desu.",
+        "translation": "The forecast for tomorrow is also sunny."
+      },
+      {
+        "sentence": "晴(は)れた空(そら)が綺麗(きれい)です。",
+        "pronunciation": "hareta sora ga kirei desu.",
+        "translation": "The clear sky is beautiful."
+      },
+      {
+        "sentence": "晴(は)れの日(ひ)にピクニックに行(い)きましょう。",
+        "pronunciation": "hare no hi ni pikunikku ni ikimashou.",
+        "translation": "Let's go on a picnic on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "word": "部屋",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "room",
+    "burmese": "အခန်း",
+    "definition": "A part or division within a building enclosed by walls or partitions to which access is provided by a door; a chamber.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "へや",
+    "romaji": "heya",
+    "synonyms": ["室"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "私(わたし)の部屋(へや)は二階(にかい)にあります。",
+        "pronunciation": "watashi no heya wa nikai ni arimasu.",
+        "translation": "My room is on the second floor."
+      },
+      {
+        "sentence": "部屋(へや)を掃除(そうじ)してください。",
+        "pronunciation": "heya o souji shite kudasai.",
+        "translation": "Please clean the room."
+      },
+      {
+        "sentence": "この部屋(へや)は明(あか)るいです。",
+        "pronunciation": "kono heya wa akarui desu.",
+        "translation": "This room is bright."
+      },
+      {
+        "sentence": "部屋(へや)の鍵(かぎ)を忘(わす)れました。",
+        "pronunciation": "heya no kagi o wasuremashita.",
+        "translation": "I forgot the room key."
+      },
+      {
+        "sentence": "部屋(へや)で勉強(べんきょう)します。",
+        "pronunciation": "heya de benkyou shimasu.",
+        "translation": "I will study in my room."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "word": "入口",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "entrance",
+    "burmese": "ဝင်ပေါက်",
+    "definition": "A place for entering.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "いりぐち",
+    "romaji": "iriguchi",
+    "synonyms": ["玄関"],
+    "antonyms": ["出口"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "入口(いりぐち)はあちらです。",
+        "pronunciation": "iriguchi wa achira desu.",
+        "translation": "The entrance is over there."
+      },
+      {
+        "sentence": "入口(いりぐち)でチケットを見(み)せてください。",
+        "pronunciation": "iriguchi de chiketto o misete kudasai.",
+        "translation": "Please show your ticket at the entrance."
+      },
+      {
+        "sentence": "入口(いりぐち)の前(まえ)で待(ま)っています。",
+        "pronunciation": "iriguchi no mae de matte imasu.",
+        "translation": "I am waiting in front of the entrance."
+      },
+      {
+        "sentence": "入口(いりぐち)に案内(あんない)の看板(かんばん)があります。",
+        "pronunciation": "iriguchi ni annai no kanban ga arimasu.",
+        "translation": "There is an information sign at the entrance."
+      },
+      {
+        "sentence": "入口(いりぐち)が混(こ)んでいます。",
+        "pronunciation": "iriguchi ga konde imasu.",
+        "translation": "The entrance is crowded."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "word": "時間",
+    "partsOfSpeech": "noun",
+    "categories": ["time"],
+    "english": "time",
+    "burmese": "အချိန်",
+    "definition": "The indefinite continued progress of existence and events in the past, present, and future regarded as a whole.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "じかん",
+    "romaji": "jikann",
+    "synonyms": ["時"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "時間(じかん)がありません。",
+        "pronunciation": "jikan ga arimasen.",
+        "translation": "I don't have time."
+      },
+      {
+        "sentence": "何時(なんじ)ですか。",
+        "pronunciation": "nanji desu ka.",
+        "translation": "What time is it?"
+      },
+      {
+        "sentence": "時間(じかん)を守(まも)ってください。",
+        "pronunciation": "jikan o mamotte kudasai.",
+        "translation": "Please be on time."
+      },
+      {
+        "sentence": "時間(じかん)が経(た)つのは早(はや)いです。",
+        "pronunciation": "jikan ga tatsu no wa hayai desu.",
+        "translation": "Time flies."
+      },
+      {
+        "sentence": "もっと時間(じかん)が欲(ほ)しいです。",
+        "pronunciation": "motto jikan ga hoshii desu.",
+        "translation": "I want more time."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "word": "辞書",
+    "partsOfSpeech": "noun",
+    "categories": ["books", "language"],
+    "english": "dictionary",
+    "burmese": "အဘိဓာန်",
+    "definition": "A book containing a selection of the words of a language, typically listed alphabetically, with explanations of their meanings, and often with information about their etymology, pronunciation, and usage.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "じしょ",
+    "romaji": "jisho",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "辞書(じしょ)で言葉(ことば)の意味(いみ)を調(しら)べます。",
+        "pronunciation": "jisho de kotoba no imi o shirabemasu.",
+        "translation": "I look up the meaning of words in a dictionary."
+      },
+      {
+        "sentence": "この辞書(じしょ)は使(つか)いやすいです。",
+        "pronunciation": "kono jisho wa tsukaiyasui desu.",
+        "translation": "This dictionary is easy to use."
+      },
+      {
+        "sentence": "電子辞書(でんしじしょ)を持(も)っています。",
+        "pronunciation": "denshijisho o motte imasu.",
+        "translation": "I have an electronic dictionary."
+      },
+      {
+        "sentence": "辞書(じしょ)を忘(わす)れてしまいました。",
+        "pronunciation": "jisho o wasurete shimaimashita.",
+        "translation": "I have forgotten my dictionary."
+      },
+      {
+        "sentence": "辞書(じしょ)を貸(か)してください。",
+        "pronunciation": "jisho o kashite kudasai.",
+        "translation": "Please lend me a dictionary."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "word": "鞄",
+    "partsOfSpeech": "noun",
+    "categories": ["objects"],
+    "english": "bag, briefcase",
+    "burmese": "အိတ်",
+    "definition": "A container made of flexible material with an opening at the top, used for carrying things.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "かばん",
+    "romaji": "kabann",
+    "synonyms": ["バッグ"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "鞄(かばん)の中(なか)に本(ほん)が入(はい)っています。",
+        "pronunciation": "kaban no naka ni hon ga haitte imasu.",
+        "translation": "There is a book in the bag."
+      },
+      {
+        "sentence": "鞄(かばん)を持(も)ってください。",
+        "pronunciation": "kaban o motte kudasai.",
+        "translation": "Please hold the bag."
+      },
+      {
+        "sentence": "新(あたら)しい鞄(かばん)を買(か)いました。",
+        "pronunciation": "atarashii kaban o kaimashita.",
+        "translation": "I bought a new bag."
+      },
+      {
+        "sentence": "鞄(かばん)をどこかに置(お)き忘(わす)れました。",
+        "pronunciation": "kaban o dokoka ni okiwasuremashita.",
+        "translation": "I left my bag somewhere."
+      },
+      {
+        "sentence": "鞄(かばん)の紐(ひも)が切(き)れてしまいました。",
+        "pronunciation": "kaban no himo ga kirete shimaimashita.",
+        "translation": "The strap of the bag broke."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "word": "首",
+    "partsOfSpeech": "noun",
+    "categories": ["body"],
+    "english": "neck",
+    "burmese": "လည်ပင်း",
+    "definition": "The part of the body connecting the head to the torso.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "くび",
+    "romaji": "kubinn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "首(くび)が痛(いた)いです。",
+        "pronunciation": "kubi ga itai desu.",
+        "translation": "My neck hurts."
+      },
+      {
+        "sentence": "首(くび)を縦(たて)に振(ふ)りました。",
+        "pronunciation": "kubi o tate ni furimashita.",
+        "translation": "I nodded."
+      },
+      {
+        "sentence": "首(くび)にスカーフを巻(ま)きました。",
+        "pronunciation": "kubi ni sukaafu o makimashita.",
+        "translation": "I wrapped a scarf around my neck."
+      },
+      {
+        "sentence": "長(なが)時間(じかん)パソコンを使(つか)って首(くび)が凝(こ)りました。",
+        "pronunciation": "nagajikan pasokon o tsukatte kubi ga korimashita.",
+        "translation": "My neck got stiff from using the computer for a long time."
+      },
+      {
+        "sentence": "彼(かれ)は首(くび)をかしげました。",
+        "pronunciation": "kare wa kubi o kashigemashita.",
+        "translation": "He tilted his head."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "word": "買い物",
+    "partsOfSpeech": "noun",
+    "categories": ["activities"],
+    "english": "shopping",
+    "burmese": "ဈေးဝယ်ခြင်း",
+    "definition": "The activity of buying things.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "かいもの",
+    "romaji": "kaimono",
+    "synonyms": ["ショッピング"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "今日(きょう)は買い物(かいもの)に行(い)きます。",
+        "pronunciation": "kyou wa kaimono ni ikimasu.",
+        "translation": "I will go shopping today."
+      },
+      {
+        "sentence": "スーパーで買い物(かいもの)をしました。",
+        "pronunciation": "suupaa de kaimono o shimashita.",
+        "translation": "I did shopping at the supermarket."
+      },
+      {
+        "sentence": "週末(しゅうまつ)はいつも買い物(かいもの)で混(こ)んでいます。",
+        "pronunciation": "shuumatsu wa itsumo kaimono de konde imasu.",
+        "translation": "It's always crowded with shopping on weekends."
+      },
+      {
+        "sentence": "インターネットで買い物(かいもの)をするのが便利(べんり)です。",
+        "pronunciation": "intaanetto de kaimono o suru no ga benri desu.",
+        "translation": "It's convenient to shop online."
+      },
+      {
+        "sentence": "何(なに)か買い物(かいもの)はありますか。",
+        "pronunciation": "nanika kaimono wa arimasu ka.",
+        "translation": "Is there anything to buy?"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "word": "会社",
+    "partsOfSpeech": "noun",
+    "categories": ["business"],
+    "english": "company, office",
+    "burmese": "ကုမ္ပဏီ၊ရုံး",
+    "definition": "A commercial business.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "かいしゃ",
+    "romaji": "kaisha",
+    "synonyms": ["企業", "事務所"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "私(わたし)は会社(かいしゃ)員(いん)です。",
+        "pronunciation": "watashi wa kaishain desu.",
+        "translation": "I am a company employee."
+      },
+      {
+        "sentence": "会社(かいしゃ)まで電車(でんしゃ)で通(かよ)っています。",
+        "pronunciation": "kaisha made densha de kayotte imasu.",
+        "translation": "I commute to the office by train."
+      },
+      {
+        "sentence": "会社(かいしゃ)で会議(かいぎ)があります。",
+        "pronunciation": "kaisha de kaigi ga arimasu.",
+        "translation": "There is a meeting at the office."
+      },
+      {
+        "sentence": "彼(かれ)は有名(ゆうめい)な会社(かいしゃ)に勤(つと)めています。",
+        "pronunciation": "kare wa yuumei na kaisha ni tsutomete imasu.",
+        "translation": "He works for a famous company."
+      },
+      {
+        "sentence": "会社(かいしゃ)の先輩(せんぱい)に相談(そうだん)しました。",
+        "pronunciation": "kaisha no senpai ni soudan shimashita.",
+        "translation": "I consulted with a senior colleague at the office."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "word": "漢字",
+    "partsOfSpeech": "noun",
+    "categories": ["language"],
+    "english": "kanji (Chinese character used in Japanese)",
+    "burmese": "ဂျပန်စာလုံး (ကန်ဂျီ)",
+    "definition": "Chinese characters used in the Japanese writing system.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "かんじ",
+    "romaji": "kannji",
+    "synonyms": [],
+    "antonyms": ["ひらがな", "カタカナ"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "漢字(かんじ)を覚(おぼ)えるのは難(むずか)しいです。",
+        "pronunciation": "kanji o oboeru no wa muzukashii desu.",
+        "translation": "Learning kanji is difficult."
+      },
+      {
+        "sentence": "この漢字(かんじ)の読(よ)み方(かた)を教(おし)えてください。",
+        "pronunciation": "kono kanji no yomikata o oshiete kudasai.",
+        "translation": "Please teach me how to read this kanji."
+      },
+      {
+        "sentence": "毎日(まいにち)漢字(かんじ)を勉強(べんきょう)しています。",
+        "pronunciation": "mainichi kanji o benkyou shite imasu.",
+        "translation": "I study kanji every day."
+      },
+      {
+        "sentence": "たくさん漢字(かんじ)を知(し)っていますね。",
+        "pronunciation": "takusan kanji o shitte imasu ne.",
+        "translation": "You know a lot of kanji."
+      },
+      {
+        "sentence": "この文章(ぶんしょう)は漢字(かんじ)がたくさん使(つか)われています。",
+        "pronunciation": "kono bunshou wa kanji ga takusan tsukawarete imasu.",
+        "translation": "This sentence uses a lot of kanji."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "word": "体",
+    "partsOfSpeech": "noun",
+    "categories": ["body"],
+    "english": "body",
+    "burmese": "ခန္ဓာကိုယ်",
+    "definition": "The physical structure of a person or animal, including the bones, flesh, and organs.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "からだ",
+    "romaji": "karada",
+    "synonyms": ["身体"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "体(からだ)の調子(ちょうし)が悪(わる)いです。",
+        "pronunciation": "karada no choushi ga warui desu.",
+        "translation": "I don't feel well."
+      },
+      {
+        "sentence": "体(からだ)を動(うご)かすのは大切(たいせつ)です。",
+        "pronunciation": "karada o ugokasu no wa taisetsu desu.",
+        "translation": "It is important to exercise your body."
+      },
+      {
+        "sentence": "体(からだ)に気(き)をつけてください。",
+        "pronunciation": "karada ni ki o tsukete kudasai.",
+        "translation": "Please take care of yourself."
+      },
+      {
+        "sentence": "健康(けんこう)な体(からだ)を保(たも)ちたいです。",
+        "pronunciation": "kenkou na karada o tamochitai desu.",
+        "translation": "I want to maintain a healthy body."
+      },
+      {
+        "sentence": "体(からだ)が疲(つか)れました。",
+        "pronunciation": "karada ga tsukaremashita.",
+        "translation": "My body is tired."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "word": "火曜日",
+    "partsOfSpeech": "noun",
+    "categories": ["days of the week"],
+    "english": "Tuesday",
+    "burmese": "အင်္ဂါနေ့",
+    "definition": "The day of the week following Monday and preceding Wednesday.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "かようび",
+    "romaji": "kayoubi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "火曜日(かようび)に図書館(としょかん)へ行(い)きます。",
+        "pronunciation": "kayoubi ni toshokan e ikimasu.",
+        "translation": "I will go to the library on Tuesday."
+      },
+      {
+        "sentence": "今日(きょう)は火曜日(かようび)です。",
+        "pronunciation": "kyou wa kayoubi desu.",
+        "translation": "Today is Tuesday."
+      },
+      {
+        "sentence": "火曜日(かようび)は忙(いそが)しいです。",
+        "pronunciation": "kayoubi wa isogashii desu.",
+        "translation": "Tuesday is busy."
+      },
+      {
+        "sentence": "先週(せんしゅう)の火曜日(かようび)に会(あ)いました。",
+        "pronunciation": "senshuu no kayoubi ni aimashita.",
+        "translation": "I met him last Tuesday."
+      },
+      {
+        "sentence": "来週(らいしゅう)の火曜日(かようび)にテストがあります。",
+        "pronunciation": "raishuu no kayoubi ni tesuto ga arimasu.",
+        "translation": "There will be a test next Tuesday."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "word": "風",
+    "partsOfSpeech": "noun",
+    "categories": ["weather"],
+    "english": "wind",
+    "burmese": "လေ",
+    "definition": "A natural movement of the air of any velocity; a breeze.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "かぜ",
+    "romaji": "kaze",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "強(つよ)い風(かぜ)が吹(ふ)いています。",
+        "pronunciation": "tsuyoi kaze ga fuite imasu.",
+        "translation": "A strong wind is blowing."
+      },
+      {
+        "sentence": "風(かぜ)が冷(つめ)たいです。",
+        "pronunciation": "kaze ga tsumetai desu.",
+        "translation": "The wind is cold."
+      },
+      {
+        "sentence": "風(かぜ)で木(き)の葉(は)が揺(ゆ)れています。",
+        "pronunciation": "kaze de ki no ha ga yurete imasu.",
+        "translation": "The leaves on the trees are swaying in the wind."
+      },
+      {
+        "sentence": "窓(まど)を開(あ)けて風(かぜ)を入(い)れましょう。",
+        "pronunciation": "mado o akete kaze o iremashou.",
+        "translation": "Let's open the window and let the wind in."
+      },
+      {
+        "sentence": "風(かぜ)の音(おと)が聞(き)こえます。",
+        "pronunciation": "kaze no oto ga kikoemasu.",
+        "translation": "I can hear the sound of the wind."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "word": "家族",
+    "partsOfSpeech": "noun",
+    "categories": ["family"],
+    "english": "family",
+    "burmese": "မိသားစု",
+    "definition": "A group consisting of parents and children living together in a household.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "かぞく",
+    "romaji": "kazoku",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "私(わたし)の家族(かぞく)は四人(よにん)です。",
+        "pronunciation": "watashi no kazoku wa yonin desu.",
+        "translation": "There are four people in my family."
+      },
+      {
+        "sentence": "家族(かぞく)と一緒(いっしょ)に夕食(ゆうしょく)を食(た)べました。",
+        "pronunciation": "kazoku to issho ni yuushoku o tabemashita.",
+        "translation": "I had dinner with my family."
+      },
+      {
+        "sentence": "家族(かぞく)は私(わたし)にとって大切(たいせつ)な存在(そんざい)です。",
+        "pronunciation": "kazoku wa watashi ni totte taisetsu na sonzai desu.",
+        "translation": "Family is important to me."
+      },
+      {
+        "sentence": "週末(しゅうまつ)は家族(かぞく)と過(す)ごします。",
+        "pronunciation": "shuumatsu wa kazoku to sugoshimasu.",
+        "translation": "I spend the weekend with my family."
+      },
+      {
+        "sentence": "家族(かぞく)の写真(しゃしん)を見(み)ています。",
+        "pronunciation": "kazoku no shashin o mite imasu.",
+        "translation": "I am looking at family photos."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "word": "警察",
+    "partsOfSpeech": "noun",
+    "categories": ["government", "safety"],
+    "english": "police",
+    "burmese": "ရဲ",
+    "definition": "The civil force of a state, responsible for the prevention and detection of crime and the maintenance of public order.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "けいさつ",
+    "romaji": "keisatsu",
+    "synonyms": ["警官"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "警察(けいさつ)に電話(でんわ)しました。",
+        "pronunciation": "keisatsu ni denwa shimashita.",
+        "translation": "I called the police."
+      },
+      {
+        "sentence": "警察官(けいさつかん)が道(みち)を案内(あんない)してくれました。",
+        "pronunciation": "keisatsukan ga michi o annai shite kuremashita.",
+        "translation": "A police officer showed me the way."
+      },
+      {
+        "sentence": "事件(じけん)について警察(けいさつ)が捜査(そうさ)しています。",
+        "pronunciation": "jiken ni tsuite keisatsu ga sousa shite imasu.",
+        "translation": "The police are investigating the incident."
+      },
+      {
+        "sentence": "困(こま)った時(とき)は警察(けいさつ)に頼(たよ)ってください。",
+        "pronunciation": "komatta toki wa keisatsu ni tayotte kudasai.",
+        "translation": "Please rely on the police when you are in trouble."
+      },
+      {
+        "sentence": "警察署(けいさつしょ)はどこにありますか。",
+        "pronunciation": "keisatsusho wa doko ni arimasu ka.",
+        "translation": "Where is the police station?"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "word": "結婚",
+    "partsOfSpeech": "noun",
+    "categories": ["relationships"],
+    "english": "marriage",
+    "burmese": "အိမ်ထောင်ပြုခြင်း",
+    "definition": "The legally or formally recognized union of two people as partners in a personal relationship.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "けっこん",
+    "romaji": "kekkonn",
+    "synonyms": ["婚姻"],
+    "antonyms": ["離婚"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "彼(かれ)らは結婚(けっこん)しました。",
+        "pronunciation": "karera wa kekkon shimashita.",
+        "translation": "They got married."
+      },
+      {
+        "sentence": "結婚(けっこん)の予定(よてい)はありますか。",
+        "pronunciation": "kekkon no yotei wa arimasu ka.",
+        "translation": "Do you have any plans for marriage?"
+      },
+      {
+        "sentence": "結婚式(けっこんしき)はいつですか。",
+        "pronunciation": "kekkonshiki wa itsu desu ka.",
+        "translation": "When is the wedding ceremony?"
+      },
+      {
+        "sentence": "結婚(けっこん)して幸(しあわ)せな生活(せいかつ)を送(おく)っています。",
+        "pronunciation": "kekkon shite shiawase na seikatsu o okutte imasu.",
+        "translation": "I am living a happy life after getting married."
+      },
+      {
+        "sentence": "結婚(けっこん)について考(かんが)えています。",
+        "pronunciation": "kekkon ni tsuite kangaete imasu.",
+        "translation": "I am thinking about marriage."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "word": "北",
+    "partsOfSpeech": "noun",
+    "categories": ["directions"],
+    "english": "north",
+    "burmese": "မြောက်",
+    "definition": "The direction opposite south.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "きた",
+    "romaji": "kita",
+    "synonyms": [],
+    "antonyms": ["南"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "北海道(ほっかいどう)は日本(にほん)の北(きた)にあります。",
+        "pronunciation": "hokkaidou wa nihon no kita ni arimasu.",
+        "translation": "Hokkaido is in the north of Japan."
+      },
+      {
+        "sentence": "北(きた)の空(そら)は曇(くも)っています。",
+        "pronunciation": "kita no sora wa kumotte imasu.",
+        "translation": "The northern sky is cloudy."
+      },
+      {
+        "sentence": "北(きた)へ進(すす)んでください。",
+        "pronunciation": "kita e susunde kudasai.",
+        "translation": "Please go north."
+      },
+      {
+        "sentence": "北(きた)の風(かぜ)は強(つよ)いです。",
+        "pronunciation": "kita no kaze wa tsuyoi desu.",
+        "translation": "The north wind is strong."
+      },
+      {
+        "sentence": "北(きた)の国(くに)は寒(さむ)いです。",
+        "pronunciation": "kita no kuni wa samui desu.",
+        "translation": "Northern countries are cold."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "word": "切手",
+    "partsOfSpeech": "noun",
+    "categories": ["stationery"],
+    "english": "postage stamp",
+    "burmese": "တံဆိပ်ခေါင်း",
+    "definition": "A small adhesive piece of paper indicating prepayment of postage.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "きって",
+    "romaji": "kitte",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "手紙(てがみ)に切手(きって)を貼(は)りました。",
+        "pronunciation": "tegami ni kitte o harimashita.",
+        "translation": "I put a stamp on the letter."
+      },
+      {
+        "sentence": "切手(きって)はどこで買(か)えますか。",
+        "pronunciation": "kitte wa doko de kaemasu ka.",
+        "translation": "Where can I buy stamps?"
+      },
+      {
+        "sentence": "綺麗(きれい)な切手(きって)ですね。",
+        "pronunciation": "kirei na kitte desu ne.",
+        "translation": "What a beautiful stamp."
+      },
+      {
+        "sentence": "切手(きって)が足(た)りません。",
+        "pronunciation": "kitte ga tarimasen.",
+        "translation": "I don't have enough stamps."
+      },
+      {
+        "sentence": "趣味(しゅみ)で切手(きって)を集(あつ)めています。",
+        "pronunciation": "shumi de kitte o atsumete imasu.",
+        "translation": "I collect stamps as a hobby."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "word": "声",
+    "partsOfSpeech": "noun",
+    "categories": ["sound"],
+    "english": "voice",
+    "burmese": "အသံ",
+    "definition": "The sound produced in a person's larynx and uttered through the mouth, as speech or song.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "こえ",
+    "romaji": "koe",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "彼(かれ)の声(こえ)はとても優(やさ)しいです。",
+        "pronunciation": "kare no koe wa totemo yasashii desu.",
+        "translation": "His voice is very gentle."
+      },
+      {
+        "sentence": "大(おお)きい声(こえ)で呼(よ)びました。",
+        "pronunciation": "ookii koe de yobimashita.",
+        "translation": "I called out in a loud voice."
+      },
+      {
+        "sentence": "声(こえ)が小(ちい)さいので聞(き)こえません。",
+        "pronunciation": "koe ga chiisai node kikoemasen.",
+        "translation": "Your voice is too soft, I can't hear you."
+      },
+      {
+        "sentence": "電話(でんわ)の声(こえ)で誰(だれ)だかわかりました。",
+        "pronunciation": "denwa no koe de dare da ka wakarimashita.",
+        "translation": "I recognized who it was by the voice on the phone."
+      },
+      {
+        "sentence": "声(こえ)が出(で)なくなりました。",
+        "pronunciation": "koe ga denaku narimashita.",
+        "translation": "I lost my voice."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "word": "言葉",
+    "partsOfSpeech": "noun",
+    "categories": ["language"],
+    "english": "word, language",
+    "burmese": "စကားလုံး",
+    "definition": "A single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ことば",
+    "romaji": "kotoba",
+    "synonyms": ["単語", "言語"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "難(むずか)しい言葉(ことば)を使(つか)わないでください。",
+        "pronunciation": "muzukashii kotoba o tsukawanaide kudasai.",
+        "translation": "Please don't use difficult words."
+      },
+      {
+        "sentence": "彼(かれ)の言葉(ことば)は心(こころ)に響(ひび)きました。",
+        "pronunciation": "kare no kotoba wa kokoro ni hibikimashita.",
+        "translation": "His words resonated with me."
+      },
+      {
+        "sentence": "言葉(ことば)の壁(かべ)を感(かん)じます。",
+        "pronunciation": "kotoba no kabe o kanjimasu.",
+        "translation": "I feel a language barrier."
+      },
+      {
+        "sentence": "新(あたら)しい言葉(ことば)を覚(おぼ)えるのは楽(たの)しいです。",
+        "pronunciation": "atarashii kotoba o oboeru no wa tanoshii desu.",
+        "translation": "Learning new words is fun."
+      },
+      {
+        "sentence": "言葉(ことば)で気持(きも)ちを伝(つた)えるのは難(むずか)しいです。",
+        "pronunciation": "kotoba de kimochi o tsutaeru no wa muzukashii desu.",
+        "translation": "It is difficult to convey feelings with words."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "word": "紅茶",
+    "partsOfSpeech": "noun",
+    "categories": ["drinks"],
+    "english": "black tea",
+    "burmese": "လက်ဖက်ရည်ကြမ်း",
+    "definition": "Tea that is more oxidized than oolong, green, and white teas.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "こうちゃ",
+    "romaji": "koucha",
+    "synonyms": [],
+    "antonyms": ["緑茶"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "紅茶(こうちゃ)はいかがですか。",
+        "pronunciation": "koucha wa ikaga desu ka.",
+        "translation": "Would you like some black tea?"
+      },
+      {
+        "sentence": "温(あたた)かい紅茶(こうちゃ)を飲(の)んで体(からだ)を温(あたため)ました。",
+        "pronunciation": "atatakai koucha o nonde karada o atatamemashita.",
+        "translation": "I drank warm black tea to warm up."
+      },
+      {
+        "sentence": "紅茶(こうちゃ)に砂糖(さとう)とミルクを入(い)れますか。",
+        "pronunciation": "koucha ni satou to miruku o iremasu ka.",
+        "translation": "Do you take sugar and milk in your black tea?"
+      },
+      {
+        "sentence": "午後(ごご)は紅茶(こうちゃ)を飲(の)むのが習慣(しゅうかん)です。",
+        "pronunciation": "gogo wa koucha o nomu no ga shuukan desu.",
+        "translation": "It is my habit to drink black tea in the afternoon."
+      },
+      {
+        "sentence": "この紅茶(こうちゃ)はとてもいい香(かお)りがします。",
+        "pronunciation": "kono koucha wa totemo ii kaori ga shimasu.",
+        "translation": "This black tea smells very good."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "word": "果物",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "fruit",
+    "burmese": "သစ်သီး",
+    "definition": "The sweet and fleshy product of a tree or other plant that contains seed(s) and can be eaten as food.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "くだもの",
+    "romaji": "kudamono",
+    "synonyms": ["フルーツ"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "果物(くだもの)の中(なか)で何(なに)が一番(いちばん)好(す)きですか。",
+        "pronunciation": "kudamono no naka de nani ga ichiban suki desu ka.",
+        "translation": "What is your favorite fruit?"
+      },
+      {
+        "sentence": "毎日(まいにち)果物(くだもの)を食(た)べるようにしています。",
+        "pronunciation": "mainichi kudamono o taberu you ni shite imasu.",
+        "translation": "I try to eat fruit every day."
+      },
+      {
+        "sentence": "この果物(くだもの)は甘(あま)くて美味しい(おいしい)です。",
+        "pronunciation": "kono kudamono wa amakute oishii desu.",
+        "translation": "This fruit is sweet and delicious."
+      },
+      {
+        "sentence": "果物(くだもの)をたくさんもらいました。",
+        "pronunciation": "kudamono o takusan moraimashita.",
+        "translation": "I received a lot of fruit."
+      },
+      {
+        "sentence": "冷蔵庫(れいぞうこ)にいろいろな果物(くだもの)が入(はい)っています。",
+        "pronunciation": "reizouko ni iroiro na kudamono ga haitte imasu.",
+        "translation": "There are various kinds of fruit in the refrigerator."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "word": "曇り",
+    "partsOfSpeech": "noun",
+    "categories": ["weather"],
+    "english": "cloudy weather",
+    "burmese": "တိမ်ထူသောရာသီဥတု",
+    "definition": "Weather with many clouds.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "くもり",
+    "romaji": "kumori",
+    "synonyms": ["薄曇り"],
+    "antonyms": ["晴れ"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "今日(きょう)は曇(くも)りです。",
+        "pronunciation": "kyou wa kumori desu.",
+        "translation": "It is cloudy today."
+      },
+      {
+        "sentence": "曇(くも)りの日(ひ)は少(すこ)し涼(すず)しいです。",
+        "pronunciation": "kumori no hi wa sukoshi suzushii desu.",
+        "translation": "Cloudy days are a little cooler."
+      },
+      {
+        "sentence": "明日(あした)は曇(くも)りの予報(よほう)です。",
+        "pronunciation": "ashita wa kumori no yohou desu.",
+        "translation": "The forecast for tomorrow is cloudy."
+      },
+      {
+        "sentence": "空(そら)一面(いちめん)に雲(くも)が広がっています。",
+        "pronunciation": "sora ichimen ni kumo ga hirogatte imasu.",
+        "translation": "Clouds are spread all over the sky."
+      },
+      {
+        "sentence": "曇(くも)り空(ぞら)の下(した)を散歩(さんぽ)しました。",
+        "pronunciation": "kumorizora no shita o sanpo shimashita.",
+        "translation": "I took a walk under the cloudy sky."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "word": "兄弟",
+    "partsOfSpeech": "noun",
+    "categories": ["family"],
+    "english": "siblings, brothers",
+    "burmese": "မောင်နှမများ",
+    "definition": "Two or more people related to each other by blood or marriage; especially sons of the same parents.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "きょうだい",
+    "romaji": "kyoudai",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "私(わたし)には二人(ふたり)の兄弟(きょうだい)がいます。",
+        "pronunciation": "watashi ni wa futari no kyoudai ga imasu.",
+        "translation": "I have two siblings."
+      },
+      {
+        "sentence": "彼(かれ)らは仲(なか)の良い兄弟(きょうだい)です。",
+        "pronunciation": "karera wa naka no yoi kyoudai desu.",
+        "translation": "They are siblings who get along well."
+      },
+      {
+        "sentence": "兄弟(きょうだい)で協力(きょうりょく)して両親(りょうしん)を助(たす)けました。",
+        "pronunciation": "kyoudai de kyouryoku shite ryoushin o tasukemashita.",
+        "translation": "The siblings cooperated to help their parents."
+      },
+      {
+        "sentence": "兄弟(きょうだい)はみんな大人(おとな)になりました。",
+        "pronunciation": "kyoudai wa minna otona ni narimashita.",
+        "translation": "All the siblings have become adults."
+      },
+      {
+        "sentence": "兄弟(きょうだい)でよく遊(あそ)びました。",
+        "pronunciation": "kyoudai de yoku asobimashita.",
+        "translation": "We siblings often played together."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "word": "教室",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "education"],
+    "english": "classroom",
+    "burmese": "စာသင်ခန်း",
+    "definition": "A room in a school where teaching takes place.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "教室(きょうしつ)で勉強(べんきょう)します。",
+        "pronunciation": "kyoushitsu de benkyou shimasu.",
+        "translation": "I will study in the classroom."
+      },
+      {
+        "sentence": "教室(きょうしつ)には机(つくえ)と椅子(いす)がたくさんあります。",
+        "pronunciation": "kyoushitsu ni wa tsukue to isu ga takusan arimasu.",
+        "translation": "There are many desks and chairs in the classroom."
+      },
+      {
+        "sentence": "教室(きょうしつ)を綺麗(きれい)に掃除(そうじ)しましょう。",
+        "pronunciation": "kyoushitsu o kirei ni souji shimashou.",
+        "translation": "Let's clean the classroom neatly."
+      },
+      {
+        "sentence": "教室(きょうしつ)で先生(せんせい)が話(はなし)ています。",
+        "pronunciation": "kyoushitsu de sensei ga hanashite imasu.",
+        "translation": "The teacher is talking in the classroom."
+      },
+      {
+        "sentence": "教室(きょうしつ)の窓(まど)を開(あ)けてください。",
+        "pronunciation": "kyoushitsu no mado o akete kudasai.",
+        "translation": "Please open the classroom window."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "word": "外国",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "foreign country",
+    "burmese": "နိုင်ငံခြား",
+    "definition": "A country other than one's own.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "がいこく",
+    "romaji": "gaikoku",
+    "synonyms": ["海外"],
+    "antonyms": ["自国", "国内"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "外国(がいこく)へ旅行(りょこう)に行(い)きたいです。",
+        "pronunciation": "gaikoku e ryokou ni ikitai desu.",
+        "translation": "I want to travel to a foreign country."
+      },
+      {
+        "sentence": "外国語(がいこくご)を勉強(べんきょう)するのは面白(おもしろ)いです。",
+        "pronunciation": "gaikokugo o benkyou suru no wa omoshiroi desu.",
+        "translation": "Studying foreign languages is interesting."
+      },
+      {
+        "sentence": "外国(がいこく)の文化(ぶんか)に興味(きょうみ)があります。",
+        "pronunciation": "gaikoku no bunka ni kyoumi ga arimasu.",
+        "translation": "I am interested in foreign cultures."
+      },
+      {
+        "sentence": "外国(がいこく)に住(す)んだことがあります。",
+        "pronunciation": "gaikoku ni sunda koto ga arimasu.",
+        "translation": "I have lived in a foreign country before."
+      },
+      {
+        "sentence": "彼(かれ)は外国(がいこく)の大学(だいがく)を卒業(そつぎょう)しました。",
+        "pronunciation": "kare wa gaikoku no daigaku o sotsugyou shimashita.",
+        "translation": "He graduated from a foreign university."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "word": "玄関",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "entrance hall, entryway",
+    "burmese": "အိမ်ဦးခန်း။ဝင်ပေါက်",
+    "definition": "An entrance hall or area just inside the front door of a house or building.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "げんかん",
+    "romaji": "gennkann",
+    "synonyms": ["入口"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "玄関(げんかん)で靴(くつ)を脱(ぬ)いでください。",
+        "pronunciation": "genkan de kutsu o nuide kudasai.",
+        "translation": "Please take off your shoes at the entrance."
+      },
+      {
+        "sentence": "玄関(げんかん)に傘(かさ)が置いてあります。",
+        "pronunciation": "genkan ni kasa ga oite arimasu.",
+        "translation": "There is an umbrella in the entrance hall."
+      },
+      {
+        "sentence": "誰(だれ)かが玄関(げんかん)のベルを鳴(な)らしました。",
+        "pronunciation": "dareka ga genkan no beru o narashimashita.",
+        "translation": "Someone rang the doorbell."
+      },
+      {
+        "sentence": "玄関(げんかん)を綺麗(きれい)に掃除(そうじ)しました。",
+        "pronunciation": "genkan o kirei ni souji shimashita.",
+        "translation": "I cleaned the entrance hall neatly."
+      },
+      {
+        "sentence": "玄関(げんかん)で友達(ともだち)を見送(みおく)りました。",
+        "pronunciation": "genkan de tomodachi o miokurimashita.",
+        "translation": "I saw my friend off at the entrance."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "word": "元気",
+    "partsOfSpeech": "noun",
+    "categories": ["health", "feelings"],
+    "english": "health, energy, cheerful",
+    "burmese": "ကျန်းမာခြင်း။ စွမ်းအင်ရှိသော။ ရွှင်လန်းသော",
+    "definition": "In good health; full of energy; cheerful.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "げんき",
+    "romaji": "gennki",
+    "synonyms": ["健康", "活気"],
+    "antonyms": ["病気", "元気がない"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "お元気(げんき)ですか。",
+        "pronunciation": "ogenki desu ka.",
+        "translation": "How are you?"
+      },
+      {
+        "sentence": "私(わたし)は元気(げんき)です。",
+        "pronunciation": "watashi wa genki desu.",
+        "translation": "I am fine."
+      },
+      {
+        "sentence": "元気(げんき)を出(だ)してください。",
+        "pronunciation": "genki o dashite kudasai.",
+        "translation": "Please cheer up."
+      },
+      {
+        "sentence": "彼(かれ)はいつも元気(げんき)いっぱいです。",
+        "pronunciation": "kare wa itsumo genki ippai desu.",
+        "translation": "He is always full of energy."
+      },
+      {
+        "sentence": "元気(げんき)な声(こえ)で挨拶(あいさつ)しました。",
+        "pronunciation": "genki na koe de aisatsu shimashita.",
+        "translation": "I greeted him in a cheerful voice."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "word": "月曜日",
+    "partsOfSpeech": "noun",
+    "categories": ["days of the week"],
+    "english": "Monday",
+    "burmese": "တနင်္လာနေ့",
+    "definition": "The day of the week following Sunday and preceding Tuesday.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "げつようび",
+    "romaji": "gettsuyoubi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "月曜日(げつようび)は仕事(しごと)が忙(いそが)しいです。",
+        "pronunciation": "gettsuyoubi wa shigoto ga isogashii desu.",
+        "translation": "Monday is a busy day at work."
+      },
+      {
+        "sentence": "今日(きょう)は月曜日(げつようび)です。",
+        "pronunciation": "kyou wa gettsuyoubi desu.",
+        "translation": "Today is Monday."
+      },
+      {
+        "sentence": "月曜日(げつようび)から一週間(いっしゅうかん)が始(はじ)まります。",
+        "pronunciation": "gettsuyoubi kara isshuukan ga hajimarimasu.",
+        "translation": "The week starts on Monday."
+      },
+      {
+        "sentence": "先週(せんしゅう)の月曜日(げつようび)は雨(あめ)でした。",
+        "pronunciation": "senshuu no gettsuyoubi wa ame deshita.",
+        "translation": "Last Monday it rained."
+      },
+      {
+        "sentence": "来週(らいしゅう)の月曜日(げつようび)に会議(かいぎ)があります。",
+        "pronunciation": "raishuu no gettsuyoubi ni kaigi ga arimasu.",
+        "translation": "There will be a meeting next Monday."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "word": "午後",
+    "partsOfSpeech": "noun",
+    "categories": ["time"],
+    "english": "afternoon",
+    "burmese": "မွန်းလွဲ",
+    "definition": "The part of the day from noon until evening.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ごご",
+    "romaji": "gogo",
+    "synonyms": [],
+    "antonyms": ["午前"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "午後(ごご)一時(いちじ)に会(あ)いましょう。",
+        "pronunciation": "gogo ichiji ni aimashou.",
+        "translation": "Let's meet at 1 p.m."
+      },
+      {
+        "sentence": "午後(ごご)は雨(あめ)が降(ふ)るかもしれません。",
+        "pronunciation": "gogo wa ame ga furu kamoshiremasen.",
+        "translation": "It might rain in the afternoon."
+      },
+      {
+        "sentence": "午後(ごご)は家(いえ)でゆっくり過(す)ごしました。",
+        "pronunciation": "gogo wa ie de yukkuri sugoshimashita.",
+        "translation": "I spent the afternoon relaxing at home."
+      },
+      {
+        "sentence": "午後(ごご)から会議(かいぎ)が始(はじ)まります。",
+        "pronunciation": "gogo kara kaigi ga hajimarimasu.",
+        "translation": "The meeting will start in the afternoon."
+      },
+      {
+        "sentence": "昨日(きのう)の午後(ごご)は何(なに)をしていましたか。",
+        "pronunciation": "kinou no gogo wa nani o shite imashita ka.",
+        "translation": "What were you doing yesterday afternoon?"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "word": "御飯",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "cooked rice, meal",
+    "burmese": "ထမင်း, အစားအစာ",
+    "definition": "Cooked rice; a meal.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "polite",
+    "pronunciation": "ごはん",
+    "romaji": "gohann",
+    "synonyms": ["米", "食事"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "御飯(ごはん)を食(た)べましょう。",
+        "pronunciation": "gohan o tabemashou.",
+        "translation": "Let's eat a meal."
+      },
+      {
+        "sentence": "朝御飯(あさごはん)は何(なに)にしますか。",
+        "pronunciation": "asagohan wa nani ni shimasu ka.",
+        "translation": "What will you have for breakfast?"
+      },
+      {
+        "sentence": "晩御飯(ばんごはん)はもう済(す)みましたか。",
+        "pronunciation": "bangohan wa mou sumimashita ka.",
+        "translation": "Have you finished dinner yet?"
+      },
+      {
+        "sentence": "美味(おい)しい御飯(ごはん)をありがとうございます。",
+        "pronunciation": "oishii gohan o arigatou gozaimasu.",
+        "translation": "Thank you for the delicious meal."
+      },
+      {
+        "sentence": "御飯(ごはん)のおかわりはいかがですか。",
+        "pronunciation": "gohan no okawari wa ikaga desu ka.",
+        "translation": "Would you like a refill of rice?"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "word": "午前",
+    "partsOfSpeech": "noun",
+    "categories": ["time"],
+    "english": "morning",
+    "burmese": "နံနက်",
+    "definition": "The part of the day from midnight or dawn to noon.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ごぜん",
+    "romaji": "gozenn",
+    "synonyms": [],
+    "antonyms": ["午後"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "午前(ごぜん)九時(くじ)に起(お)きました。",
+        "pronunciation": "gozen kuji ni okimashita.",
+        "translation": "I woke up at 9 a.m."
+      },
+      {
+        "sentence": "午前中(ごぜんちゅう)に宿題(しゅくだい)を終(お)わらせました。",
+        "pronunciation": "gozenchuu ni shukudai o owarasemashita.",
+        "translation": "I finished my homework in the morning."
+      },
+      {
+        "sentence": "午前(ごぜん)は図書館(としょかん)で勉強(べんきょう)しました。",
+        "pronunciation": "gozen wa toshokan de benkyou shimashita.",
+        "translation": "I studied at the library in the morning."
+      },
+      {
+        "sentence": "明日(あした)の午前(ごぜん)に電話(でんわ)します。",
+        "pronunciation": "ashita no gozen ni denwa shimasu.",
+        "translation": "I will call you tomorrow morning."
+      },
+      {
+        "sentence": "毎朝(まいあさ)午前(ごぜん)六時(ろくじ)に起(お)きます。",
+        "pronunciation": "maiasa gozen rokuji ni okimasu.",
+        "translation": "I wake up at 6 a.m. every morning."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "word": "番号",
+    "partsOfSpeech": "noun",
+    "categories": ["numbers"],
+    "english": "number",
+    "burmese": "နံပါတ်",
+    "definition": "A figure or symbol used to identify or label something.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ばんごう",
+    "romaji": "banngou",
+    "synonyms": ["ナンバー"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "電話(でんわ)番号(ばんごう)は何番(なんばん)ですか。",
+        "pronunciation": "denwa bangou wa nanban desu ka.",
+        "translation": "What is your phone number?"
+      },
+      {
+        "sentence": "整理(せいり)番号(ばんごう)を受(う)け取(と)りました。",
+        "pronunciation": "seiri bangou o uketorimashita.",
+        "translation": "I received a queue number."
+      },
+      {
+        "sentence": "この番号(ばんごう)に電話(でんわ)してください。",
+        "pronunciation": "kono bangou ni denwa shite kudasai.",
+        "translation": "Please call this number."
+      },
+      {
+        "sentence": "会員(かいいん)番号(ばんごう)を入力(にゅうりょく)してください。",
+        "pronunciation": "kaiin bangou o nyuuryoku shite kudasai.",
+        "translation": "Please enter your membership number."
+      },
+      {
+        "sentence": "私(わたし)の席(せき)の番号(ばんごう)は15番(じゅうごばん)です。",
+        "pronunciation": "watashi no seki no bangou wa juugoban desu.",
+        "translation": "My seat number is 15."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "word": "帽子",
+    "partsOfSpeech": "noun",
+    "categories": ["clothing"],
+    "english": "hat, cap",
+    "burmese": "ဦးထုပ်",
+    "definition": "A covering for the head, typically having a brim or visor.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ぼうし",
+    "romaji": "boushi",
+    "synonyms": ["キャップ"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "帽子(ぼうし)を被(かぶ)ってください。",
+        "pronunciation": "boushi o kabutte kudasai.",
+        "translation": "Please wear a hat."
+      },
+      {
+        "sentence": "帽子(ぼうし)を忘(わす)れてしまいました。",
+        "pronunciation": "boushi o wasurete shimaimashita.",
+        "translation": "I forgot my hat."
+      },
+      {
+        "sentence": "彼(かれ)はいつも帽子(ぼうし)を被(かぶ)っています。",
+        "pronunciation": "kare wa itsumo boushi o kabutte imasu.",
+        "translation": "He always wears a hat."
+      },
+      {
+        "sentence": "この帽子(ぼうし)はとても似合(にあ)っています。",
+        "pronunciation": "kono boushi wa totemo niatte imasu.",
+        "translation": "This hat suits you very well."
+      },
+      {
+        "sentence": "帽子(ぼうし)を選(えら)ぶのに時間(じかん)がかかりました。",
+        "pronunciation": "boushi o erabu no ni jikan ga kakarimashita.",
+        "translation": "It took time to choose a hat."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "word": "茶色",
+    "partsOfSpeech": "noun",
+    "categories": ["colors"],
+    "english": "brown",
+    "burmese": "အညိုရောင်",
+    "definition": "A color produced by mixing red, yellow, and blue.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ちゃいろ",
+    "romaji": "chairo",
+    "synonyms": ["褐色"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "茶色(ちゃいろ)の犬(いぬ)を飼(か)っています。",
+        "pronunciation": "chairo no inu o katte imasu.",
+        "translation": "I have a brown dog."
+      },
+      {
+        "sentence": "茶色(ちゃいろ)の靴(くつ)が欲(ほ)しいです。",
+        "pronunciation": "chairo no kutsu ga hoshii desu.",
+        "translation": "I want brown shoes."
+      },
+      {
+        "sentence": "このテーブルは茶色(ちゃいろ)です。",
+        "pronunciation": "kono teeburu wa chairo desu.",
+        "translation": "This table is brown."
+      },
+      {
+        "sentence": "茶色(ちゃいろ)の葉(は)が落(お)ちています。",
+        "pronunciation": "chairo no ha ga ochite imasu.",
+        "translation": "Brown leaves are falling."
+      },
+      {
+        "sentence": "彼女(かのじょ)は茶色(ちゃいろ)の目(め)をしています。",
+        "pronunciation": "kanojo wa chairo no me o shite imasu.",
+        "translation": "She has brown eyes."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "word": "台所",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "kitchen",
+    "burmese": "မီးဖိုချောင်",
+    "definition": "A room or area where food is prepared and cooked.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "だいどころ",
+    "romaji": "daidokoro",
+    "synonyms": ["キッチン"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "台所(だいどころ)で料理(りょうり)をします。",
+        "pronunciation": "daidokoro de ryouri o shimasu.",
+        "translation": "I will cook in the kitchen."
+      },
+      {
+        "sentence": "台所(だいどころ)は綺麗(きれい)に掃除(そうじ)されています。",
+        "pronunciation": "daidokoro wa kirei ni souji sarete imasu.",
+        "translation": "The kitchen is cleaned neatly."
+      },
+      {
+        "sentence": "台所(だいどころ)に冷蔵庫(れいぞうこ)があります。",
+        "pronunciation": "daidokoro ni reizouko ga arimasu.",
+        "translation": "There is a refrigerator in the kitchen."
+      },
+      {
+        "sentence": "台所(だいどころ)の窓(まど)を開(あ)けてください。",
+        "pronunciation": "daidokoro no mado o akete kudasai.",
+        "translation": "Please open the kitchen window."
+      },
+      {
+        "sentence": "台所(だいどころ)で何(なに)かいい匂(にお)いがします。",
+        "pronunciation": "daidokoro de nanika ii nioi ga shimasu.",
+        "translation": "Something smells good in the kitchen."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "word": "出口",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "exit",
+    "burmese": "ထွက်ပေါက်",
+    "definition": "A way out of a place.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "でぐち",
+    "romaji": "deguchi",
+    "synonyms": ["非常口"],
+    "antonyms": ["入口"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "出口(でぐち)はこちらです。",
+        "pronunciation": "deguchi wa kochira desu.",
+        "translation": "The exit is this way."
+      },
+      {
+        "sentence": "非常(ひじょう)の際(さい)は、こちらの出口(でぐち)から避難(ひなん)してください。",
+        "pronunciation": "hijou no sai wa, kochira no deguchi kara hinan shite kudasai.",
+        "translation": "In case of emergency, please evacuate from this exit."
+      },
+      {
+        "sentence": "出口(でぐち)はどこですか。",
+        "pronunciation": "deguchi wa doko desu ka.",
+        "translation": "Where is the exit?"
+      },
+      {
+        "sentence": "出口(でぐち)に向(む)かって歩(ある)きました。",
+        "pronunciation": "deguchi ni mukatte arukimashita.",
+        "translation": "I walked towards the exit."
+      },
+      {
+        "sentence": "出口(でぐち)が少(すく)なくて混(こ)んでいます。",
+        "pronunciation": "deguchi ga sukunakute konde imasu.",
+        "translation": "There are few exits and it's crowded."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "word": "電気",
+    "partsOfSpeech": "noun",
+    "categories": ["technology"],
+    "english": "electricity, light",
+    "burmese": "လျှပ်စစ်, အလင်းရောင်",
+    "definition": "A form of energy resulting from the existence of charged particles (such as electrons or protons), either statically as an accumulation of charge or dynamically as a current.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "でんき",
+    "romaji": "dennki",
+    "synonyms": ["ライト", "照明"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "電気(でんき)を消(け)してください。",
+        "pronunciation": "denki o keshite kudasai.",
+        "translation": "Please turn off the light."
+      },
+      {
+        "sentence": "電気(でんき)がつかない。",
+        "pronunciation": "denki ga tsukanai.",
+        "translation": "The light doesn't turn on."
+      },
+      {
+        "sentence": "電気(でんき)代(だい)が高(たか)いです。",
+        "pronunciation": "denkidai ga takai desu.",
+        "translation": "The electricity bill is high."
+      },
+      {
+        "sentence": "電気(でんき)のスイッチはどこにありますか。",
+        "pronunciation": "denki no suitchi wa doko ni arimasu ka.",
+        "translation": "Where is the light switch?"
+      },
+      {
+        "sentence": "節電(せつでん)のために電気(でんき)をこまめに消(け)しましょう。",
+        "pronunciation": "setsuden no tame ni denki o komame ni keshimashou.",
+        "translation": "Let's turn off the lights frequently to save electricity."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "word": "土曜日",
+    "partsOfSpeech": "noun",
+    "categories": ["days of the week"],
+    "english": "Saturday",
+    "burmese": "စနေနေ့",
+    "definition": "The day of the week following Friday and preceding Sunday.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "どようび",
+    "romaji": "doyoubi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "土曜日(どようび)はゆっくり休(やす)みます。",
+        "pronunciation": "doyoubi wa yukkuri yasumimasu.",
+        "translation": "I will take a good rest on Saturday."
+      },
+      {
+        "sentence": "今日(きょう)は土曜日(どようび)です。",
+        "pronunciation": "kyou wa doyoubi desu.",
+        "translation": "Today is Saturday."
+      },
+      {
+        "sentence": "土曜日(どようび)に友達(ともだち)と会(あ)います。",
+        "pronunciation": "doyoubi ni tomodachi to aimasu.",
+        "translation": "I will meet my friends on Saturday."
+      },
+      {
+        "sentence": "先週(せんしゅう)の土曜日(どようび)は晴(は)れでした。",
+        "pronunciation": "senshuu no doyoubi wa hare deshita.",
+        "translation": "Last Saturday was sunny."
+      },
+      {
+        "sentence": "来週(らいしゅう)の土曜日(どようび)に旅行(りょこう)に行(い)きます。",
+        "pronunciation": "raishuu no doyoubi ni ryokou ni ikimasu.",
+        "translation": "I will go on a trip next Saturday."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "word": "映画",
+    "partsOfSpeech": "noun",
+    "categories": ["entertainment"],
+    "english": "movie, film",
+    "burmese": "ရုပ်ရှင်",
+    "definition": "A story or event recorded by a camera as a set of moving images and shown in a cinema or on television.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "えいが",
+    "romaji": "eiga",
+    "synonyms": ["フィルム", "ムービー"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "映画(えいが)を見(み)に行(い)きましょう。",
+        "pronunciation": "eiga o mi ni ikimashou.",
+        "translation": "Let's go see a movie."
+      },
+      {
+        "sentence": "面白(おもしろ)い映画(えいが)でした。",
+        "pronunciation": "omoshiroi eiga deshita.",
+        "translation": "It was an interesting movie."
+      },
+      {
+        "sentence": "どんな映画(えいが)が好(す)きですか。",
+        "pronunciation": "donna eiga ga suki desu ka.",
+        "translation": "What kind of movies do you like?"
+      },
+      {
+        "sentence": "映画館(えいがかん)はどこにありますか。",
+        "pronunciation": "eigakan wa doko ni arimasu ka.",
+        "translation": "Where is the movie theater?"
+      },
+      {
+        "sentence": "昨日(きのう)の夜(よる)に映画(えいが)を見(み)ました。",
+        "pronunciation": "kinou no yoru ni eiga o mimashita.",
+        "translation": "I watched a movie last night."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "word": "木曜日",
+    "partsOfSpeech": "noun",
+    "categories": ["days of the week"],
+    "english": "Thursday",
+    "burmese": "ကြာသပတေးနေ့",
+    "definition": "The day of the week following Wednesday and preceding Friday.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "もくようび",
+    "romaji": "mokuyoubi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "木曜日(もくようび)はテニススクールの日(ひ)です。",
+        "pronunciation": "mokuyoubi wa tenisu sukuuru no hi desu.",
+        "translation": "Thursday is my tennis school day."
+      },
+      {
+        "sentence": "今日(きょう)は木曜日(もくようび)です。",
+        "pronunciation": "kyou wa mokuyoubi desu.",
+        "translation": "Today is Thursday."
+      },
+      {
+        "sentence": "木曜日(もくようび)に会議(かいぎ)があります。",
+        "pronunciation": "mokuyoubi ni kaigi ga arimasu.",
+        "translation": "There is a meeting on Thursday."
+      },
+      {
+        "sentence": "先週(せんしゅう)の木曜日(もくようび)は雨(あめ)が降(ふ)りました。",
+        "pronunciation": "senshuu no mokuyoubi wa ame ga furimashita.",
+        "translation": "It rained last Thursday."
+      },
+      {
+        "sentence": "来週(らいしゅう)の木曜日(もくようび)に試験(しけん)があります。",
+        "pronunciation": "raishuu no mokuyoubi ni shiken ga arimasu.",
+        "translation": "There will be an exam next Thursday."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "word": "門",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "gate",
+    "burmese": "တံခါးမုခ်။ဂိတ်",
+    "definition": "A hinged barrier used to close an opening in a wall, fence, or hedge.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "もん",
+    "romaji": "monn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "門(もん)を開(あ)けてください。",
+        "pronunciation": "mon o akete kudasai.",
+        "translation": "Please open the gate."
+      },
+      {
+        "sentence": "門(もん)の前(まえ)で待(ま)っています。",
+        "pronunciation": "mon no mae de matte imasu.",
+        "translation": "I am waiting in front of the gate."
+      },
+      {
+        "sentence": "学校(がっこう)の門(もん)は閉(し)まっています。",
+        "pronunciation": "gakkou no mon wa shimatte imasu.",
+        "translation": "The school gate is closed."
+      },
+      {
+        "sentence": "門(もん)のところに警備員(けいびいん)がいます。",
+        "pronunciation": "mon no tokoro ni keibiin ga imasu.",
+        "translation": "There is a security guard at the gate."
+      },
+      {
+        "sentence": "庭(にわ)の門(もん)には花(はな)が飾(かざ)られています。",
+        "pronunciation": "niwa no mon ni wa hana ga kazararete imasu.",
+        "translation": "Flowers are decorating the garden gate."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "word": "問題",
+    "partsOfSpeech": "noun",
+    "categories": ["problems"],
+    "english": "problem, question",
+    "burmese": "ပြဿနာ, မေးခွန်း",
+    "definition": "A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome; a thing that is difficult to deal with or understand.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "もんだい",
+    "romaji": "monndai",
+    "synonyms": ["課題", "質問"],
+    "antonyms": ["解決", "解答"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "問題(もんだい)を解(と)いてください。",
+        "pronunciation": "mondai o toite kudasai.",
+        "translation": "Please solve the problem."
+      },
+      {
+        "sentence": "何(か)か問題(もんだい)がありますか。",
+        "pronunciation": "nanka mondai ga arimasu ka.",
+        "translation": "Is there any problem?"
+      },
+      {
+        "sentence": "これは難(むずか)しい問題(もんだい)です。",
+        "pronunciation": "kore wa muzukashii mondai desu.",
+        "translation": "This is a difficult problem."
+      },
+      {
+        "sentence": "問題(もんだい)の原因(げんいん)を調(しら)べます。",
+        "pronunciation": "mondai no gen'in o shirabemasu.",
+        "translation": "I will investigate the cause of the problem."
+      },
+      {
+        "sentence": "この問題(もんだい)について話(はな)し合(あ)いましょう。",
+        "pronunciation": "kono mondai ni tsuite hanashiaimashou.",
+        "translation": "Let's discuss this problem."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "word": "向こう",
+    "partsOfSpeech": "noun",
+    "categories": ["directions"],
+    "english": "over there, beyond",
+    "burmese": "ဟိုမှာ, ဟိုဘက်",
+    "definition": "On the far side of something; in the distance.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "むこう",
+    "romaji": "mukou",
+    "synonyms": ["彼方"],
+    "antonyms": ["こちら", "手前"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "向(む)こうに見(み)える山(やま)は富士山(ふじさん)です。",
+        "pronunciation": "mukou ni mieru yama wa fujisan desu.",
+        "translation": "The mountain you see over there is Mt. Fuji."
+      },
+      {
+        "sentence": "向(む)こう側(がわ)に渡(わた)りましょう。",
+        "pronunciation": "mukougawa ni watarimashou.",
+        "translation": "Let's cross to the other side."
+      },
+      {
+        "sentence": "彼(かれ)は向(む)こうへ歩(ある)いて行(い)きました。",
+        "pronunciation": "kare wa mukou e aruite ikimashita.",
+        "translation": "He walked over there."
+      },
+      {
+        "sentence": "向(む)こうの建物(たてもの)は学校(がっこう)です。",
+        "pronunciation": "mukou no tatemono wa gakkou desu.",
+        "translation": "The building over there is a school."
+      },
+      {
+        "sentence": "向(む)こうから誰(だれ)か来(き)ます。",
+        "pronunciation": "mukou kara dareka kimasu.",
+        "translation": "Someone is coming from over there."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "word": "村",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "village",
+    "burmese": "ရွာ",
+    "definition": "A group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "むら",
+    "romaji": "mura",
+    "synonyms": ["部落"],
+    "antonyms": ["町", "都市"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "静(しず)かな村(むら)に住(す)んでいます。",
+        "pronunciation": "shizuka na mura ni sunde imasu.",
+        "translation": "I live in a quiet village."
+      },
+      {
+        "sentence": "村(むら)の人(ひと)たちはみんな親切(しんせつ)です。",
+        "pronunciation": "mura no hitotachi wa minna shinsetsu desu.",
+        "translation": "The villagers are all kind."
+      },
+      {
+        "sentence": "村(むら)の祭(まつ)りは賑(にぎ)やかでした。",
+        "pronunciation": "mura no matsuri wa nigiyaka deshita.",
+        "translation": "The village festival was lively."
+      },
+      {
+        "sentence": "村(むら)にはきれいな川(かわ)が流(なが)れています。",
+        "pronunciation": "mura ni wa kirei na kawa ga nagarete imasu.",
+        "translation": "A beautiful river flows through the village."
+      },
+      {
+        "sentence": "都会(とかい)から離(はな)れて村(むら)で暮(く)らしたいです。",
+        "pronunciation": "tokai kara hanarete mura de kurashitai desu.",
+        "translation": "I want to live in a village away from the city."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "word": "中",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "inside, middle",
+    "burmese": "အတွင်း, အလယ်",
+    "definition": "The interior part of something; the point equidistant from extremities.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "なか",
+    "romaji": "naka",
+    "synonyms": ["内部", "真ん中"],
+    "antonyms": ["外", "外側"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "箱(はこ)の中(なか)に何(なに)が入(はい)っていますか。",
+        "pronunciation": "hako no naka ni nani ga haitte imasu ka.",
+        "translation": "What is inside the box?"
+      },
+      {
+        "sentence": "部屋(へや)の中(なか)は暖(あたた)かいです。",
+        "pronunciation": "heya no naka wa atatakai desu.",
+        "translation": "It is warm inside the room."
+      },
+      {
+        "sentence": "グループの中(なか)で一番(いちばん)若(わか)いです。",
+        "pronunciation": "guruupu no naka de ichiban wakai desu.",
+        "translation": "I am the youngest in the group."
+      },
+      {
+        "sentence": "本(ほん)の中(なか)に写真(しゃしん)が挟(はさ)んであります。",
+        "pronunciation": "hon no naka ni shashin ga hasande arimasu.",
+        "translation": "There is a photo inserted in the book."
+      },
+      {
+        "sentence": "会議(かいぎ)はまだ続(つづ)いていますか。",
+        "pronunciation": "kaigi wa mada tsuzuite imasu ka.",
+        "translation": "Is the meeting still going on?"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "word": "名前",
+    "partsOfSpeech": "noun",
+    "categories": ["personal"],
+    "english": "name",
+    "burmese": "နာမည်",
+    "definition": "A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "なまえ",
+    "romaji": "namae",
+    "synonyms": ["氏名"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "あなたのお名前(なまえ)は何(なん)ですか。",
+        "pronunciation": "anata no namae wa nan desu ka.",
+        "translation": "What is your name?"
+      },
+      {
+        "sentence": "私(わたし)の名前(なまえ)は田中(たなか)です。",
+        "pronunciation": "watashi no namae wa tanaka desu.",
+        "translation": "My name is Tanaka."
+      },
+      {
+        "sentence": "名前(なまえ)を教(おし)えてください。",
+        "pronunciation": "namae o oshiete kudasai.",
+        "translation": "Please tell me your name."
+      },
+      {
+        "sentence": "彼(かれ)の名前(なまえ)を忘(わす)れてしまいました。",
+        "pronunciation": "kare no namae o wasurete shimaimashita.",
+        "translation": "I have forgotten his name."
+      },
+      {
+        "sentence": "この花(はな)の名前(なまえ)を知(し)っていますか。",
+        "pronunciation": "kono hana no namae o shitte imasu ka.",
+        "translation": "Do you know the name of this flower?"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "word": "日曜日",
+    "partsOfSpeech": "noun",
+    "categories": ["days of the week"],
+    "english": "Sunday",
+    "burmese": "တနင်္ဂနွေနေ့",
+    "definition": "The day of the week following Saturday and preceding Monday.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "にちようび",
+    "romaji": "nichiyoubi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "日曜日(にちようび)は家(いえ)でゆっくりします。",
+        "pronunciation": "nichiyoubi wa ie de yukkuri shimasu.",
+        "translation": "I will relax at home on Sunday."
+      },
+      {
+        "sentence": "今日(きょう)は日曜日(にちようび)です。",
+        "pronunciation": "kyou wa nichiyoubi desu.",
+        "translation": "Today is Sunday."
+      },
+      {
+        "sentence": "日曜日(にちようび)には公園(こうえん)に行(い)くことが多いです。",
+        "pronunciation": "nichiyoubi ni wa kouen ni iku koto ga ooi desu.",
+        "translation": "I often go to the park on Sundays."
+      },
+      {
+        "sentence": "先週(せんしゅう)の日曜日(にちようび)は友達(ともだち)と遊(あそ)びました。",
+        "pronunciation": "senshuu no nichiyoubi wa tomodachi to asobimashita.",
+        "translation": "I hung out with my friends last Sunday."
+      },
+      {
+        "sentence": "来週(らいしゅう)の日曜日(にちようび)に家族(かぞく)で出(で)かけます。",
+        "pronunciation": "raishuu no nichiyoubi ni kazoku de dekakemasu.",
+        "translation": "I will go out with my family next Sunday."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "word": "日記",
+    "partsOfSpeech": "noun",
+    "categories": ["books", "personal"],
+    "english": "diary, journal",
+    "burmese": "ဒိုင်ယာရီ",
+    "definition": "A book in which one keeps a daily record of events and experiences.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "にっき",
+    "romaji": "nikki",
+    "synonyms": ["ダイアリー"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "毎日(まいにち)日記(にっき)を書(か)いています。",
+        "pronunciation": "mainichi nikki o kaite imasu.",
+        "translation": "I write in my diary every day."
+      },
+      {
+        "sentence": "日記(にっき)を見(み)てもいいですか。",
+        "pronunciation": "nikki o mitemo ii desu ka.",
+        "translation": "Can I see your diary?"
+      },
+      {
+        "sentence": "子供(こども)の頃(ころ)から日記(にっき)をつけています。",
+        "pronunciation": "kodomo no koro kara nikki o tsukete imasu.",
+        "translation": "I have been keeping a diary since I was a child."
+      },
+      {
+        "sentence": "今日(きょう)の日記(にっき)は何(なに)を書(か)こうかな。",
+        "pronunciation": "kyou no nikki wa nani o kakou kana.",
+        "translation": "What should I write in today's diary?"
+      },
+      {
+        "sentence": "日記(にっき)を読(よ)むと当時(とうじ)の気持(きも)ちが蘇(よみがえ)ります。",
+        "pronunciation": "nikki o yomu to touji no kimochi ga yomigaerimasu.",
+        "translation": "Reading my diary brings back the feelings of that time."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "word": "肉",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "meat",
+    "burmese": "အသား",
+    "definition": "The flesh of an animal when it is used for food.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "にく",
+    "romaji": "niku",
+    "synonyms": [],
+    "antonyms": ["魚", "野菜"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "肉(にく)料理(りょうり)が好(す)きです。",
+        "pronunciation": "niku ryouri ga suki desu.",
+        "translation": "I like meat dishes."
+      },
+      {
+        "sentence": "牛肉(ぎゅうにく)と豚肉(ぶたにく)と鶏肉(とりにく)のどれが好(す)きですか。",
+        "pronunciation": "gyuuniku to butaniku to toriniku no dore ga suki desu ka.",
+        "translation": "Which do you like better, beef, pork, or chicken?"
+      },
+      {
+        "sentence": "肉(にく)を買(か)って帰(かえ)ります。",
+        "pronunciation": "niku o katte kaerimasu.",
+        "translation": "I will buy meat and go home."
+      },
+      {
+        "sentence": "この肉(にく)は新鮮(しんせん)です。",
+        "pronunciation": "kono niku wa shinsen desu.",
+        "translation": "This meat is fresh."
+      },
+      {
+        "sentence": "ベジタリアンなので肉(にく)は食(た)べません。",
+        "pronunciation": "bejitarian nanode niku wa tabemasen.",
+        "translation": "I am a vegetarian, so I don't eat meat."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "word": "荷物",
+    "partsOfSpeech": "noun",
+    "categories": ["objects"],
+    "english": "luggage, baggage, parcel",
+    "burmese": "အိတ်, ခရီးဆောင်အိတ်, ပါဆယ်ထုပ်",
+    "definition": "Articles carried while traveling; belongings; a package or bundle.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "にもつ",
+    "romaji": "nimotsu",
+    "synonyms": ["手荷物", "小包"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "荷物(にもつ)はここに置(お)いてください。",
+        "pronunciation": "nimotsu wa koko ni oite kudasai.",
+        "translation": "Please put your luggage here."
+      },
+      {
+        "sentence": "重(おも)い荷物(にもつ)を持(も)つのは大変(たいへん)です。",
+        "pronunciation": "omoi nimotsu o motsu no wa taihen desu.",
+        "translation": "It's hard to carry heavy luggage."
+      },
+      {
+        "sentence": "駅(えき)で荷物(にもつ)を預(あず)けました。",
+        "pronunciation": "eki de nimotsu o azukemashita.",
+        "translation": "I checked my luggage at the station."
+      },
+      {
+        "sentence": "荷物(にもつ)が届(とど)きました。",
+        "pronunciation": "nimotsu ga todokimashita.",
+        "translation": "The package has arrived."
+      },
+      {
+        "sentence": "旅行(りょこう)の荷物(にもつ)を準備(じゅんび)しました。",
+        "pronunciation": "ryokou no nimotsu o junbi shimashita.",
+        "translation": "I prepared my luggage for the trip."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "word": "西",
+    "partsOfSpeech": "noun",
+    "categories": ["directions"],
+    "english": "west",
+    "burmese": "အနောက်",
+    "definition": "The direction opposite east.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "にし",
+    "romaji": "nishi",
+    "synonyms": [],
+    "antonyms": ["東"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "東京(とうきょう)は大阪(おおさか)の西(にし)にあります。",
+        "pronunciation": "toukyou wa oosaka no nishi ni arimasu.",
+        "translation": "Tokyo is west of Osaka."
+      },
+      {
+        "sentence": "西(にし)の空(そら)が赤(あか)く染(そ)まっています。",
+        "pronunciation": "nishi no sora ga akaku somatte imasu.",
+        "translation": "The western sky is dyed red."
+      },
+      {
+        "sentence": "西(にし)へ向(む)かって進(すす)みます。",
+        "pronunciation": "nishi e mukatte susumimasu.",
+        "translation": "I will proceed westward."
+      },
+      {
+        "sentence": "西(にし)の風(かぜ)が吹(ふ)いてきました。",
+        "pronunciation": "nishi no kaze ga fuite kimashita.",
+        "translation": "The west wind has started to blow."
+      },
+      {
+        "sentence": "西日(にしび)が眩(まぶ)しいです。",
+        "pronunciation": "nishibi ga mabushii desu.",
+        "translation": "The afternoon sun from the west is dazzling."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "word": "庭",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "garden, yard",
+    "burmese": "ဥယျာဉ်။ခြံ",
+    "definition": "A piece of ground adjoining a house, typically used for growing flowers, vegetables, and/or fruit trees.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "にわ",
+    "romaji": "niwa",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "庭(にわ)に花(はな)が咲(さ)いています。",
+        "pronunciation": "niwa ni hana ga saite imasu.",
+        "translation": "Flowers are blooming in the garden."
+      },
+      {
+        "sentence": "庭(にわ)でバーベキューをしました。",
+        "pronunciation": "niwa de baabekyuu o shimashita.",
+        "translation": "We had a barbecue in the yard."
+      },
+      {
+        "sentence": "庭(にわ)の手入(てい)れをするのが好(す)きです。",
+        "pronunciation": "niwa no teire o suru no ga suki desu.",
+        "translation": "I like gardening."
+      },
+      {
+        "sentence": "庭(にわ)には犬(いぬ)がいます。",
+        "pronunciation": "niwa ni wa inu ga imasu.",
+        "translation": "There is a dog in the yard."
+      },
+      {
+        "sentence": "庭(にわ)から綺麗(きれい)な景色(けしき)が見(み)えます。",
+        "pronunciation": "niwa kara kirei na keshiki ga miemasu.",
+        "translation": "You can see a beautiful view from the garden."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "word": "飲み物",
+    "partsOfSpeech": "noun",
+    "categories": ["drinks"],
+    "english": "drink, beverage",
+    "burmese": "သောက်စရာ",
+    "definition": "A liquid that is swallowed to quench thirst.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "のみもの",
+    "romaji": "nomimono",
+    "synonyms": ["飲料"],
+    "antonyms": ["食べ物"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "何(なに)か飲(の)み物(もの)はいかがですか。",
+        "pronunciation": "nanika nomimono wa ikaga desu ka.",
+        "translation": "Would you like something to drink?"
+      },
+      {
+        "sentence": "冷(つめ)たい飲(の)み物(もの)が欲(ほ)しいです。",
+        "pronunciation": "tsumetai nomimono ga hoshii desu.",
+        "translation": "I want a cold drink."
+      },
+      {
+        "sentence": "色々(いろいろ)な飲(の)み物(もの)があります。",
+        "pronunciation": "iroiro na nomimono ga arimasu.",
+        "translation": "There are various kinds of drinks."
+      },
+      {
+        "sentence": "私(わたし)の好(す)きな飲(の)み物(もの)はコーヒーです。",
+        "pronunciation": "watashi no suki na nomimono wa koohii desu.",
+        "translation": "My favorite drink is coffee."
+      },
+      {
+        "sentence": "飲(の)み物(もの)は何(なに)にしますか。",
+        "pronunciation": "nomimono wa nani ni shimasu ka.",
+        "translation": "What will you have to drink?"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "word": "お祖母さん",
+    "partsOfSpeech": "noun",
+    "categories": ["family"],
+    "english": "grandmother",
+    "burmese": "အဘွား",
+    "definition": "The mother of one's father or mother.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "polite",
+    "pronunciation": "おばあさん",
+    "romaji": "obaasann",
+    "synonyms": ["祖母"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "お祖母(おばあ)さんは元気(げんき)ですか。",
+        "pronunciation": "obaasan wa genki desu ka.",
+        "translation": "How is your grandmother?"
+      },
+      {
+        "sentence": "お祖母(おばあ)さんの家(いえ)に行(い)きました。",
+        "pronunciation": "obaasan no ie ni ikimashita.",
+        "translation": "I went to my grandmother's house."
+      },
+      {
+        "sentence": "お祖母(おばあ)さんは優(やさ)しいです。",
+        "pronunciation": "obaasan wa yasashii desu.",
+        "translation": "My grandmother is kind."
+      },
+      {
+        "sentence": "お祖母(おばあ)さんに手紙(てがみ)を書(か)きました。",
+        "pronunciation": "obaasan ni tegami o kakimashita.",
+        "translation": "I wrote a letter to my grandmother."
+      },
+      {
+        "sentence": "お祖母(おばあ)さんの料理(りょうり)は美味(おい)しいです。",
+        "pronunciation": "obaasan no ryouri wa oishii desu.",
+        "translation": "My grandmother's cooking is delicious."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "word": "お風呂",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "bath",
+    "burmese": "ရေချိုးခန်း",
+    "definition": "A container filled with water in which a person bathes.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "polite",
+    "pronunciation": "おふろ",
+    "romaji": "ofuro",
+    "synonyms": ["風呂"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "お風呂(おふろ)に入(はい)りましょう。",
+        "pronunciation": "ofuro ni hairimashou.",
+        "translation": "Let's take a bath."
+      },
+      {
+        "sentence": "お風呂(おふろ)は熱(あつ)すぎます。",
+        "pronunciation": "ofuro wa atsusugi masu.",
+        "translation": "The bath is too hot."
+      },
+      {
+        "sentence": "ゆっくりお風呂(おふろ)に入(はい)ってリラックスしました。",
+        "pronunciation": "yukkuri ofuro ni haitte rirakkusu shimashita.",
+        "translation": "I relaxed by taking a long bath."
+      },
+      {
+        "sentence": "お風呂(おふろ)の準備(じゅんび)ができました。",
+        "pronunciation": "ofuro no junbi ga dekimashita.",
+        "translation": "The bath is ready."
+      },
+      {
+        "sentence": "毎日(まいにち)お風呂(おふろ)に入(はい)るのが習慣(しゅうかん)です。",
+        "pronunciation": "mainichi ofuro ni hairu no ga shuukan desu.",
+        "translation": "Taking a bath every day is my habit."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "word": "お祖父さん",
+    "partsOfSpeech": "noun",
+    "categories": ["family"],
+    "english": "grandfather",
+    "burmese": "အဘိုး",
+    "definition": "The father of one's father or mother.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "polite",
+    "pronunciation": "おじいさん",
+    "romaji": "ojiisan",
+    "synonyms": ["祖父"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "お祖父(おじい)さんはお元気(げんき)ですか。",
+        "pronunciation": "ojiisan wa ogenki desu ka.",
+        "translation": "How is your grandfather?"
+      },
+      {
+        "sentence": "お祖父(おじい)さんと一緒(いっしょ)に散歩(さんぽ)しました。",
+        "pronunciation": "ojiisan to issho ni sanpo shimashita.",
+        "translation": "I took a walk with my grandfather."
+      },
+      {
+        "sentence": "お祖父(おじい)さんは昔(むかし)の話(はなし)をよくしてくれます。",
+        "pronunciation": "ojiisan wa mukashi no hanashi o yoku shite kuremasu.",
+        "translation": "My grandfather often tells me old stories."
+      },
+      {
+        "sentence": "お祖父(おじい)さんに会(あ)うのが楽(たの)しみです。",
+        "pronunciation": "ojiisan ni au no ga tanoshimi desu.",
+        "translation": "I am looking forward to seeing my grandfather."
+      },
+      {
+        "sentence": "お祖父(おじい)さんの趣味(しゅみ)は盆栽(ぼんさい)です。",
+        "pronunciation": "ojiisan no shumi wa bonsai desu.",
+        "translation": "My grandfather's hobby is bonsai."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "word": "お母さん",
+    "partsOfSpeech": "noun",
+    "categories": ["family"],
+    "english": "mother",
+    "burmese": "အမေ",
+    "definition": "A female parent.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "polite",
+    "pronunciation": "おかあさん",
+    "romaji": "okaasann",
+    "synonyms": ["母"],
+    "antonyms": ["お父さん"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "お母(かあ)さんは料理(りょうり)が上手(じょうず)です。",
+        "pronunciation": "okaasan wa ryouri ga jouzu desu.",
+        "translation": "My mother is a good cook."
+      },
+      {
+        "sentence": "お母(かあ)さんに電話(でんわ)をかけました。",
+        "pronunciation": "okaasan ni denwa o kakemashita.",
+        "translation": "I called my mother."
+      },
+      {
+        "sentence": "お母(かあ)さん、ありがとう。",
+        "pronunciation": "okaasan, arigatou.",
+        "translation": "Thank you, Mom."
+      },
+      {
+        "sentence": "お母(かあ)さんは心配(しんぱい)しています。",
+        "pronunciation": "okaasan wa shinpai shite imasu.",
+        "translation": "My mother is worried."
+      },
+      {
+        "sentence": "お母(かあ)さんの誕生日(たんじょうび)はいつですか。",
+        "pronunciation": "okaasan no tanjoubi wa itsu desu ka.",
+        "translation": "When is your mother's birthday?"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "word": "お金",
+    "partsOfSpeech": "noun",
+    "categories": ["finance"],
+    "english": "money",
+    "burmese": "ပိုက်ဆံ",
+    "definition": "A current medium of exchange in the form of coins and banknotes; currency.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "polite",
+    "pronunciation": "おかね",
+    "romaji": "okane",
+    "synonyms": ["金銭"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "お金(かね)がありません。",
+        "pronunciation": "okane ga arimasen.",
+        "translation": "I don't have money."
+      },
+      {
+        "sentence": "お金(かね)を貯(た)めています。",
+        "pronunciation": "okane o tamete imasu.",
+        "translation": "I am saving money."
+      },
+      {
+        "sentence": "お金(かね)を貸(か)してください。",
+        "pronunciation": "okane o kashite kudasai.",
+        "translation": "Please lend me money."
+      },
+      {
+        "sentence": "お金(かね)は大切(たいせつ)です。",
+        "pronunciation": "okane wa taisetsu desu.",
+        "translation": "Money is important."
+      },
+      {
+        "sentence": "どこでお金(かね)を下(お)ろせますか。",
+        "pronunciation": "doko de okane o orosemasu ka.",
+        "translation": "Where can I withdraw money?"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "word": "お菓子",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "sweets, snacks, confectionery",
+    "burmese": "မုန့်",
+    "definition": "Sweet foods such as chocolate, toffees, or cakes.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "polite",
+    "pronunciation": "おかし",
+    "romaji": "okashi",
+    "synonyms": ["甘味"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "お菓子(かし)が好(す)きです。",
+        "pronunciation": "okashi ga suki desu.",
+        "translation": "I like sweets."
+      },
+      {
+        "sentence": "お菓子(かし)を食(た)べすぎないようにしましょう。",
+        "pronunciation": "okashi o tabesuginai you ni shimashou.",
+        "translation": "Let's try not to eat too many sweets."
+      },
+      {
+        "sentence": "お土産(みやげ)にお菓子(かし)を買(か)いました。",
+        "pronunciation": "omiyage ni okashi o kaimashita.",
+        "translation": "I bought sweets as souvenirs."
+      },
+      {
+        "sentence": "子供(こども)たちはいつもお菓子(かし)を欲(ほ)しがります。",
+        "pronunciation": "kodomo-tachi wa itsumo okashi o hoshigarimasu.",
+        "translation": "Children always want sweets."
+      },
+      {
+        "sentence": "このお菓子(かし)はとても美味(おい)しいです。",
+        "pronunciation": "kono okashi wa totemo oishii desu.",
+        "translation": "These sweets are very delicious."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "word": "お腹",
+    "partsOfSpeech": "noun",
+    "categories": ["body"],
+    "english": "stomach, belly",
+    "burmese": "ဗိုက်",
+    "definition": "The front part of the body between the chest and the pelvis.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "polite",
+    "pronunciation": "おなか",
+    "romaji": "onaka",
+    "synonyms": ["腹"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "お腹(おなか)が空(す)きました。",
+        "pronunciation": "onaka ga sukimashita.",
+        "translation": "I'm hungry."
+      },
+      {
+        "sentence": "お腹(おなか)がいっぱいです。",
+        "pronunciation": "onaka ga ippai desu.",
+        "translation": "I'm full."
+      },
+      {
+        "sentence": "お腹(おなか)が痛(いた)いです。",
+        "pronunciation": "onaka ga itai desu.",
+        "translation": "My stomach hurts."
+      },
+      {
+        "sentence": "お腹(おなか)を壊(こわ)しました。",
+        "pronunciation": "onaka o kowashimashita.",
+        "translation": "I have an upset stomach."
+      },
+      {
+        "sentence": "赤(あか)ちゃんがお腹(おなか)の中(なか)にいます。",
+        "pronunciation": "akachan ga onaka no naka ni imasu.",
+        "translation": "There is a baby in the belly."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "word": "判子",
+    "partsOfSpeech": "noun",
+    "categories": ["stationery", "legal"],
+    "english": "seal, stamp (used for signatures)",
+    "burmese": "တံဆိပ်",
+    "definition": "A small object bearing a design or letters, dipped in ink and pressed on paper as a seal or signature.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "はんこ",
+    "romaji": "hannko",
+    "synonyms": ["印鑑"],
+    "antonyms": ["サイン"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "ここにご判子(はんこ)を押(お)してください。",
+        "pronunciation": "koko ni gohanko o oshite kudasai.",
+        "translation": "Please put your seal here."
+      },
+      {
+        "sentence": "判子(はんこ)を忘(わす)れてしまいました。",
+        "pronunciation": "hanko o wasurete shimaimashita.",
+        "translation": "I forgot my seal."
+      },
+      {
+        "sentence": "この書類(しょるい)には判子(はんこ)が必要(ひつよう)です。",
+        "pronunciation": "kono shorui ni wa hanko ga hitsuyou desu.",
+        "translation": "This document requires a seal."
+      },
+      {
+        "sentence": "銀行(ぎんこう)で判子(はんこ)を登録(とうろく)しました。",
+        "pronunciation": "ginkou de hanko o touroku shimashita.",
+        "translation": "I registered my seal at the bank."
+      },
+      {
+        "sentence": "重要(じゅうよう)な書類(しょるい)には実印(じついん)を押(お)します。",
+        "pronunciation": "juuyou na shorui ni wa jitsuin o oshimasu.",
+        "translation": "I use my registered seal for important documents."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "word": "封筒",
+    "partsOfSpeech": "noun",
+    "categories": ["stationery"],
+    "english": "envelope",
+    "burmese": "စာအိတ်",
+    "definition": "A flat rectangular paper container for a letter.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ふうとう",
+    "romaji": "fuutou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "手紙(てがみ)を封筒(ふうとう)に入(い)れました。",
+        "pronunciation": "tegami o fuutou ni iremashita.",
+        "translation": "I put the letter in an envelope."
+      },
+      {
+        "sentence": "封筒(ふうとう)に切手(きって)を貼(は)ってください。",
+        "pronunciation": "fuutou ni kitte o hatte kudasai.",
+        "translation": "Please put a stamp on the envelope."
+      },
+      {
+        "sentence": "宛名(あてな)は封筒(ふうとう)の表(おもて)に書(か)きます。",
+        "pronunciation": "atena wa fuutou no omote ni kakimasu.",
+        "translation": "The address is written on the front of the envelope."
+      },
+      {
+        "sentence": "封筒(ふうとう)を開(あ)けたら手紙(てがみ)が入(はい)っていました。",
+        "pronunciation": "fuutou o aketara tegami ga haitte imashita.",
+        "translation": "When I opened the envelope, there was a letter inside."
+      },
+      {
+        "sentence": "色々(いろいろ)な色(いろ)の封筒(ふうとう)があります。",
+        "pronunciation": "iroiro na iro no fuutou ga arimasu.",
+        "translation": "There are envelopes of various colors."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "word": "葉書",
+    "partsOfSpeech": "noun",
+    "categories": ["stationery"],
+    "english": "postcard",
+    "burmese": "ပို့စကတ်",
+    "definition": "A card for sending messages by post without an envelope, typically having a picture on one side.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "はがき",
+    "romaji": "hagaki",
+    "synonyms": ["絵葉書"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "旅行(りょこう)のお土産(みやげ)に葉書(はがき)を買(か)いました。",
+        "pronunciation": "ryokou no omiyage ni hagaki o kaimashita.",
+        "translation": "I bought postcards as souvenirs from my trip."
+      },
+      {
+        "sentence": "葉書(はがき)にメッセージを書(か)いて送(おく)りました。",
+        "pronunciation": "hagaki ni messeeji o kaite okurimashita.",
+        "translation": "I wrote a message on a postcard and sent it."
+      },
+      {
+        "sentence": "年賀状(ねんがじょう)は葉書(はがき)で送(おく)ります。",
+        "pronunciation": "nengajou wa hagaki de okurimasu.",
+        "translation": "New Year's cards are sent by postcard."
+      },
+      {
+        "sentence": "この葉書(はがき)の絵(え)は綺麗(きれい)ですね。",
+        "pronunciation": "kono hagaki no e wa kirei desu ne.",
+        "translation": "The picture on this postcard is beautiful."
+      },
+      {
+        "sentence": "葉書(はがき)の切手(きって)はいくらですか。",
+        "pronunciation": "hagaki no kitte wa ikura desu ka.",
+        "translation": "How much is a stamp for a postcard?"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "word": "手紙",
+    "partsOfSpeech": "noun",
+    "categories": ["communication"],
+    "english": "letter",
+    "burmese": "စာ",
+    "definition": "A written or printed communication addressed to a person or organization and usually transmitted by post.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "てがみ",
+    "romaji": "tegami",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "友達(ともだち)から手紙(てがみ)が届(とど)きました。",
+        "pronunciation": "tomodachi kara tegami ga todokimashita.",
+        "translation": "I received a letter from a friend."
+      },
+      {
+        "sentence": "手紙(てがみ)を書(か)いてポストに入(い)れました。",
+        "pronunciation": "tegami o kaite posuto ni iremashita.",
+        "translation": "I wrote a letter and put it in the mailbox."
+      },
+      {
+        "sentence": "手紙(てがみ)には色々(いろいろ)なことが書(か)いてありました。",
+        "pronunciation": "tegami ni wa iroiro na koto ga kaite arimashita.",
+        "translation": "Various things were written in the letter."
+      },
+      {
+        "sentence": "手紙(てがみ)を読(よ)んで感動(かんどう)しました。",
+        "pronunciation": "tegami o yonde kandou shimashita.",
+        "translation": "I was moved by reading the letter."
+      },
+      {
+        "sentence": "返事(へんじ)の手紙(てがみ)を早(はや)く書(か)かなければなりません。",
+        "pronunciation": "henji no tegami o hayaku kakanakereba narimasen.",
+        "translation": "I have to write a reply letter soon."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "word": "紙",
+    "partsOfSpeech": "noun",
+    "categories": ["materials", "stationery"],
+    "english": "paper",
+    "burmese": "စက္ကူ",
+    "definition": "A thin, flat material made from the compressed pulp of wood or other fibrous substances, used for writing, printing, or wrapping.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "かみ",
+    "romaji": "kami",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "紙(かみ)に名前(なまえ)を書(か)いてください。",
+        "pronunciation": "kami ni namae o kaite kudasai.",
+        "translation": "Please write your name on the paper."
+      },
+      {
+        "sentence": "紙(かみ)が足(た)りません。",
+        "pronunciation": "kami ga tarimasen.",
+        "translation": "I don't have enough paper."
+      },
+      {
+        "sentence": "この紙(かみ)はリサイクルされたものです。",
+        "pronunciation": "kono kami wa risaikuru sareta mono desu.",
+        "translation": "This paper is recycled."
+      },
+      {
+        "sentence": "紙(かみ)飛行機(ひこうき)を作(つく)りました。",
+        "pronunciation": "kami hikouki o tsukurimashita.",
+        "translation": "I made a paper airplane."
+      },
+      {
+        "sentence": "紙(かみ)を切(き)るのにハサミを使(つか)います。",
+        "pronunciation": "kami o kiru no ni hasami o tsukaimasu.",
+        "translation": "I use scissors to cut paper."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "word": "筆箱",
+    "partsOfSpeech": "noun",
+    "categories": ["stationery"],
+    "english": "pencil case",
+    "burmese": "ခဲတံအိတ်",
+    "definition": "A container for holding pens, pencils, and other stationery.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ふでばこ",
+    "romaji": "fudebako",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "筆箱(ふでばこ)の中(なか)に鉛筆(えんぴつ)や消(け)しゴムが入(はい)っています。",
+        "pronunciation": "fudebako no naka ni enpitsu ya keshigomu ga haitte imasu.",
+        "translation": "There are pencils and an eraser in the pencil case."
+      },
+      {
+        "sentence": "新(あたら)しい筆箱(ふでばこ)を買(か)いました。",
+        "pronunciation": "atarashii fudebako o kaimashita.",
+        "translation": "I bought a new pencil case."
+      },
+      {
+        "sentence": "筆箱(ふでばこ)を学校(がっこう)に忘(わす)れてしまいました。",
+        "pronunciation": "fudebako o gakkou ni wasurete shimaimashita.",
+        "translation": "I forgot my pencil case at school."
+      },
+      {
+        "sentence": "友達(ともだち)に筆箱(ふでばこ)を貸(か)しました。",
+        "pronunciation": "tomodachi ni fudebako o kashimashita.",
+        "translation": "I lent my pencil case to a friend."
+      },
+      {
+        "sentence": "筆箱(ふでばこ)の中(なか)がごちゃごちゃしています。",
+        "pronunciation": "fudebako no naka ga gochagocha shite imasu.",
+        "translation": "The inside of my pencil case is messy."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "word": "ざる",
+    "partsOfSpeech": "noun",
+    "categories": ["kitchenware"],
+    "english": "strainer, sieve, colander",
+    "burmese": "ဇကာ။အစစ်",
+    "definition": "A utensil consisting of a bowl-shaped container with perforations or mesh, used for draining away liquids or separating solids from liquids.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "ざる",
+    "romaji": "zaru",
+    "synonyms": ["篩"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "茹(ゆ)でた野菜(やさい)をざるにあげます。",
+        "pronunciation": "yu deta yasai o zaru ni agemasu.",
+        "translation": "I will drain the boiled vegetables in a colander."
+      },
+      {
+        "sentence": "米(こめ)を研(と)いだ後(あと)、ざるで水(みず)を切(き)ります。",
+        "pronunciation": "kome o toida ato, zaru de mizu o kirimasu.",
+        "translation": "After rinsing the rice, I drain the water with a sieve."
+      },
+      {
+        "sentence": "ざるで粉(こな)をふるいます。",
+        "pronunciation": "zaru de kona o furuimasu.",
+        "translation": "I sift flour with a sieve."
+      },
+      {
+        "sentence": "このざるは竹(たけ)でできています。",
+        "pronunciation": "kono zaru wa take de dekite imasu.",
+        "translation": "This strainer is made of bamboo."
+      },
+      {
+        "sentence": "ざるを綺麗(きれい)に洗(あら)ってください。",
+        "pronunciation": "zaru o kirei ni aratte kudasai.",
+        "translation": "Please wash the strainer clean."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "word": "薬缶",
+    "partsOfSpeech": "noun",
+    "categories": ["kitchenware"],
+    "english": "kettle",
+    "burmese": "ရေနွေးအိုး",
+    "definition": "A metal container with a spout, used for boiling water.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "やかん",
+    "romaji": "yakann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "薬缶(やかん)でお湯(おゆ)を沸(わ)かします。",
+        "pronunciation": "yakan de oyu o wakashimasu.",
+        "translation": "I will boil water in the kettle."
+      },
+      {
+        "sentence": "薬缶(やかん)が沸騰(ふっとう)しています。",
+        "pronunciation": "yakan ga futtou shite imasu.",
+        "translation": "The kettle is boiling."
+      },
+      {
+        "sentence": "古い薬缶(やかん)を使(つか)っています。",
+        "pronunciation": "furui yakan o tsukatte imasu.",
+        "translation": "I am using an old kettle."
+      },
+      {
+        "sentence": "薬缶(やかん)の口(くち)から蒸気(じょうき)が出(で)ています。",
+        "pronunciation": "yakan no kuchi kara jouki ga dete imasu.",
+        "translation": "Steam is coming out of the kettle's spout."
+      },
+      {
+        "sentence": "電気(でんき)薬缶(やかん)は便利(べんり)です。",
+        "pronunciation": "denki yakan wa benri desu.",
+        "translation": "Electric kettles are convenient."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "word": "しゃもじ",
+    "partsOfSpeech": "noun",
+    "categories": ["kitchenware"],
+    "english": "rice scoop",
+    "burmese": "ထမင်းခပ်ဇွန်း",
+    "definition": "A flat spoon, usually made of wood or plastic, used for serving rice.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "しゃもじ",
+    "romaji": "shamoji",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "しゃもじで御飯(ごはん)をよそいます。",
+        "pronunciation": "shamoji de gohan o yosoimasu.",
+        "translation": "I will serve rice with a rice scoop."
+      },
+      {
+        "sentence": "しゃもじにご飯(ごはん)がくっついています。",
+        "pronunciation": "shamoji ni gohan ga kuttsuite imasu.",
+        "translation": "Rice is sticking to the rice scoop."
+      },
+      {
+        "sentence": "木(き)のしゃもじを使(つか)っています。",
+        "pronunciation": "ki no shamoji o tsukatte imasu.",
+        "translation": "I am using a wooden rice scoop."
+      },
+      {
+        "sentence": "しゃもじを綺麗(きれい)に洗(あら)ってください。",
+        "pronunciation": "shamoji o kirei ni aratte kudasai.",
+        "translation": "Please wash the rice scoop clean."
+      },
+      {
+        "sentence": "このしゃもじは立(た)てて置(お)けます。",
+        "pronunciation": "kono shamoji wa tatete okemasu.",
+        "translation": "This rice scoop can stand upright."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "word": "茶碗",
+    "partsOfSpeech": "noun",
+    "categories": ["tableware"],
+    "english": "rice bowl, teacup",
+    "burmese": "ထမင်းပန်းကန်, လက်ဖက်ရည်ခွက်",
+    "definition": "A small bowl, typically used for rice; a cup for tea, often without a handle.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ちゃわん",
+    "romaji": "chawann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "茶碗(ちゃわん)にご飯(ごはん)を盛(も)ります。",
+        "pronunciation": "chawan ni gohan o morimasu.",
+        "translation": "I will serve rice in a bowl."
+      },
+      {
+        "sentence": "お茶碗(ちゃわん)を持(も)ってください。",
+        "pronunciation": "ochawan o motte kudasai.",
+        "translation": "Please hold your rice bowl."
+      },
+      {
+        "sentence": "この茶碗(ちゃわん)は綺麗(きれい)な模様(もよう)が描(か)かれています。",
+        "pronunciation": "kono chawan wa kirei na moyou ga kakarete imasu.",
+        "translation": "This bowl has a beautiful pattern painted on it."
+      },
+      {
+        "sentence": "熱(あつ)いお茶(ちゃ)を茶碗(ちゃわん)で飲(の)みました。",
+        "pronunciation": "atsui ocha o chawan de nomimashita.",
+        "translation": "I drank hot tea from a teacup."
+      },
+      {
+        "sentence": "茶碗(ちゃわん)を割(わ)ってしまいました。",
+        "pronunciation": "chawan o watte shimaimashita.",
+        "translation": "I broke a bowl."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "word": "爪楊枝",
+    "partsOfSpeech": "noun",
+    "categories": ["tableware", "personal"],
+    "english": "toothpick",
+    "burmese": "သွားကြားထိုးတံ",
+    "definition": "A short thin piece of wood or plastic used for removing food debris from the teeth.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "つまようじ",
+    "romaji": "tsumayouji",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "食後(しょくご)に爪楊枝(つまようじ)を使(つか)います。",
+        "pronunciation": "shokugo ni tsumayouji o tsukaimasu.",
+        "translation": "I use a toothpick after meals."
+      },
+      {
+        "sentence": "爪楊枝(つまようじ)はどこにありますか。",
+        "pronunciation": "tsumayouji wa doko ni arimasu ka.",
+        "translation": "Where are the toothpicks?"
+      },
+      {
+        "sentence": "爪楊枝(つまようじ)を一本(いっぽん)ください。",
+        "pronunciation": "tsumayouji o ippon kudasai.",
+        "translation": "Please give me one toothpick."
+      },
+      {
+        "sentence": "爪楊枝(つまようじ)の袋(ふくろ)を開(あ)けてください。",
+        "pronunciation": "tsumayouji no fukuro o akete kudasai.",
+        "translation": "Please open the toothpick wrapper."
+      },
+      {
+        "sentence": "木製(もくせい)の爪楊枝(つまようじ)を使(つか)うことが多いです。",
+        "pronunciation": "mokusei no tsumayouji o tsukau koto ga ooi desu.",
+        "translation": "I often use wooden toothpicks."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "word": "弁当",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "lunch box, bento",
+    "burmese": "ထမင်းချိုင့်",
+    "definition": "A single-portion takeout or home-packed meal common in Japanese cuisine.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "べんとう",
+    "romaji": "benntou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "今日(きょう)はお弁当(べんとう)を持(も)ってきました。",
+        "pronunciation": "kyou wa bentou o motte kimashita.",
+        "translation": "I brought a lunch box today."
+      },
+      {
+        "sentence": "お弁当(べんとう)は美味(おい)しいですか。",
+        "pronunciation": "bentou wa oishii desu ka.",
+        "translation": "Is your bento delicious?"
+      },
+      {
+        "sentence": "自分(じぶん)でお弁当(べんとう)を作(つく)ります。",
+        "pronunciation": "jibun de bentou o tsukurimasu.",
+        "translation": "I make my own bento."
+      },
+      {
+        "sentence": "お弁当(べんとう)の中(なか)には何(なに)が入(はい)っていますか。",
+        "pronunciation": "bentou no naka ni wa nani ga haitte imasu ka.",
+        "translation": "What's in your bento?"
+      },
+      {
+        "sentence": "駅(えき)でお弁当(べんとう)を買(か)いました。",
+        "pronunciation": "eki de bentou o kaimashita.",
+        "translation": "I bought a bento at the station."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "word": "水筒",
+    "partsOfSpeech": "noun",
+    "categories": ["objects"],
+    "english": "water bottle, flask",
+    "burmese": "ရေဘူး",
+    "definition": "A container for carrying drinking water.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "すいとう",
+    "romaji": "suitou",
+    "synonyms": ["ボトル"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "水筒(すいとう)に水(みず)を入(い)れました。",
+        "pronunciation": "suitou ni mizu o iremashita.",
+        "translation": "I filled the water bottle with water."
+      },
+      {
+        "sentence": "水筒(すいとう)を持(も)って学校(がっこう)へ行(い)きます。",
+        "pronunciation": "suitou o motte gakkou e ikimasu.",
+        "translation": "I will go to school with my water bottle."
+      },
+      {
+        "sentence": "水筒(すいとう)の中(なか)が空(から)になりました。",
+        "pronunciation": "suitou no naka ga kara ni narimashita.",
+        "translation": "My water bottle is empty."
+      },
+      {
+        "sentence": "この水筒(すいとう)は保温(ほおん)機能(きのう)があります。",
+        "pronunciation": "kono suitou wa hoon kinou ga arimasu.",
+        "translation": "This water bottle has a heat-retention function."
+      },
+      {
+        "sentence": "水筒(すいとう)を洗(あら)うのを忘(わす)れました。",
+        "pronunciation": "suitou o arau no o wasuremashita.",
+        "translation": "I forgot to wash my water bottle."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "word": "時計",
+    "partsOfSpeech": "noun",
+    "categories": ["time"],
+    "english": "clock, watch",
+    "burmese": "နာရီ",
+    "definition": "An instrument for measuring and indicating time.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "とけい",
+    "romaji": "tokei",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "時計(とけい)を見(み)てください。",
+        "pronunciation": "tokei o mite kudasai.",
+        "translation": "Please look at the clock."
+      },
+      {
+        "sentence": "今(いま)何時(なんじ)ですか。",
+        "pronunciation": "ima nanji desu ka.",
+        "translation": "What time is it now?"
+      },
+      {
+        "sentence": "私(わたし)の時計(とけい)は少(すこ)し遅(おく)れています。",
+        "pronunciation": "watashi no tokei wa sukoshi okurete imasu.",
+        "translation": "My watch is a little slow."
+      },
+      {
+        "sentence": "壁(かべ)に時計(とけい)がかかっています。",
+        "pronunciation": "kabe ni tokei ga kakatte imasu.",
+        "translation": "There is a clock hanging on the wall."
+      },
+      {
+        "sentence": "新(あたら)しい時計(とけい)が欲(ほ)しいです。",
+        "pronunciation": "atarashii tokei ga hoshii desu.",
+        "translation": "I want a new watch."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "word": "机",
+    "partsOfSpeech": "noun",
+    "categories": ["furniture"],
+    "english": "desk, table",
+    "burmese": "စားပွဲ",
+    "definition": "A piece of furniture with a flat top supported by legs, providing a level surface for working at, writing on, or placing things on.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "つくえ",
+    "romaji": "tsukue",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "机(つくえ)の上(うえ)に本(ほん)があります。",
+        "pronunciation": "tsukue no ue ni hon ga arimasu.",
+        "translation": "There is a book on the desk."
+      },
+      {
+        "sentence": "机(つくえ)で勉強(べんきょう)します。",
+        "pronunciation": "tsukue de benkyou shimasu.",
+        "translation": "I will study at the desk."
+      },
+      {
+        "sentence": "机(つくえ)の引(ひ)き出(だ)しを開(あ)けてください。",
+        "pronunciation": "tsukue no hikidashi o akete kudasai.",
+        "translation": "Please open the desk drawer."
+      },
+      {
+        "sentence": "机(つくえ)の周(まわ)りを片付(かたづ)けましょう。",
+        "pronunciation": "tsukue no mawari o katazukemashou.",
+        "translation": "Let's tidy up around the desk."
+      },
+      {
+        "sentence": "新(あたら)しい机(つくえ)が欲(ほ)しいです。",
+        "pronunciation": "atarashii tsukue ga hoshii desu.",
+        "translation": "I want a new desk."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "word": "椅子",
+    "partsOfSpeech": "noun",
+    "categories": ["furniture"],
+    "english": "chair",
+    "burmese": "ကုလားထိုင်",
+    "definition": "A seat for one person, with a back and typically four legs.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "いす",
+    "romaji": "isu",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "椅子(いす)に座(すわ)ってください。",
+        "pronunciation": "isu ni suwatte kudasai.",
+        "translation": "Please sit on the chair."
+      },
+      {
+        "sentence": "椅子(いす)が一つ(ひとつ)足(た)りません。",
+        "pronunciation": "isu ga hitotsu tarimasen.",
+        "translation": "There is one chair missing."
+      },
+      {
+        "sentence": "この椅子(いす)は座(すわ)り心地(ごこち)がいいです。",
+        "pronunciation": "kono isu wa suwarigokochi ga ii desu.",
+        "translation": "This chair is comfortable."
+      },
+      {
+        "sentence": "椅子(いす)を運(はこ)んでください。",
+        "pronunciation": "isu o hakonde kudasai.",
+        "translation": "Please carry the chair."
+      },
+      {
+        "sentence": "部屋(へや)にはたくさん椅子(いす)があります。",
+        "pronunciation": "heya ni wa takusan isu ga arimasu.",
+        "translation": "There are many chairs in the room."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "word": "鍵",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "key",
+    "burmese": "သော့",
+    "definition": "A small piece of shaped metal with incisions cut to fit the wards of a particular lock, which is inserted into the lock and turned to open or close it.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "かぎ",
+    "romaji": "kagi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "鍵(かぎ)をなくしてしまいました。",
+        "pronunciation": "kagi o nakushite shimaimashita.",
+        "translation": "I lost my key."
+      },
+      {
+        "sentence": "鍵(かぎ)を開(あ)けてください。",
+        "pronunciation": "kagi o akete kudasai.",
+        "translation": "Please open the lock."
+      },
+      {
+        "sentence": "これは家(いえ)の鍵(かぎ)です。",
+        "pronunciation": "kore wa ie no kagi desu.",
+        "translation": "This is the house key."
+      },
+      {
+        "sentence": "鍵(かぎ)はどこにありますか。",
+        "pronunciation": "kagi wa doko ni arimasu ka.",
+        "translation": "Where is the key?"
+      },
+      {
+        "sentence": "予備(よび)の鍵(かぎ)を持(も)っています。",
+        "pronunciation": "yobi no kagi o motte imasu.",
+        "translation": "I have a spare key."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "word": "鏡",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "mirror",
+    "burmese": "မှန်",
+    "definition": "A polished surface, typically of glass coated on the back with a reflective material, that forms images by reflection.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "かがみ",
+    "romaji": "kagami",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "鏡(かがみ)で顔(かお)を見(み)ます。",
+        "pronunciation": "kagami de kao o mimasu.",
+        "translation": "I look at my face in the mirror."
+      },
+      {
+        "sentence": "鏡(かがみ)が割(わ)れてしまいました。",
+        "pronunciation": "kagami ga warete shimaimashita.",
+        "translation": "The mirror broke."
+      },
+      {
+        "sentence": "部屋(へや)に大(おお)きい鏡(かがみ)があります。",
+        "pronunciation": "heya ni ookii kagami ga arimasu.",
+        "translation": "There is a big mirror in the room."
+      },
+      {
+        "sentence": "鏡(かがみ)を綺麗(きれい)に拭(ふ)きました。",
+        "pronunciation": "kagami o kirei ni fukimashita.",
+        "translation": "I wiped the mirror clean."
+      },
+      {
+        "sentence": "鏡(かがみ)に映(うつ)った自分(じぶん)を見(み)ました。",
+        "pronunciation": "kagami ni utsutta jibun o mimashita.",
+        "translation": "I saw myself reflected in the mirror."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "word": "本棚",
+    "partsOfSpeech": "noun",
+    "categories": ["furniture"],
+    "english": "bookshelf",
+    "burmese": "စာအုပ်စင်",
+    "definition": "A shelf or set of shelves for books.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ほんだな",
+    "romaji": "honndana",
+    "synonyms": ["書棚"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "本棚(ほんだな)に本(ほん)がたくさんあります。",
+        "pronunciation": "hondana ni hon ga takusan arimasu.",
+        "translation": "There are many books on the bookshelf."
+      },
+      {
+        "sentence": "本棚(ほんだな)から本(ほん)を取(と)りました。",
+        "pronunciation": "hondana kara hon o torimashita.",
+        "translation": "I took a book from the bookshelf."
+      },
+      {
+        "sentence": "本棚(ほんだな)を整理(せいり)しました。",
+        "pronunciation": "hondana o seiri shimashita.",
+        "translation": "I organized the bookshelf."
+      },
+      {
+        "sentence": "この本棚(ほんだな)は木(き)でできています。",
+        "pronunciation": "kono hondana wa ki de dekite imasu.",
+        "translation": "This bookshelf is made of wood."
+      },
+      {
+        "sentence": "本棚(ほんだな)に新(あたら)しい本(ほん)を並(なら)べました。",
+        "pronunciation": "hondana ni atarashii hon o narabemashita.",
+        "translation": "I lined up new books on the bookshelf."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "word": "眼鏡",
+    "partsOfSpeech": "noun",
+    "categories": ["personal"],
+    "english": "glasses, spectacles",
+    "burmese": "မျက်မှန်",
+    "definition": "A pair of lenses set in a frame worn over the eyes to improve eyesight or for protection.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "めがね",
+    "romaji": "megane",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "眼鏡(めがね)をかけて本(ほん)を読(よ)みます。",
+        "pronunciation": "megane o kakete hon o yomimasu.",
+        "translation": "I wear glasses to read a book."
+      },
+      {
+        "sentence": "眼鏡(めがね)を忘(わす)れてしまいました。",
+        "pronunciation": "megane o wasurete shimaimashita.",
+        "translation": "I forgot my glasses."
+      },
+      {
+        "sentence": "眼鏡(めがね)はどこにありますか。",
+        "pronunciation": "megane wa doko ni arimasu ka.",
+        "translation": "Where are my glasses?"
+      },
+      {
+        "sentence": "この眼鏡(めがね)は度(ど)が入(はい)っています。",
+        "pronunciation": "kono megane wa do ga haitte imasu.",
+        "translation": "These glasses have prescription lenses."
+      },
+      {
+        "sentence": "眼鏡(めがね)を綺麗(きれい)に拭(ふ)きました。",
+        "pronunciation": "megane o kirei ni fukimashita.",
+        "translation": "I cleaned my glasses."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "word": "扉",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "door",
+    "burmese": "တံခါး",
+    "definition": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard or cabinet.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "とびら",
+    "romaji": "tobira",
+    "synonyms": ["ドア"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "扉(とびら)を開(あ)けてください。",
+        "pronunciation": "tobira o akete kudasai.",
+        "translation": "Please open the door."
+      },
+      {
+        "sentence": "扉(とびら)を閉(し)めてください。",
+        "pronunciation": "tobira o shimete kudasai.",
+        "translation": "Please close the door."
+      },
+      {
+        "sentence": "扉(とびら)に鍵(かぎ)がかかっています。",
+        "pronunciation": "tobira ni kagi ga kakatte imasu.",
+        "translation": "The door is locked."
+      },
+      {
+        "sentence": "扉(とびら)が風(かぜ)でバタンと閉(し)まりました。",
+        "pronunciation": "tobira ga kaze de batan to shimarimashita.",
+        "translation": "The door slammed shut in the wind."
+      },
+      {
+        "sentence": "この扉(とびら)は重(おも)いです。",
+        "pronunciation": "kono tobira wa omoi desu.",
+        "translation": "This door is heavy."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "word": "窓",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "window",
+    "burmese": "ပြတင်းပေါက်",
+    "definition": "An opening in the wall or roof of a building or vehicle that is fitted with a frame of glass or other transparent material to admit light or air and allow people to see out.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "まど",
+    "romaji": "mado",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "窓(まど)を開(あ)けてください。",
+        "pronunciation": "mado o akete kudasai.",
+        "translation": "Please open the window."
+      },
+      {
+        "sentence": "窓(まど)を閉(し)めてください。",
+        "pronunciation": "mado o shimete kudasai.",
+        "translation": "Please close the window."
+      },
+      {
+        "sentence": "窓(まど)から外(そと)を見(み)ます。",
+        "pronunciation": "mado kara soto o mimasu.",
+        "translation": "I look outside from the window."
+      },
+      {
+        "sentence": "窓(まど)ガラスが割(わ)れてしまいました。",
+        "pronunciation": "mado garasu ga warete shimaimashita.",
+        "translation": "The window glass broke."
+      },
+      {
+        "sentence": "窓(まど)を拭(ふ)きました。",
+        "pronunciation": "mado o fukimashita.",
+        "translation": "I wiped the window."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "word": "枕",
+    "partsOfSpeech": "noun",
+    "categories": ["household", "sleep"],
+    "english": "pillow",
+    "burmese": "ခေါင်းအုံး",
+    "definition": "A cushion or pad used to support the head during sleep.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "まくら",
+    "romaji": "makura",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "枕(まくら)が低(ひく)すぎます。",
+        "pronunciation": "makura ga hikusugi masu.",
+        "translation": "The pillow is too low."
+      },
+      {
+        "sentence": "高(たか)い枕(まくら)が好(す)きです。",
+        "pronunciation": "takai makura ga suki desu.",
+        "translation": "I like high pillows."
+      },
+      {
+        "sentence": "枕(まくら)カバーを洗(あら)いました。",
+        "pronunciation": "makura kabaa o araimashita.",
+        "translation": "I washed the pillowcase."
+      },
+      {
+        "sentence": "旅行(りょこう)に自分(じぶん)の枕(まくら)を持(も)って行(い)きます。",
+        "pronunciation": "ryokou ni jibun no makura o motte ikimasu.",
+        "translation": "I will take my own pillow on the trip."
+      },
+      {
+        "sentence": "この枕(まくら)はとても寝心地(ねごこち)がいいです。",
+        "pronunciation": "kono makura wa totemo negokochi ga ii desu.",
+        "translation": "This pillow is very comfortable to sleep on."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "word": "布団",
+    "partsOfSpeech": "noun",
+    "categories": ["household", "sleep"],
+    "english": "futon (Japanese bedding)",
+    "burmese": "ဖူတွန် (ဂျပန်အိပ်ယာ)",
+    "definition": "A Japanese style of bedding consisting of a padded mattress (shikibuton) and a padded quilt (kakebuton), typically laid out on the floor.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ふとん",
+    "romaji": "futonn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "布団(ふとん)を敷(し)いて寝(ね)ます。",
+        "pronunciation": "futon o shiite nemasu.",
+        "translation": "I will lay out the futon and sleep."
+      },
+      {
+        "sentence": "布団(ふとん)を畳(たた)んで押(お)しいれにしまいます。",
+        "pronunciation": "futon o tatande oshiire ni shimaimasu.",
+        "translation": "I will fold the futon and put it in the closet."
+      },
+      {
+        "sentence": "布団(ふとん)を干(ほ)しました。",
+        "pronunciation": "futon o hoshimashita.",
+        "translation": "I aired out the futon."
+      },
+      {
+        "sentence": "新(あたら)しい布団(ふとん)が欲(ほ)しいです。",
+        "pronunciation": "atarashii futon ga hoshii desu.",
+        "translation": "I want a new futon."
+      },
+      {
+        "sentence": "この布団(ふとん)は暖(あたた)かいです。",
+        "pronunciation": "kono futon wa atatakai desu.",
+        "translation": "This futon is warm."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "word": "風呂",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "bath",
+    "burmese": "ရေချိုးကန်",
+    "definition": "A container filled with water in which a person bathes; the act of bathing.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ふろ",
+    "romaji": "furo",
+    "synonyms": ["お風呂"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "風呂(ふろ)に入(はい)ります。",
+        "pronunciation": "furo ni hairimasu.",
+        "translation": "I will take a bath."
+      },
+      {
+        "sentence": "風呂(ふろ)の準備(じゅんび)ができました。",
+        "pronunciation": "furo no junbi ga dekimashita.",
+        "translation": "The bath is ready."
+      },
+      {
+        "sentence": "熱(あつ)い風呂(ふろ)が好(す)きです。",
+        "pronunciation": "atsui furo ga suki desu.",
+        "translation": "I like hot baths."
+      },
+      {
+        "sentence": "毎日(まいにち)風呂(ふろ)に入(はい)ります。",
+        "pronunciation": "mainichi furo ni hairimasu.",
+        "translation": "I take a bath every day."
+      },
+      {
+        "sentence": "風呂(ふろ)から上(あ)がりました。",
+        "pronunciation": "furo kara agarimashita.",
+        "translation": "I got out of the bath."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "word": "冷蔵庫",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "refrigerator, fridge",
+    "burmese": "ရေခဲသေတ္တာ",
+    "definition": "An appliance used for keeping food cold at a consistent temperature.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "れいぞうこ",
+    "romaji": "reizouko",
+    "synonyms": ["冷蔵"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "冷蔵庫(れいぞうこ)にビールが入(はい)っています。",
+        "pronunciation": "reizouko ni biiru ga haitte imasu.",
+        "translation": "There is beer in the refrigerator."
+      },
+      {
+        "sentence": "冷蔵庫(れいぞうこ)から牛乳(ぎゅうにゅう)を出(だ)してください。",
+        "pronunciation": "reizouko kara gyuunyuu o dashite kudasai.",
+        "translation": "Please take the milk out of the refrigerator."
+      },
+      {
+        "sentence": "冷蔵庫(れいぞうこ)の中(なか)は空(から)っぽです。",
+        "pronunciation": "reizouko no naka wa karappo desu.",
+        "translation": "The refrigerator is empty."
+      },
+      {
+        "sentence": "冷蔵庫(れいぞうこ)を掃除(そうじ)しました。",
+        "pronunciation": "reizouko o souji shimashita.",
+        "translation": "I cleaned the refrigerator."
+      },
+      {
+        "sentence": "新(あたら)しい冷蔵庫(れいぞうこ)を買(か)いました。",
+        "pronunciation": "atarashii reizouko o kaimashita.",
+        "translation": "I bought a new refrigerator."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "word": "電子レンジ",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "microwave oven",
+    "burmese": "မိုက်ခရိုဝေ့ဖ်မီးဖို",
+    "definition": "An oven that uses microwave radiation to heat food.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "でんしレンジ",
+    "romaji": "dennshirennji",
+    "synonyms": ["レンジ"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "電子(でんし)レンジで温(あたた)めます。",
+        "pronunciation": "denshi renji de atatamemasu.",
+        "translation": "I will heat it in the microwave oven."
+      },
+      {
+        "sentence": "電子(でんし)レンジは便利(べんり)です。",
+        "pronunciation": "denshi renji wa benri desu.",
+        "translation": "Microwave ovens are convenient."
+      },
+      {
+        "sentence": "電子(でんし)レンジでポップコーンを作(つく)りました。",
+        "pronunciation": "denshi renji de poppukoon o tsukurimashita.",
+        "translation": "I made popcorn in the microwave oven."
+      },
+      {
+        "sentence": "電子(でんし)レンジが壊(こわ)れてしまいました。",
+        "pronunciation": "denshi renji ga kowarete shimaimashita.",
+        "translation": "The microwave oven broke down."
+      },
+      {
+        "sentence": "電子(でんし)レンジの中(なか)を掃除(そうじ)しました。",
+        "pronunciation": "denshi renji no naka o souji shimashita.",
+        "translation": "I cleaned the inside of the microwave oven."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "word": "炊飯器",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "rice cooker",
+    "burmese": "ထမင်းပေါင်းအိုး",
+    "definition": "An electric appliance designed for cooking rice automatically.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "すいはんき",
+    "romaji": "suihannki",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "炊飯器(すいはんき)でご飯(ごはん)を炊(た)きます。",
+        "pronunciation": "suihanki de gohan o takimasu.",
+        "translation": "I will cook rice in the rice cooker."
+      },
+      {
+        "sentence": "炊飯器(すいはんき)のスイッチを入(い)れてください。",
+        "pronunciation": "suihanki no suitchi o irete kudasai.",
+        "translation": "Please turn on the rice cooker."
+      },
+      {
+        "sentence": "炊飯器(すいはんき)で炊(た)いたご飯(ごはん)は美味(おい)しいです。",
+        "pronunciation": "suihanki de taita gohan wa oishii desu.",
+        "translation": "Rice cooked in a rice cooker is delicious."
+      },
+      {
+        "sentence": "炊飯器(すいはんき)を洗(あら)いました。",
+        "pronunciation": "suihanki o araimashita.",
+        "translation": "I washed the rice cooker."
+      },
+      {
+        "sentence": "古(ふる)い炊飯器(すいはんき)を新(あたら)しいものに買(か)えたいです。",
+        "pronunciation": "furui suihanki o atarashii mono ni kaetai desu.",
+        "translation": "I want to replace my old rice cooker with a new one."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "word": "食器",
+    "partsOfSpeech": "noun",
+    "categories": ["tableware"],
+    "english": "dishes",
+    "burmese": "ပန်းကန်",
+    "definition": "Plates, bowls, cups, and other utensils used for eating.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "しょっき",
+    "romaji": "shokki",
+    "synonyms": ["皿", "茶碗", "グラス"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "食器(しょっき)を洗(あら)ってください。",
+        "pronunciation": "shokki o aratte kudasai.",
+        "translation": "Please wash the dishes."
+      },
+      {
+        "sentence": "食器(しょっき)を棚(たな)にしまいます。",
+        "pronunciation": "shokki o tana ni shima imasu.",
+        "translation": "I will put the dishes away in the cupboard."
+      },
+      {
+        "sentence": "綺麗(きれい)な食器(しょっき)ですね。",
+        "pronunciation": "kirei na shokki desu ne.",
+        "translation": "These are beautiful dishes."
+      },
+      {
+        "sentence": "食器(しょっき)が足(た)りません。",
+        "pronunciation": "shokki ga tarimasen.",
+        "translation": "We don't have enough dishes."
+      },
+      {
+        "sentence": "落(お)として食器(しょっき)を割(わ)ってしまいました。",
+        "pronunciation": "otoshite shokki o watte shimaimashita.",
+        "translation": "I dropped and broke a dish."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "word": "皿",
+    "partsOfSpeech": "noun",
+    "categories": ["tableware"],
+    "english": "plate, dish",
+    "burmese": "ပန်းကန်ပြား",
+    "definition": "A flat, typically circular dish from which food is eaten or served.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "さら",
+    "romaji": "sara",
+    "synonyms": ["プレート"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "皿(さら)に料理(りょうり)を盛(も)ります。",
+        "pronunciation": "sara ni ryouri o morimasu.",
+        "translation": "I will serve the food on a plate."
+      },
+      {
+        "sentence": "汚(よご)れた皿(さら)を洗(あら)ってください。",
+        "pronunciation": "yogoreta sara o aratte kudasai.",
+        "translation": "Please wash the dirty plates."
+      },
+      {
+        "sentence": "この皿(さら)は綺麗(きれい)ですね。",
+        "pronunciation": "kono sara wa kirei desu ne.",
+        "translation": "This plate is beautiful."
+      },
+      {
+        "sentence": "皿(さら)を落(お)として割(わ)ってしまいました。",
+        "pronunciation": "sara o otoshite watte shimaimashita.",
+        "translation": "I dropped and broke a plate."
+      },
+      {
+        "sentence": "色(いろ)々な形(かたち)の皿(さら)があります。",
+        "pronunciation": "iroiro na katachi no sara ga arimasu.",
+        "translation": "There are plates of various shapes."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "word": "箸",
+    "partsOfSpeech": "noun",
+    "categories": ["tableware"],
+    "english": "chopsticks",
+    "burmese": "တူ",
+    "definition": "A pair of slender sticks made of wood, bamboo, ivory, or plastic that are held between the fingers and used as utensils for eating East Asian food.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "はし",
+    "romaji": "hashi",
+    "synonyms": [],
+    "antonyms": ["フォーク", "ナイフ", "スプーン"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "箸(はし)を使(つか)ってご飯(ごはん)を食(た)べます。",
+        "pronunciation": "hashi o tsukatte gohan o tabemasu.",
+        "translation": "I eat rice using chopsticks."
+      },
+      {
+        "sentence": "箸(はし)の持(も)ち方(かた)が難(むずか)しいです。",
+        "pronunciation": "hashi no mochikata ga muzukashii desu.",
+        "translation": "It's difficult to hold chopsticks correctly."
+      },
+      {
+        "sentence": "新(あたら)しい箸(はし)を買(か)いました。",
+        "pronunciation": "atarashii hashi o kaimashita.",
+        "translation": "I bought new chopsticks."
+      },
+      {
+        "sentence": "箸(はし)を落(お)としてしまいました。",
+        "pronunciation": "hashi o otoshite shimaimashita.",
+        "translation": "I dropped my chopsticks."
+      },
+      {
+        "sentence": "この箸(はし)は木(き)でできています。",
+        "pronunciation": "kono hashi wa ki de dekite imasu.",
+        "translation": "These chopsticks are made of wood."
+      }
+    ]
   }
 ]
