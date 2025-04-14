@@ -5278,5 +5278,3525 @@
         "translation": "These chopsticks are made of wood."
       }
     ]
+  },
+  {
+    "id": 121,
+    "word": "包丁",
+    "partsOfSpeech": "noun",
+    "categories": ["kitchenware"],
+    "english": "kitchen knife, knife",
+    "burmese": "ဓား",
+    "definition": "A knife used in the kitchen for preparing food.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ほうちょう",
+    "romaji": "houchou",
+    "synonyms": ["ナイフ"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "包丁(ほうちょう)で野菜(やさい)を切(き)ります。",
+        "pronunciation": "houchou de yasai o kirimasu.",
+        "translation": "I will cut vegetables with a kitchen knife."
+      },
+      {
+        "sentence": "包丁(ほうちょう)は危(あぶ)ないので注意(ちゅうい)してください。",
+        "pronunciation": "houchou wa abunai node chuui shite kudasai.",
+        "translation": "Please be careful because knives are dangerous."
+      },
+      {
+        "sentence": "よく切(き)れる包丁(ほうちょう)が欲(ほ)しいです。",
+        "pronunciation": "yoku kireru houchou ga hoshii desu.",
+        "translation": "I want a sharp kitchen knife."
+      },
+      {
+        "sentence": "包丁(ほうちょう)を研(と)ぎました。",
+        "pronunciation": "houchou o togi mashita.",
+        "translation": "I sharpened the knife."
+      },
+      {
+        "sentence": "使(つか)った後(あと)は包丁(ほうちょう)を綺麗(きれい)に洗(あら)ってください。",
+        "pronunciation": "tsukatta ato wa houchou o kirei ni aratte kudasai.",
+        "translation": "Please wash the knife clean after using it."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "word": "まな板",
+    "partsOfSpeech": "noun",
+    "categories": ["kitchenware"],
+    "english": "cutting board, chopping board",
+    "burmese": "စဉ်းတီတုံး",
+    "definition": "A durable board on which food can be cut.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "まないた",
+    "romaji": "manaita",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "まな板(まないた)の上(うえ)で野菜(やさい)を切(き)ります。",
+        "pronunciation": "manaita no ue de yasai o kirimasu.",
+        "translation": "I will cut vegetables on the cutting board."
+      },
+      {
+        "sentence": "まな板(まないた)はいつも清潔(せいけつ)にしてください。",
+        "pronunciation": "manaita wa itsumo seiketsu ni shite kudasai.",
+        "translation": "Please keep the cutting board clean at all times."
+      },
+      {
+        "sentence": "木(き)のまな板(まないた)を使(つか)っています。",
+        "pronunciation": "ki no manaita o tsukatte imasu.",
+        "translation": "I am using a wooden cutting board."
+      },
+      {
+        "sentence": "まな板(まないた)を洗剤(せんざい)でよく洗(あら)いました。",
+        "pronunciation": "manaita o senzai de yoku araimashita.",
+        "translation": "I washed the cutting board well with detergent."
+      },
+      {
+        "sentence": "まな板(まないた)が古(ふる)くなったので新(あたら)しいものを買(か)いました。",
+        "pronunciation": "manaita ga furuku natta node atarashii mono o kaimashita.",
+        "translation": "My cutting board got old, so I bought a new one."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "word": "洗濯機",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "washing machine",
+    "burmese": "အဝတ်လျှော်စက်",
+    "definition": "A machine for washing clothes.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "せんたくき",
+    "romaji": "senntakuki",
+    "synonyms": ["洗濯"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "洗濯機(せんたくき)で洗濯(せんたく)します。",
+        "pronunciation": "sentakuki de sentaku shimasu.",
+        "translation": "I will do the laundry with the washing machine."
+      },
+      {
+        "sentence": "洗濯機(せんたくき)が壊(こわ)れてしまいました。",
+        "pronunciation": "sentakuki ga kowarete shimaimashita.",
+        "translation": "The washing machine broke down."
+      },
+      {
+        "sentence": "洗濯機(せんたくき)に洗剤(せんざい)を入(い)れてください。",
+        "pronunciation": "sentakuki ni senzai o irete kudasai.",
+        "translation": "Please put detergent in the washing machine."
+      },
+      {
+        "sentence": "洗濯機(せんたくき)の音(おと)がうるさいです。",
+        "pronunciation": "sentakuki no oto ga urusai desu.",
+        "translation": "The washing machine is noisy."
+      },
+      {
+        "sentence": "新(あたら)しい洗濯機(せんたくき)が欲(ほ)しいです。",
+        "pronunciation": "atarashii sentakuki ga hoshii desu.",
+        "translation": "I want a new washing machine."
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "word": "洗剤",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "detergent, washing powder",
+    "burmese": "ဆပ်ပြာမှုန့်",
+    "definition": "A synthetic cleaning liquid or powder.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "せんざい",
+    "romaji": "sennzai",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "洗剤(せんざい)で服(ふく)を洗(あら)います。",
+        "pronunciation": "senzai de fuku o araimasu.",
+        "translation": "I wash clothes with detergent."
+      },
+      {
+        "sentence": "洗剤(せんざい)が切(き)れてしまいました。",
+        "pronunciation": "senzai ga kirete shimaimashita.",
+        "translation": "We ran out of detergent."
+      },
+      {
+        "sentence": "どの洗剤(せんざい)を使(つか)いますか。",
+        "pronunciation": "dono senzai o tsukaimasu ka.",
+        "translation": "Which detergent do you use?"
+      },
+      {
+        "sentence": "これは環境(かんきょう)に優(やさ)しい洗剤(せんざい)です。",
+        "pronunciation": "kore wa kankyou ni yasashii senzai desu.",
+        "translation": "This is an environmentally friendly detergent."
+      },
+      {
+        "sentence": "洗剤(せんざい)の匂(にお)いが好(す)きです。",
+        "pronunciation": "senzai no nioi ga suki desu.",
+        "translation": "I like the smell of detergent."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "word": "階段",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "stairs, staircase",
+    "burmese": "လှေကား",
+    "definition": "A set of steps leading from one floor of a building to another, or a series of steps on a slope.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "かいだん",
+    "romaji": "kaidann",
+    "synonyms": [],
+    "antonyms": ["エスカレーター", "エレベーター"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "階段(かいだん)を上(あ)がります。",
+        "pronunciation": "kaidan o agarimasu.",
+        "translation": "I will go up the stairs."
+      },
+      {
+        "sentence": "階段(かいだん)を下(お)ります。",
+        "pronunciation": "kaidan o orimasu.",
+        "translation": "I will go down the stairs."
+      },
+      {
+        "sentence": "階段(かいだん)で転(ころ)ばないように注意(ちゅうい)してください。",
+        "pronunciation": "kaidan de korobanai you ni chuui shite kudasai.",
+        "translation": "Please be careful not to fall on the stairs."
+      },
+      {
+        "sentence": "この建物(たてもの)には階段(かいだん)しかありません。",
+        "pronunciation": "kono tatemono ni wa kaidan shika arimasen.",
+        "translation": "There are only stairs in this building."
+      },
+      {
+        "sentence": "階段(かいだん)の電気(でんき)をつけてください。",
+        "pronunciation": "kaidan no denki o tsukete kudasai.",
+        "translation": "Please turn on the light on the stairs."
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "word": "歯ブラシ",
+    "partsOfSpeech": "noun",
+    "categories": ["personal"],
+    "english": "toothbrush",
+    "burmese": "သွားတိုက်တံ",
+    "definition": "A brush with a small head and a long handle, used for cleaning the teeth.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "はブラシ",
+    "romaji": "haburashi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "歯(は)ブラシで歯(は)を磨(みが)きます。",
+        "pronunciation": "haburashi de ha o migakimasu.",
+        "translation": "I brush my teeth with a toothbrush."
+      },
+      {
+        "sentence": "新(あたら)しい歯(は)ブラシを買(か)いました。",
+        "pronunciation": "atarashii haburashi o kaimashita.",
+        "translation": "I bought a new toothbrush."
+      },
+      {
+        "sentence": "歯(は)ブラシはどこにありますか。",
+        "pronunciation": "haburashi wa doko ni arimasu ka.",
+        "translation": "Where is the toothbrush?"
+      },
+      {
+        "sentence": "電動(でんどう)歯(は)ブラシを使(つか)っています。",
+        "pronunciation": "dendou haburashi o tsukatte imasu.",
+        "translation": "I am using an electric toothbrush."
+      },
+      {
+        "sentence": "歯(は)ブラシを定期的(ていきてき)に交換(こうかん)しましょう。",
+        "pronunciation": "haburashi o teikiteki ni koukan shimashou.",
+        "translation": "Let's replace our toothbrushes regularly."
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "word": "歯磨き粉",
+    "partsOfSpeech": "noun",
+    "categories": ["personal"],
+    "english": "toothpaste",
+    "burmese": "သွားတိုက်ဆေး",
+    "definition": "A paste or gel used with a toothbrush to clean the teeth.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "はみがきこ",
+    "romaji": "hamigakiko",
+    "synonyms": ["練り歯磨き"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "歯磨(はみが)き粉(こ)をつけて歯(は)を磨(みが)きます。",
+        "pronunciation": "hamigakiko o tsukete ha o migakimasu.",
+        "translation": "I brush my teeth with toothpaste."
+      },
+      {
+        "sentence": "歯磨(はみが)き粉(こ)がなくなりました。",
+        "pronunciation": "hamigakiko ga nakunarimashita.",
+        "translation": "We ran out of toothpaste."
+      },
+      {
+        "sentence": "色々(いろいろ)な種類(しゅるい)の歯磨(はみが)き粉(こ)があります。",
+        "pronunciation": "iroiro na shurui no hamigakiko ga arimasu.",
+        "translation": "There are various kinds of toothpaste."
+      },
+      {
+        "sentence": "子供(こども)用(よう)の歯磨(はみが)き粉(こ)を使(つか)っています。",
+        "pronunciation": "kodomo you no hamigakiko o tsukatte imasu.",
+        "translation": "I am using children's toothpaste."
+      },
+      {
+        "sentence": "この歯磨(はみが)き粉(こ)はフッ素(ふっそ)が入(はい)っています。",
+        "pronunciation": "kono hamigakiko wa fusso ga haitte imasu.",
+        "translation": "This toothpaste contains fluoride."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "word": "石鹸",
+    "partsOfSpeech": "noun",
+    "categories": ["personal"],
+    "english": "soap",
+    "burmese": "ဆပ်ပြာ",
+    "definition": "A substance used with water for washing and cleaning, made of alkali salts of fatty acids.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "せっけん",
+    "romaji": "sekkenn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "石鹸(せっけん)で手(て)を洗(あら)います。",
+        "pronunciation": "sekken de te o araimasu.",
+        "translation": "I wash my hands with soap."
+      },
+      {
+        "sentence": "固形(こけい)石鹸(せっけん)と液体(えきたい)石鹸(せっけん)があります。",
+        "pronunciation": "kokei sekken to ekitai sekken ga arimasu.",
+        "translation": "There are bar soaps and liquid soaps."
+      },
+      {
+        "sentence": "石鹸(せっけん)の匂(にお)いがいいです。",
+        "pronunciation": "sekken no nioi ga ii desu.",
+        "translation": "The soap smells nice."
+      },
+      {
+        "sentence": "石鹸(せっけん)が泡立(あわだ)ちません。",
+        "pronunciation": "sekken ga awadachimasen.",
+        "translation": "The soap doesn't lather."
+      },
+      {
+        "sentence": "肌(はだ)に優(やさ)しい石鹸(せっけん)を使(つか)っています。",
+        "pronunciation": "hada ni yasashii sekken o tsukatte imasu.",
+        "translation": "I am using soap that is gentle on the skin."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "word": "靴",
+    "partsOfSpeech": "noun",
+    "categories": ["clothing"],
+    "english": "shoes",
+    "burmese": "ဖိနပ်",
+    "definition": "Footwear made of leather or other material, with a stiff sole and heel, enclosing the foot and reaching typically to the ankle.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "くつ",
+    "romaji": "kutsu",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "靴(くつ)を履(は)いてください。",
+        "pronunciation": "kutsu o haite kudasai.",
+        "translation": "Please put on your shoes."
+      },
+      {
+        "sentence": "靴(くつ)を脱(ぬ)いでください。",
+        "pronunciation": "kutsu o nuide kudasai.",
+        "translation": "Please take off your shoes."
+      },
+      {
+        "sentence": "新(あたら)しい靴(くつ)を買(か)いました。",
+        "pronunciation": "atarashii kutsu o kaimashita.",
+        "translation": "I bought new shoes."
+      },
+      {
+        "sentence": "靴(くつ)が汚(よご)れています。",
+        "pronunciation": "kutsu ga yogorete imasu.",
+        "translation": "My shoes are dirty."
+      },
+      {
+        "sentence": "色々(いろいろ)な種類(しゅるい)の靴(くつ)があります。",
+        "pronunciation": "iroiro na shurui no kutsu ga arimasu.",
+        "translation": "There are various kinds of shoes."
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "word": "扇風機",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "electric fan",
+    "burmese": "လျှပ်စစ်ပန်ကာ",
+    "definition": "An electric appliance with rotating blades that creates a current of air for cooling or ventilation.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "せんぷうき",
+    "romaji": "sennpuuki",
+    "synonyms": ["扇風"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "扇風機(せんぷうき)をつけてください。",
+        "pronunciation": "senpuuki o tsukete kudasai.",
+        "translation": "Please turn on the electric fan."
+      },
+      {
+        "sentence": "扇風機(せんぷうき)の風(かぜ)が気持(きも)ちいいです。",
+        "pronunciation": "senpuuki no kaze ga kimochi ii desu.",
+        "translation": "The breeze from the electric fan feels good."
+      },
+      {
+        "sentence": "扇風機(せんぷうき)の音(おと)が少(すこ)しうるさいです。",
+        "pronunciation": "senpuuki no oto ga sukoshi urusai desu.",
+        "translation": "The sound of the electric fan is a little noisy."
+      },
+      {
+        "sentence": "扇風機(せんぷうき)をしまう時期(じき)になりました。",
+        "pronunciation": "senpuuki o shimau jiki ni narimashita.",
+        "translation": "It's time to put away the electric fan."
+      },
+      {
+        "sentence": "古(ふる)い扇風機(せんぷうき)が壊(こわ)れました。",
+        "pronunciation": "furui senpuuki ga kowaremashita.",
+        "translation": "The old electric fan broke down."
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "word": "充電器",
+    "partsOfSpeech": "noun",
+    "categories": ["electronics"],
+    "english": "charger",
+    "burmese": "အားသွင်းကြိုး။အားသွင်းဖို့ သုံးသောကိရိယာ",
+    "definition": "A device for charging storage batteries.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "じゅうでんき",
+    "romaji": "juudenki",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "充電器(じゅうでんき)で携帯電話(けいたいでんわ)を充電(じゅうでん)します。",
+        "pronunciation": "juudenki de keitai denwa o juuden shimasu.",
+        "translation": "I will charge my mobile phone with a charger."
+      },
+      {
+        "sentence": "充電器(じゅうでんき)を忘(わす)れてしまいました。",
+        "pronunciation": "juudenki o wasurete shimaimashita.",
+        "translation": "I forgot my charger."
+      },
+      {
+        "sentence": "充電器(じゅうでんき)はどこにありますか。",
+        "pronunciation": "juudenki wa doko ni arimasu ka.",
+        "translation": "Where is the charger?"
+      },
+      {
+        "sentence": "この充電器(じゅうでんき)はどの機種(きしゅ)にも使(つか)えます。",
+        "pronunciation": "kono juudenki wa dono kishu ni mo tsukaemasu.",
+        "translation": "This charger can be used with any model."
+      },
+      {
+        "sentence": "充電器(じゅうでんき)のコードが絡(から)まっています。",
+        "pronunciation": "juudenki no koodo ga karamatte imasu.",
+        "translation": "The charger cord is tangled."
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "word": "ごみ箱",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "trash can, garbage can, dustbin",
+    "burmese": "အမှိုက်ပုံး",
+    "definition": "A container for holding waste.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ごみばこ",
+    "romaji": "gomibako",
+    "synonyms": ["屑入れ"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "ごみ箱(ごみばこ)にごみを捨(す)ててください。",
+        "pronunciation": "gomibako ni gomi o sutete kudasai.",
+        "translation": "Please throw the trash in the trash can."
+      },
+      {
+        "sentence": "ごみ箱(ごみばこ)がいっぱいです。",
+        "pronunciation": "gomibako ga ippai desu.",
+        "translation": "The trash can is full."
+      },
+      {
+        "sentence": "ごみ箱(ごみばこ)の袋(ふくろ)を交換(こうかん)してください。",
+        "pronunciation": "gomibako no fukuro o koukan shite kudasai.",
+        "translation": "Please change the trash bag."
+      },
+      {
+        "sentence": "台所(だいどころ)にごみ箱(ごみばこ)があります。",
+        "pronunciation": "daidokoro ni gomibako ga arimasu.",
+        "translation": "There is a trash can in the kitchen."
+      },
+      {
+        "sentence": "分別(ぶんべつ)ごみのごみ箱(ごみばこ)はどこですか。",
+        "pronunciation": "bunbetsu gomi no gomibako wa doko desu ka.",
+        "translation": "Where is the recycling bin?"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "word": "電話",
+    "partsOfSpeech": "noun",
+    "categories": ["communication"],
+    "english": "telephone, phone",
+    "burmese": "တယ်လီဖုန်း",
+    "definition": "A system for transmitting voices over a distance using wire or radio, by converting acoustic vibrations to electrical signals.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "でんわ",
+    "romaji": "dennwa",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "電話(でんわ)をかけてください。",
+        "pronunciation": "denwa o kakete kudasai.",
+        "translation": "Please make a phone call."
+      },
+      {
+        "sentence": "電話番号(でんわばんごう)は何番(なんばん)ですか。",
+        "pronunciation": "denwa bangou wa nanban desu ka.",
+        "translation": "What is your phone number?"
+      },
+      {
+        "sentence": "電話(でんわ)が鳴(な)っています。",
+        "pronunciation": "denwa ga natte imasu.",
+        "translation": "The phone is ringing."
+      },
+      {
+        "sentence": "携帯電話(けいたいでんわ)を持(も)っています。",
+        "pronunciation": "keitai denwa o motte imasu.",
+        "translation": "I have a mobile phone."
+      },
+      {
+        "sentence": "電話(でんわ)で話(はな)しましょう。",
+        "pronunciation": "denwa de hanashimashou.",
+        "translation": "Let's talk on the phone."
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "word": "掃除機",
+    "partsOfSpeech": "noun",
+    "categories": ["household"],
+    "english": "vacuum cleaner",
+    "burmese": "ဖုန်စုပ်စက်",
+    "definition": "An electric appliance for cleaning carpets and other surfaces by suction.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "そうじき",
+    "romaji": "soujiki",
+    "synonyms": ["掃除"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "掃除機(そうじき)で部屋(へや)を掃除(そうじ)します。",
+        "pronunciation": "soujiki de heya o souji shimasu.",
+        "translation": "I will vacuum the room with a vacuum cleaner."
+      },
+      {
+        "sentence": "掃除機(そうじき)の音(おと)がうるさいです。",
+        "pronunciation": "soujiki no oto ga urusai desu.",
+        "translation": "The sound of the vacuum cleaner is noisy."
+      },
+      {
+        "sentence": "掃除機(そうじき)の袋(ふくろ)を交換(こうかん)してください。",
+        "pronunciation": "soujiki no fukuro o koukan shite kudasai.",
+        "translation": "Please change the vacuum cleaner bag."
+      },
+      {
+        "sentence": "コードレスの掃除機(そうじき)は便利(べんり)です。",
+        "pronunciation": "koodoresu no soujiki wa benri desu.",
+        "translation": "Cordless vacuum cleaners are convenient."
+      },
+      {
+        "sentence": "掃除機(そうじき)が壊(こわ)れて動(うご)きません。",
+        "pronunciation": "soujiki ga kowarete ugokimasen.",
+        "translation": "The vacuum cleaner is broken and doesn't work."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "word": "財布",
+    "partsOfSpeech": "noun",
+    "categories": ["personal"],
+    "english": "wallet, purse",
+    "burmese": "ပိုက်ဆံအိတ်",
+    "definition": "A small flat case that you carry in your pocket or bag, used for holding money, credit cards, and identification.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "さいふ",
+    "romaji": "saifu",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "財布(さいふ)を忘(わす)れてしまいました。",
+        "pronunciation": "saifu o wasurete shimaimashita.",
+        "translation": "I forgot my wallet."
+      },
+      {
+        "sentence": "財布(さいふ)の中(なか)にお金(かね)があまりありません。",
+        "pronunciation": "saifu no naka ni okane ga amari arimasen.",
+        "translation": "There isn't much money in my wallet."
+      },
+      {
+        "sentence": "財布(さいふ)を落(お)としてしまいました。",
+        "pronunciation": "saifu o otoshite shimaimashita.",
+        "translation": "I dropped my wallet."
+      },
+      {
+        "sentence": "新(あたら)しい財布(さいふ)が欲(ほ)しいです。",
+        "pronunciation": "atarashii saifu ga hoshii desu.",
+        "translation": "I want a new wallet."
+      },
+      {
+        "sentence": "この財布(さいふ)は革(かわ)でできています。",
+        "pronunciation": "kono saifu wa kawa de dekite imasu.",
+        "translation": "This wallet is made of leather."
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "word": "木",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "tree, wood",
+    "burmese": "သစ်ပင်, သစ်သား",
+    "definition": "A perennial plant with a trunk and branches made of wood; the hard fibrous material that forms the main substance of a tree or shrub.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "き",
+    "romaji": "ki",
+    "synonyms": ["樹木"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "庭(にわ)に大(おお)きい木(き)があります。",
+        "pronunciation": "niwa ni ookii ki ga arimasu.",
+        "translation": "There is a big tree in the garden."
+      },
+      {
+        "sentence": "この机(つくえ)は木(き)でできています。",
+        "pronunciation": "kono tsukue wa ki de dekite imasu.",
+        "translation": "This desk is made of wood."
+      },
+      {
+        "sentence": "木(き)の葉(は)が紅葉(こうよう)しています。",
+        "pronunciation": "ki no ha ga kouyou shite imasu.",
+        "translation": "The leaves of the trees are turning red."
+      },
+      {
+        "sentence": "木(き)を切(き)る音(おと)が聞(き)こえます。",
+        "pronunciation": "ki o kiru oto ga kikoemasu.",
+        "translation": "I can hear the sound of cutting wood."
+      },
+      {
+        "sentence": "木(き)陰(かげ)で休(やす)みました。",
+        "pronunciation": "kokage de yasumimashita.",
+        "translation": "I rested in the shade of a tree."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "word": "花",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "flower",
+    "burmese": "ပန်း",
+    "definition": "The reproductive structure found in flowering plants (plants of the division Angiospermae).",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "はな",
+    "romaji": "hana",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "花(はな)が咲(さ)いています。",
+        "pronunciation": "hana ga saite imasu.",
+        "translation": "Flowers are blooming."
+      },
+      {
+        "sentence": "綺麗(きれい)な花(はな)ですね。",
+        "pronunciation": "kirei na hana desu ne.",
+        "translation": "What a beautiful flower!"
+      },
+      {
+        "sentence": "花(はな)の匂(にお)いがします。",
+        "pronunciation": "hana no nioi ga shimasu.",
+        "translation": "I can smell flowers."
+      },
+      {
+        "sentence": "花瓶(かびん)に花(はな)を生(い)けました。",
+        "pronunciation": "kabin ni hana o ikemashita.",
+        "translation": "I arranged flowers in a vase."
+      },
+      {
+        "sentence": "プレゼントに花(はな)を贈(おく)りました。",
+        "pronunciation": "purezento ni hana o okurimashita.",
+        "translation": "I sent flowers as a gift."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "word": "山",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "mountain",
+    "burmese": "တောင်",
+    "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "やま",
+    "romaji": "yama",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "山(やま)に登(のぼ)ります。",
+        "pronunciation": "yama ni noborimasu.",
+        "translation": "I will climb a mountain."
+      },
+      {
+        "sentence": "あの山(やま)は高(たか)いです。",
+        "pronunciation": "ano yama wa takai desu.",
+        "translation": "That mountain is high."
+      },
+      {
+        "sentence": "山(やま)の景色(けしき)は綺麗(きれい)です。",
+        "pronunciation": "yama no keshiki wa kirei desu.",
+        "translation": "The mountain scenery is beautiful."
+      },
+      {
+        "sentence": "山(やま)でキャンプをしました。",
+        "pronunciation": "yama de kyanpu o shimashita.",
+        "translation": "We went camping in the mountains."
+      },
+      {
+        "sentence": "山(やま)の空気(くうき)は澄(す)んでいます。",
+        "pronunciation": "yama no kuuki wa sunde imasu.",
+        "translation": "The air in the mountains is clear."
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "word": "川",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "river",
+    "burmese": "မြစ်",
+    "definition": "A natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "かわ",
+    "romaji": "kawa",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "川(かわ)で泳(およ)ぎます。",
+        "pronunciation": "kawa de oyogimasu.",
+        "translation": "I will swim in the river."
+      },
+      {
+        "sentence": "川(かわ)の水(みず)は冷(つめ)たいです。",
+        "pronunciation": "kawa no mizu wa tsumetai desu.",
+        "translation": "The river water is cold."
+      },
+      {
+        "sentence": "川(かわ)のそばを散歩(さんぽ)しました。",
+        "pronunciation": "kawa no soba o sanpo shimashita.",
+        "translation": "I took a walk along the river."
+      },
+      {
+        "sentence": "川(かわ)で魚(さかな)を釣(つ)ります。",
+        "pronunciation": "kawa de sakana o tsurimasu.",
+        "translation": "I will fish in the river."
+      },
+      {
+        "sentence": "この川(かわ)は長(なが)いです。",
+        "pronunciation": "kono kawa wa nagai desu.",
+        "translation": "This river is long."
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "word": "海",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "sea, ocean",
+    "burmese": "ပင်လယ်",
+    "definition": "The expanse of salt water that covers most of the earth's surface and surrounds its landmasses.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "うみ",
+    "romaji": "umi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "海(うみ)に行(い)きたいです。",
+        "pronunciation": "umi ni ikitai desu.",
+        "translation": "I want to go to the sea."
+      },
+      {
+        "sentence": "海(うみ)は広(ひろ)いです。",
+        "pronunciation": "umi wa hiroi desu.",
+        "translation": "The sea is vast."
+      },
+      {
+        "sentence": "海(うみ)で泳(およ)ぎました。",
+        "pronunciation": "umi de oyogimashita.",
+        "translation": "I swam in the sea."
+      },
+      {
+        "sentence": "海(うみ)の波(なみ)の音(おと)が聞(き)こえます。",
+        "pronunciation": "umi no nami no oto ga kikoemasu.",
+        "translation": "I can hear the sound of the sea waves."
+      },
+      {
+        "sentence": "海(うみ)の夕日(ゆうひ)は綺麗(きれい)です。",
+        "pronunciation": "umi no yuuhi wa kirei desu.",
+        "translation": "The sunset over the sea is beautiful."
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "word": "空",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "sky",
+    "burmese": "ကောင်းကင်",
+    "definition": "The region of the atmosphere and outer space seen from the earth.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "そら",
+    "romaji": "sora",
+    "synonyms": [],
+    "antonyms": ["地面"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "空(そら)は青(あお)いです。",
+        "pronunciation": "sora wa aoi desu.",
+        "translation": "The sky is blue."
+      },
+      {
+        "sentence": "空(そら)に雲(くも)が浮(う)かんでいます。",
+        "pronunciation": "sora ni kumo ga ukan de imasu.",
+        "translation": "Clouds are floating in the sky."
+      },
+      {
+        "sentence": "夜(よる)の空(そら)には星(ほし)がたくさん見(み)えます。",
+        "pronunciation": "yoru no sora ni wa hoshi ga takusan miemasu.",
+        "translation": "You can see many stars in the night sky."
+      },
+      {
+        "sentence": "空(そら)を見上(みあ)げました。",
+        "pronunciation": "sora o miagemashita.",
+        "translation": "I looked up at the sky."
+      },
+      {
+        "sentence": "飛行機(ひこうき)が空(そら)を飛(と)んでいます。",
+        "pronunciation": "hikouki ga sora o tonde imasu.",
+        "translation": "An airplane is flying in the sky."
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "word": "風",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "wind",
+    "burmese": "လေ",
+    "definition": "The natural movement of the air, especially in the form of a current of air blowing from a particular direction.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "かぜ",
+    "romaji": "kaze",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "風(かぜ)が吹(ふ)いています。",
+        "pronunciation": "kaze ga fuite imasu.",
+        "translation": "The wind is blowing."
+      },
+      {
+        "sentence": "強(つよ)い風(かぜ)が吹(ふ)いています。",
+        "pronunciation": "tsuyoi kaze ga fuite imasu.",
+        "translation": "A strong wind is blowing."
+      },
+      {
+        "sentence": "風(かぜ)が気持(きも)ちいいです。",
+        "pronunciation": "kaze ga kimochi ii desu.",
+        "translation": "The wind feels good."
+      },
+      {
+        "sentence": "風(かぜ)で木(き)の葉(は)が揺(ゆ)れています。",
+        "pronunciation": "kaze de ki no ha ga yurete imasu.",
+        "translation": "The leaves of the trees are swaying in the wind."
+      },
+      {
+        "sentence": "風邪(かぜ)をひきました。",
+        "pronunciation": "kaze o hikimashita.",
+        "translation": "I caught a cold."
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "word": "雲",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "cloud",
+    "burmese": "တိမ်",
+    "definition": "A visible mass of water droplets or ice crystals suspended in the atmosphere at some height above the earth's surface.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "くも",
+    "romaji": "kumo",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "空(そら)に雲(くも)がたくさんあります。",
+        "pronunciation": "sora ni kumo ga takusan arimasu.",
+        "translation": "There are many clouds in the sky."
+      },
+      {
+        "sentence": "雲(くも)が流(なが)れています。",
+        "pronunciation": "kumo ga nagarete imasu.",
+        "translation": "The clouds are flowing."
+      },
+      {
+        "sentence": "雨(あめ)雲(ぐも)が出てきました。",
+        "pronunciation": "amegumo ga dete kimashita.",
+        "translation": "Rain clouds have appeared."
+      },
+      {
+        "sentence": "雲(くも)の形(かたち)が変(か)わっています。",
+        "pronunciation": "kumo no katachi ga kawatte imasu.",
+        "translation": "The shape of the clouds is changing."
+      },
+      {
+        "sentence": "白い雲(しろいくも)が綺麗(きれい)です。",
+        "pronunciation": "shiroi kumo ga kirei desu.",
+        "translation": "The white clouds are beautiful."
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "word": "火",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "fire",
+    "burmese": "မီး",
+    "definition": "Combustion or burning, in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ひ",
+    "romaji": "hi",
+    "synonyms": [],
+    "antonyms": ["水"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "火(ひ)に気(き)をつけてください。",
+        "pronunciation": "hi ni ki o tsukete kudasai.",
+        "translation": "Please be careful with fire."
+      },
+      {
+        "sentence": "火(ひ)が燃(も)えています。",
+        "pronunciation": "hi ga moete imasu.",
+        "translation": "The fire is burning."
+      },
+      {
+        "sentence": "火(ひ)を消(け)してください。",
+        "pronunciation": "hi o keshite kudasai.",
+        "translation": "Please put out the fire."
+      },
+      {
+        "sentence": "火事(かじ)がありました。",
+        "pronunciation": "kaji ga arimashita.",
+        "translation": "There was a fire."
+      },
+      {
+        "sentence": "暖炉(だんろ)の火(ひ)は暖(あたた)かいです。",
+        "pronunciation": "danro no hi wa atatakai desu.",
+        "translation": "The fire in the fireplace is warm."
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "word": "月",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "time"],
+    "english": "moon, month",
+    "burmese": "လ, လ (လရက်)",
+    "definition": "The natural satellite of the earth, visible (chiefly at night) by reflected light from the sun; each of the twelve named periods into which a year is divided.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "つき",
+    "romaji": "tsuki",
+    "synonyms": [],
+    "antonyms": ["太陽"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "月(つき)が綺麗(きれい)ですね。",
+        "pronunciation": "tsuki ga kirei desu ne.",
+        "translation": "The moon is beautiful, isn't it?"
+      },
+      {
+        "sentence": "今月(こんげつ)は忙(いそが)しいです。",
+        "pronunciation": "kongetsu wa isogashii desu.",
+        "translation": "I am busy this month."
+      },
+      {
+        "sentence": "満月(まんげつ)が出(で)ています。",
+        "pronunciation": "mangetsu ga dete imasu.",
+        "translation": "The full moon is out."
+      },
+      {
+        "sentence": "来月(らいげつ)旅行(りょこう)に行(い)きます。",
+        "pronunciation": "raigetsu ryokou ni ikimasu.",
+        "translation": "I will go on a trip next month."
+      },
+      {
+        "sentence": "月曜日(げつようび)は学校(がっこう)があります。",
+        "pronunciation": "getsuyoubi wa gakkou ga arimasu.",
+        "translation": "There is school on Monday."
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "word": "星",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "star",
+    "burmese": "ကြယ်",
+    "definition": "A fixed luminous point in the night sky which is a large, remote incandescent body like the sun.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ほし",
+    "romaji": "hoshi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "夜空(よぞら)に星(ほし)が輝(かがや)いています。",
+        "pronunciation": "yozora ni hoshi ga kagayaite imasu.",
+        "translation": "Stars are shining in the night sky."
+      },
+      {
+        "sentence": "星(ほし)が綺麗(きれい)ですね。",
+        "pronunciation": "hoshi ga kirei desu ne.",
+        "translation": "The stars are beautiful, aren't they?"
+      },
+      {
+        "sentence": "星(ほし)を見(み)に行(い)きましょう。",
+        "pronunciation": "hoshi o mi ni ikimashou.",
+        "translation": "Let's go see the stars."
+      },
+      {
+        "sentence": "流れ星(ながれぼし)を見(み)ました。",
+        "pronunciation": "nagareboshi o mimashita.",
+        "translation": "I saw a shooting star."
+      },
+      {
+        "sentence": "星座(せいざ)を探(さが)しました。",
+        "pronunciation": "seiza o sagashimashita.",
+        "translation": "I looked for constellations."
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "word": "虹",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "rainbow",
+    "burmese": "သက်တံ့",
+    "definition": "A multicolored arc made by light striking water droplets.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "にじ",
+    "romaji": "niji",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "雨(あめ)上(あ)がりに虹(にじ)が出(で)ました。",
+        "pronunciation": "ameagari ni niji ga demashita.",
+        "translation": "A rainbow appeared after the rain."
+      },
+      {
+        "sentence": "綺麗(きれい)な虹(にじ)ですね。",
+        "pronunciation": "kirei na niji desu ne.",
+        "translation": "What a beautiful rainbow!"
+      },
+      {
+        "sentence": "虹(にじ)の七色(なないろ)は綺麗(きれい)です。",
+        "pronunciation": "niji no nanairo wa kirei desu.",
+        "translation": "The seven colors of the rainbow are beautiful."
+      },
+      {
+        "sentence": "空(そら)に大き(おお)な虹(にじ)がかかりました。",
+        "pronunciation": "sora ni ookina niji ga kakarimashita.",
+        "translation": "A large rainbow arched across the sky."
+      },
+      {
+        "sentence": "虹(にじ)の端(はし)を見(み)てみたいです。",
+        "pronunciation": "niji no hashi o mite mitai desu.",
+        "translation": "I want to see the end of the rainbow."
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "word": "雨",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "rain",
+    "burmese": "မိုး",
+    "definition": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "あめ",
+    "romaji": "ame",
+    "synonyms": [],
+    "antonyms": ["晴れ"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "雨(あめ)が降(ふ)っています。",
+        "pronunciation": "ame ga futte imasu.",
+        "translation": "It is raining."
+      },
+      {
+        "sentence": "強(つよ)い雨(あめ)です。",
+        "pronunciation": "tsuyoi ame desu.",
+        "translation": "It's raining heavily."
+      },
+      {
+        "sentence": "雨(あめ)が止(や)みました。",
+        "pronunciation": "ame ga yamimashita.",
+        "translation": "The rain stopped."
+      },
+      {
+        "sentence": "傘(かさ)を持(も)って行(い)きましょう。",
+        "pronunciation": "kasa o motte ikimashou.",
+        "translation": "Let's take an umbrella."
+      },
+      {
+        "sentence": "雨(あめ)の日(ひ)は家(うち)でゆっくりします。",
+        "pronunciation": "ame no hi wa uchi de yukkuri shimasu.",
+        "translation": "I relax at home on rainy days."
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "word": "雪",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "snow",
+    "burmese": "နှင်း",
+    "definition": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ゆき",
+    "romaji": "yuki",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "雪(ゆき)が降(ふ)っています。",
+        "pronunciation": "yuki ga futte imasu.",
+        "translation": "It is snowing."
+      },
+      {
+        "sentence": "雪(ゆき)が積(つも)っています。",
+        "pronunciation": "yuki ga tsumotte imasu.",
+        "translation": "The snow is accumulating."
+      },
+      {
+        "sentence": "雪(ゆき)景色(げしき)は綺麗(きれい)です。",
+        "pronunciation": "yuki keshiki wa kirei desu.",
+        "translation": "The snowy scenery is beautiful."
+      },
+      {
+        "sentence": "雪(ゆき)だるまを作(つく)りました。",
+        "pronunciation": "yukidaruma o tsukurimashita.",
+        "translation": "I made a snowman."
+      },
+      {
+        "sentence": "雪(ゆき)で道(みち)が滑(すべ)りやすいです。",
+        "pronunciation": "yuki de michi ga suberiyasui desu.",
+        "translation": "The roads are slippery due to the snow."
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "word": "石",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "stone, rock",
+    "burmese": "ကျောက်တုံး",
+    "definition": "Solid mineral matter forming part of the earth's crust.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "いし",
+    "romaji": "ishi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "道(みち)に石(いし)が転(ころ)がっています。",
+        "pronunciation": "michi ni ishi ga korogatte imasu.",
+        "translation": "There is a stone lying on the road."
+      },
+      {
+        "sentence": "庭(にわ)に石(いし)を並(なら)べました。",
+        "pronunciation": "niwa ni ishi o narabemashita.",
+        "translation": "I arranged stones in the garden."
+      },
+      {
+        "sentence": "この石(いし)は綺麗(きれい)ですね。",
+        "pronunciation": "kono ishi wa kirei desu ne.",
+        "translation": "This stone is beautiful, isn't it?"
+      },
+      {
+        "sentence": "石(いし)垣(がき)があります。",
+        "pronunciation": "ishigaki ga arimasu.",
+        "translation": "There is a stone wall."
+      },
+      {
+        "sentence": "石(いし)で遊(あそ)びました。",
+        "pronunciation": "ishi de asobimashita.",
+        "translation": "I played with stones."
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "word": "土",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "soil, earth, ground",
+    "burmese": "မြေ",
+    "definition": "The upper layer of earth in which plants grow, a black or dark brown material typically consisting of a mixture of organic remains, clay, rock particles, etc.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "つち",
+    "romaji": "tsuchi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "土(つち)に種(たね)を植(う)えます。",
+        "pronunciation": "tsuchi ni tane o uemasu.",
+        "translation": "I will plant seeds in the soil."
+      },
+      {
+        "sentence": "庭(にわ)の土(つち)を耕(たがや)しました。",
+        "pronunciation": "niwa no tsuchi o tagayashimashita.",
+        "translation": "I cultivated the garden soil."
+      },
+      {
+        "sentence": "土(つち)が濡(ぬ)れています。",
+        "pronunciation": "tsuchi ga nurete imasu.",
+        "translation": "The ground is wet."
+      },
+      {
+        "sentence": "土(つち)で遊(あそ)びました。",
+        "pronunciation": "tsuchi de asobimashita.",
+        "translation": "I played with soil."
+      },
+      {
+        "sentence": "この花(はな)は良(よ)い土(つち)を必要(ひつよう)とします。",
+        "pronunciation": "kono hana wa yoi tsuchi o hitsuyou to shimasu.",
+        "translation": "This flower needs good soil."
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "word": "草",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "grass, weed",
+    "burmese": "မြက်",
+    "definition": "Vegetation consisting of typically short plants with long narrow leaves, growing wild or cultivated on lawns and pasture.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "くさ",
+    "romaji": "kusa",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "庭(にわ)の草(くさ)を刈(か)ります。",
+        "pronunciation": "niwa no kusa o karimasu.",
+        "translation": "I will cut the grass in the garden."
+      },
+      {
+        "sentence": "草(くさ)が生(は)えています。",
+        "pronunciation": "kusa ga haete imasu.",
+        "translation": "Grass is growing."
+      },
+      {
+        "sentence": "草(くさ)むらに虫(むし)がいます。",
+        "pronunciation": "kusamura ni mushi ga imasu.",
+        "translation": "There are insects in the bushes."
+      },
+      {
+        "sentence": "草(くさ)を取(と)りました。",
+        "pronunciation": "kusa o torimashita.",
+        "translation": "I pulled out the weeds."
+      },
+      {
+        "sentence": "この草(くさ)は何(なん)という名前(なまえ)ですか。",
+        "pronunciation": "kono kusa wa nan to iu namae desu ka.",
+        "translation": "What is the name of this grass?"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "word": "葉",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "leaf",
+    "burmese": "အရွက်",
+    "definition": "A flattened structure of a higher plant, typically green and blade-like, that is attached to a stem directly or via a petiole and that is the principal site of photosynthesis.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "は",
+    "romaji": "ha",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "木(き)の葉(は)が落(お)ちています。",
+        "pronunciation": "ki no ha ga ochite imasu.",
+        "translation": "Leaves are falling from the trees."
+      },
+      {
+        "sentence": "緑(みどり)の葉(は)が綺麗(きれい)です。",
+        "pronunciation": "midori no ha ga kirei desu.",
+        "translation": "The green leaves are beautiful."
+      },
+      {
+        "sentence": "紅葉(こうよう)の葉(は)は赤(あか)いです。",
+        "pronunciation": "kouyou no ha wa akai desu.",
+        "translation": "The autumn leaves are red."
+      },
+      {
+        "sentence": "葉(は)っぱの上(うえ)に雨(あめ)の雫(しずく)があります。",
+        "pronunciation": "happa no ue ni ame no shizuku ga arimasu.",
+        "translation": "There are raindrops on the leaves."
+      },
+      {
+        "sentence": "葉(は)を触(さわ)るとざらざらしています。",
+        "pronunciation": "ha o sawaru to zarazara shite imasu.",
+        "translation": "The leaf feels rough to the touch."
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "word": "葉っぱ",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "leaf (colloquial)",
+    "burmese": "အရွက် (စကားပြော)",
+    "definition": "A leaf (often used in a more casual or childlike way).",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "informal",
+    "pronunciation": "はっぱ",
+    "romaji": "happa",
+    "synonyms": ["葉"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "葉(はっぱ)の色(いろ)が変(か)わったね。",
+        "pronunciation": "happa no iro ga kawatta ne.",
+        "translation": "The color of the leaves has changed, hasn't it?"
+      },
+      {
+        "sentence": "子供(こども)たちが葉(はっぱ)を集(あつ)めて遊(あそ)んでいます。",
+        "pronunciation": "kodomotachi ga happa o atsumete asonde imasu.",
+        "translation": "The children are collecting leaves and playing."
+      },
+      {
+        "sentence": "風(かぜ)で葉(はっぱ)が舞(ま)い上(あ)がっています。",
+        "pronunciation": "kaze de happa ga maiagatte imasu.",
+        "translation": "Leaves are swirling up in the wind."
+      },
+      {
+        "sentence": "この葉(はっぱ)はどんな木(き)の葉(はっぱ)かな？",
+        "pronunciation": "kono happa wa donna ki no happa kana?",
+        "translation": "I wonder what kind of tree this leaf is from?"
+      },
+      {
+        "sentence": "枯(か)れた葉(はっぱ)を踏(ふ)む音(おと)がする。",
+        "pronunciation": "kareta happa o fumu oto ga suru.",
+        "translation": "I hear the sound of stepping on fallen leaves."
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "word": "枝",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "branch, twig",
+    "burmese": "အကိုင်း, အခက်",
+    "definition": "A part of a tree that grows out from the trunk or from a thicker branch.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "えだ",
+    "romaji": "eda",
+    "synonyms": [],
+    "antonyms": ["幹"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "木(き)の枝(えだ)が折(お)れました。",
+        "pronunciation": "ki no eda ga ore mashita.",
+        "translation": "A branch of the tree broke."
+      },
+      {
+        "sentence": "鳥(とり)が枝(えだ)にとまっています。",
+        "pronunciation": "tori ga eda ni tomatte imasu.",
+        "translation": "A bird is perched on a branch."
+      },
+      {
+        "sentence": "地面(じめん)に枝(えだ)がたくさん落(お)ちています。",
+        "pronunciation": "jimen ni eda ga takusan ochite imasu.",
+        "translation": "Many branches have fallen on the ground."
+      },
+      {
+        "sentence": "この枝(えだ)は丈夫(じょうぶ)です。",
+        "pronunciation": "kono eda wa joubu desu.",
+        "translation": "This branch is strong."
+      },
+      {
+        "sentence": "剪定(せんてい)して枝(えだ)を切(き)りました。",
+        "pronunciation": "sentei shite eda o kirimashita.",
+        "translation": "I pruned and cut the branches."
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "word": "根",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "root",
+    "burmese": "အမြစ်",
+    "definition": "The part of a plant that typically grows underground, anchors the plant, and absorbs water and nutrients from the soil.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ね",
+    "romaji": "nekko",
+    "synonyms": [],
+    "antonyms": ["茎", "葉"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "木(き)の根(ね)が地面(じめん)から出(で)ています。",
+        "pronunciation": "ki no ne ga jimen kara dete imasu.",
+        "translation": "The roots of the tree are coming out of the ground."
+      },
+      {
+        "sentence": "根(ね)っこをしっかり張(は)った木(き)は強(つよ)いです。",
+        "pronunciation": "nekko o shikkari hatta ki wa tsuyoi desu.",
+        "translation": "Trees with firmly established roots are strong."
+      },
+      {
+        "sentence": "大雨(おおあめ)で木(き)が根(ね)こそぎ倒(たお)れました。",
+        "pronunciation": "ooame de ki ga nekosogi taoremashita.",
+        "translation": "A tree was uprooted by the heavy rain."
+      },
+      {
+        "sentence": "この植物(しょくぶつ)は根(ね)が浅(あさ)いです。",
+        "pronunciation": "kono shokubutsu wa ne ga asai desu.",
+        "translation": "This plant has shallow roots."
+      },
+      {
+        "sentence": "根(ね)を傷(きず)つけないように移植(いしょく)しました。",
+        "pronunciation": "ne o kizutsukenai you ni ishoku shimashita.",
+        "translation": "I transplanted it carefully so as not to damage the roots."
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "word": "虫",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "animals"],
+    "english": "insect, bug",
+    "burmese": "ပိုးကောင်",
+    "definition": "A small arthropod animal that has six legs and generally one or two pairs of wings.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "むし",
+    "romaji": "mushi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "虫(むし)が飛(と)んでいます。",
+        "pronunciation": "mushi ga tonde imasu.",
+        "translation": "An insect is flying."
+      },
+      {
+        "sentence": "庭(にわ)にはたくさんの虫(むし)がいます。",
+        "pronunciation": "niwa ni wa takusan no mushi ga imasu.",
+        "translation": "There are many insects in the garden."
+      },
+      {
+        "sentence": "虫(むし)に刺(さ)されました。",
+        "pronunciation": "mushi ni sasaremashita.",
+        "translation": "I was bitten by an insect."
+      },
+      {
+        "sentence": "この花(はな)には虫(むし)が集(あつ)まります。",
+        "pronunciation": "kono hana ni wa mushi ga atsumarimasu.",
+        "translation": "Insects gather on this flower."
+      },
+      {
+        "sentence": "虫(むし)の声(こえ)が聞(き)こえます。",
+        "pronunciation": "mushi no koe ga kikoemasu.",
+        "translation": "I can hear the sound of insects."
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "word": "鳥",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "animals"],
+    "english": "bird",
+    "burmese": "ငှက်",
+    "definition": "A warm-blooded vertebrate animal of a class distinguished by feathers, wings, toothless beaked jaws, and laying hard-shelled eggs.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "とり",
+    "romaji": "tori",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "鳥(とり)が空(そら)を飛(と)んでいます。",
+        "pronunciation": "tori ga sora o tonde imasu.",
+        "translation": "A bird is flying in the sky."
+      },
+      {
+        "sentence": "庭(にわ)に鳥(とり)が来(き)ました。",
+        "pronunciation": "niwa ni tori ga kimashita.",
+        "translation": "A bird came to the garden."
+      },
+      {
+        "sentence": "鳥(とり)の鳴(な)き声(ごえ)が聞(き)こえます。",
+        "pronunciation": "tori no nakigoe ga kikoemasu.",
+        "translation": "I can hear the chirping of birds."
+      },
+      {
+        "sentence": "色(いろ)々な種類(しゅるい)の鳥(とり)がいます。",
+        "pronunciation": "iroiro na shurui no tori ga imasu.",
+        "translation": "There are various kinds of birds."
+      },
+      {
+        "sentence": "鳥(とり)の巣(す)を見(み)つけました。",
+        "pronunciation": "tori no su o mitsukemashita.",
+        "translation": "I found a bird's nest."
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "word": "魚",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "animals"],
+    "english": "fish",
+    "burmese": "ငါး",
+    "definition": "A limbless cold-blooded vertebrate animal with gills and fins living wholly in water.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "さかな",
+    "romaji": "sakana",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "魚(さかな)が泳(およ)いでいます。",
+        "pronunciation": "sakana ga oyoide imasu.",
+        "translation": "A fish is swimming."
+      },
+      {
+        "sentence": "魚(さかな)を食(た)べます。",
+        "pronunciation": "sakana o tabemasu.",
+        "translation": "I will eat fish."
+      },
+      {
+        "sentence": "魚(さかな)を釣(つ)ります。",
+        "pronunciation": "sakana o tsurimasu.",
+        "translation": "I will fish."
+      },
+      {
+        "sentence": "この魚(さかな)は新鮮(しんせん)です。",
+        "pronunciation": "kono sakana wa shinsen desu.",
+        "translation": "This fish is fresh."
+      },
+      {
+        "sentence": "水族館(すいぞくかん)で色々(いろいろ)な魚(さかな)を見(み)ました。",
+        "pronunciation": "suizokukan de iroiro na sakana o mimashita.",
+        "translation": "I saw various kinds of fish at the aquarium."
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "word": "海岸",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "places"],
+    "english": "coast, seashore, beach",
+    "burmese": "ကမ်းခြေ",
+    "definition": "The part of the land adjoining or near the sea.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "かいがん",
+    "romaji": "kaigann",
+    "synonyms": ["浜辺", "砂浜"],
+    "antonyms": ["内陸"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "海岸(かいがん)を散歩(さんぽ)しました。",
+        "pronunciation": "kaigann o sanpo shimashita.",
+        "translation": "I took a walk along the coast."
+      },
+      {
+        "sentence": "海岸(かいがん)で貝殻(かいがら)を拾(ひろ)いました。",
+        "pronunciation": "kaigann de kaigara o hiroimashita.",
+        "translation": "I picked up seashells on the beach."
+      },
+      {
+        "sentence": "海岸(かいがん)から海(うみ)を見(み)ました。",
+        "pronunciation": "kaigann kara umi o mimashita.",
+        "translation": "I looked at the sea from the coast."
+      },
+      {
+        "sentence": "この海岸(かいがん)は綺麗(きれい)です。",
+        "pronunciation": "kono kaigann wa kirei desu.",
+        "translation": "This coast is beautiful."
+      },
+      {
+        "sentence": "海岸(かいがん)にはたくさんの人(ひと)がいました。",
+        "pronunciation": "kaigann ni wa takusan no hito ga imashita.",
+        "translation": "There were many people on the beach."
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "word": "森",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "places"],
+    "english": "forest, woods",
+    "burmese": "တော",
+    "definition": "A dense growth of trees and underbrush covering a large tract of land.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "もり",
+    "romaji": "mori",
+    "synonyms": ["森林"],
+    "antonyms": ["草原", "砂漠"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "森(もり)の中(なか)を歩(ある)きました。",
+        "pronunciation": "mori no naka o arukimasu.",
+        "translation": "I walked through the forest."
+      },
+      {
+        "sentence": "森(もり)にはたくさんの木(き)があります。",
+        "pronunciation": "mori ni wa takusan no ki ga arimasu.",
+        "translation": "There are many trees in the forest."
+      },
+      {
+        "sentence": "森(もり)の空気(くうき)は綺麗(きれい)です。",
+        "pronunciation": "mori no kuuki wa kirei desu.",
+        "translation": "The air in the forest is clean."
+      },
+      {
+        "sentence": "森(もり)でキャンプをしました。",
+        "pronunciation": "mori de kyanpu o shimashita.",
+        "translation": "We went camping in the forest."
+      },
+      {
+        "sentence": "森(もり)の中(なか)で道(みち)に迷(まよ)いました。",
+        "pronunciation": "mori no naka de michi ni mayoimashita.",
+        "translation": "I got lost in the forest."
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "word": "砂",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "sand",
+    "burmese": "သဲ",
+    "definition": "A granular material composed of finely divided rock and mineral particles.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "すな",
+    "romaji": "suna",
+    "synonyms": [],
+    "antonyms": ["土"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "砂浜(すなはま)で遊(あそ)びました。",
+        "pronunciation": "sunahama de asobimashita.",
+        "translation": "I played on the sandy beach."
+      },
+      {
+        "sentence": "砂(すな)のお城(しろ)を作(つく)りました。",
+        "pronunciation": "suna no oshiro o tsukurimashita.",
+        "translation": "I made a sandcastle."
+      },
+      {
+        "sentence": "砂(すな)に足(あし)を取(と)られました。",
+        "pronunciation": "suna ni ashi o toraremashita.",
+        "translation": "I got stuck in the sand."
+      },
+      {
+        "sentence": "砂(すな)が靴(くつ)の中(なか)に入(はい)りました。",
+        "pronunciation": "suna ga kutsu no naka ni hairimasu.",
+        "translation": "Sand got into my shoes."
+      },
+      {
+        "sentence": "砂(すな)遊び(あそ)びが好(す)きです。",
+        "pronunciation": "suna asobi ga suki desu.",
+        "translation": "I like playing in the sand."
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "word": "岩",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "rock, boulder, cliff",
+    "burmese": "ကျောက်ဆောင်",
+    "definition": "A large mass of stone forming a prominent outcrop or cliff; the solid mineral material forming part of the earth's crust.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "いわ",
+    "romaji": "iwa",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "海岸(かいがん)に岩(いわ)がたくさんあります。",
+        "pronunciation": "kaigan ni iwa ga takusan arimasu.",
+        "translation": "There are many rocks on the coast."
+      },
+      {
+        "sentence": "岩(いわ)に腰(こし)をかけました。",
+        "pronunciation": "iwa ni koshi o kakemashita.",
+        "translation": "I sat down on a rock."
+      },
+      {
+        "sentence": "大(おお)きな岩(いわ)が道(みち)を塞(ふさ)いでいます。",
+        "pronunciation": "ookina iwa ga michi o fusaide imasu.",
+        "translation": "A large rock is blocking the road."
+      },
+      {
+        "sentence": "岩(いわ)の割(わ)れ目(め)に植物(しょくぶつ)が生(は)えています。",
+        "pronunciation": "iwa no wareme ni shokubutsu ga haete imasu.",
+        "translation": "Plants are growing in the cracks of the rock."
+      },
+      {
+        "sentence": "あの岩(いわ)は特別(とくべつ)な形(かたち)をしています。",
+        "pronunciation": "ano iwa wa tokubetsu na katachi o shite imasu.",
+        "translation": "That rock has a special shape."
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "word": "地球",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "astronomy"],
+    "english": "Earth",
+    "burmese": "ကမ္ဘာဂြိုဟ်။ကမ္ဘာ",
+    "definition": "The planet on which we live; the world.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ちきゅう",
+    "romaji": "chikyuu",
+    "synonyms": ["世界"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "地球(ちきゅう)は丸(まる)いです。",
+        "pronunciation": "chikyuu wa marui desu.",
+        "translation": "The Earth is round."
+      },
+      {
+        "sentence": "地球(ちきゅう)温暖化(おんだんか)が問題(もんだい)になっています。",
+        "pronunciation": "chikyuu ondanka ga mondai ni natte imasu.",
+        "translation": "Global warming is becoming a problem."
+      },
+      {
+        "sentence": "地球(ちきゅう)の70%は海(うみ)です。",
+        "pronunciation": "chikyuu no nanaju paasento wa umi desu.",
+        "translation": "70% of the Earth is ocean."
+      },
+      {
+        "sentence": "地球(ちきゅう)を守(まも)りましょう。",
+        "pronunciation": "chikyuu o mamorimashou.",
+        "translation": "Let's protect the Earth."
+      },
+      {
+        "sentence": "宇宙(うちゅう)から見(み)る地球(ちきゅう)は青(あお)いです。",
+        "pronunciation": "uchuu kara miru chikyuu wa aoi desu.",
+        "translation": "The Earth looks blue when seen from space."
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "word": "空気",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "air",
+    "burmese": "လေထု။လေ",
+    "definition": "The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "くうき",
+    "romaji": "kuuki",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "空気(くうき)が綺麗(きれい)です。",
+        "pronunciation": "kuuki ga kirei desu.",
+        "translation": "The air is clean."
+      },
+      {
+        "sentence": "新鮮(しんせん)な空気(くうき)を吸(す)いたいです。",
+        "pronunciation": "shinsen na kuuki o suitai desu.",
+        "translation": "I want to breathe fresh air."
+      },
+      {
+        "sentence": "部屋(へや)の空気(くうき)を換気(かんき)しましょう。",
+        "pronunciation": "heya no kuuki o kanki shimashou.",
+        "translation": "Let's ventilate the room."
+      },
+      {
+        "sentence": "空気(くうき)が薄(うす)いです。",
+        "pronunciation": "kuuki ga usui desu.",
+        "translation": "The air is thin."
+      },
+      {
+        "sentence": "空気(くうき)が乾燥(かんそう)しています。",
+        "pronunciation": "kuuki ga kansou shite imasu.",
+        "translation": "The air is dry."
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "word": "湖",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "places"],
+    "english": "lake",
+    "burmese": "ကန်",
+    "definition": "A large body of water surrounded by land.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "みずうみ",
+    "romaji": "mizuumi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "湖(みずうみ)は静(しず)かです。",
+        "pronunciation": "mizuumi wa shizuka desu.",
+        "translation": "The lake is quiet."
+      },
+      {
+        "sentence": "湖(みずうみ)の周(まわ)りを散歩(さんぽ)しました。",
+        "pronunciation": "mizuumi no mawari o sanpo shimashita.",
+        "translation": "I took a walk around the lake."
+      },
+      {
+        "sentence": "湖(みずうみ)でボートに乗(の)りました。",
+        "pronunciation": "mizuumi de booto ni norimashita.",
+        "translation": "I went boating on the lake."
+      },
+      {
+        "sentence": "あの湖(みずうみ)は深(ふか)いですか。",
+        "pronunciation": "ano mizuumi wa fukai desu ka.",
+        "translation": "Is that lake deep?"
+      },
+      {
+        "sentence": "湖(みずうみ)の景色(けしき)は美(うつく)しいです。",
+        "pronunciation": "mizuumi no keshiki wa utsukushii desu.",
+        "translation": "The scenery of the lake is beautiful."
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "word": "島",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "places"],
+    "english": "island",
+    "burmese": "ကျွန်း",
+    "definition": "An isolated mass of land surrounded by water.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "しま",
+    "romaji": "shima",
+    "synonyms": [],
+    "antonyms": ["大陸"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "島(しま)へ旅行(りょこう)に行(い)きたいです。",
+        "pronunciation": "shima e ryokou ni ikitai desu.",
+        "translation": "I want to go on a trip to an island."
+      },
+      {
+        "sentence": "この島(しま)には何(なに)もありません。",
+        "pronunciation": "kono shima ni wa nani mo arimasen.",
+        "translation": "There is nothing on this island."
+      },
+      {
+        "sentence": "島(しま)の生活(せいかつ)は静(しず)かです。",
+        "pronunciation": "shima no seikatsu wa shizuka desu.",
+        "translation": "Life on an island is quiet."
+      },
+      {
+        "sentence": "あの島(しま)には人(ひと)が住(す)んでいますか。",
+        "pronunciation": "ano shima ni wa hito ga sunde imasu ka.",
+        "translation": "Do people live on that island?"
+      },
+      {
+        "sentence": "島(しま)の周(まわ)りは海(うみ)です。",
+        "pronunciation": "shima no mawari wa umi desu.",
+        "translation": "The island is surrounded by the sea."
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "word": "春",
+    "partsOfSpeech": "noun",
+    "categories": ["seasons"],
+    "english": "spring",
+    "burmese": "နွေဦး",
+    "definition": "The season after winter and before summer, in which vegetation begins to revive and grow, in the northern hemisphere from March to May and in the southern hemisphere from September to November.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "はる",
+    "romaji": "haru",
+    "synonyms": [],
+    "antonyms": ["秋", "冬"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "春(はる)が来(き)ました。",
+        "pronunciation": "haru ga kimashita.",
+        "translation": "Spring has come."
+      },
+      {
+        "sentence": "春(はる)は暖(あたた)かいです。",
+        "pronunciation": "haru wa atatakai desu.",
+        "translation": "Spring is warm."
+      },
+      {
+        "sentence": "春(はる)には花(はな)がたくさん咲(さ)きます。",
+        "pronunciation": "haru ni wa hana ga takusan sakimasu.",
+        "translation": "Many flowers bloom in spring."
+      },
+      {
+        "sentence": "春(はる)の天気(てんき)は変(か)わりやすいです。",
+        "pronunciation": "haru no tenki wa kawariyasui desu.",
+        "translation": "Spring weather is changeable."
+      },
+      {
+        "sentence": "春(はる)のピクニックは楽(たの)しいです。",
+        "pronunciation": "haru no pikunikku wa tanoshii desu.",
+        "translation": "Spring picnics are fun."
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "word": "夏",
+    "partsOfSpeech": "noun",
+    "categories": ["seasons"],
+    "english": "summer",
+    "burmese": "နွေရာသီ",
+    "definition": "The warmest season of the year, in the northern hemisphere from June to August and in the southern hemisphere from December to February.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "なつ",
+    "romaji": "natsu",
+    "synonyms": [],
+    "antonyms": ["冬", "春", "秋"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "夏(なつ)は暑(あつ)いです。",
+        "pronunciation": "natsu wa atsui desu.",
+        "translation": "Summer is hot."
+      },
+      {
+        "sentence": "夏休(なつやす)みは長(なが)いです。",
+        "pronunciation": "natsuyasumi wa nagai desu.",
+        "translation": "Summer vacation is long."
+      },
+      {
+        "sentence": "夏(なつ)には海(うみ)に行(い)きたいです。",
+        "pronunciation": "natsu ni wa umi ni ikitai desu.",
+        "translation": "I want to go to the sea in summer."
+      },
+      {
+        "sentence": "夏(なつ)の夜(よる)は花火(はなび)があります。",
+        "pronunciation": "natsu no yoru wa hanabi ga arimasu.",
+        "translation": "There are fireworks on summer nights."
+      },
+      {
+        "sentence": "夏(なつ)の果物(くだもの)はおいしいです。",
+        "pronunciation": "natsu no kudamono wa oishii desu.",
+        "translation": "Summer fruits are delicious."
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "word": "秋",
+    "partsOfSpeech": "noun",
+    "categories": ["seasons"],
+    "english": "autumn, fall",
+    "burmese": "ဆောင်းဦး",
+    "definition": "The season after summer and before winter, in the northern hemisphere from September to November and in the southern hemisphere from March to May.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "あき",
+    "romaji": "aki",
+    "synonyms": [],
+    "antonyms": ["春", "夏", "冬"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "秋(あき)になりました。",
+        "pronunciation": "aki ni narimashita.",
+        "translation": "It has become autumn."
+      },
+      {
+        "sentence": "秋(あき)は涼(すず)しいです。",
+        "pronunciation": "aki wa suzushii desu.",
+        "translation": "Autumn is cool."
+      },
+      {
+        "sentence": "秋(あき)には紅葉(こうよう)が綺麗(きれい)です。",
+        "pronunciation": "aki ni wa kouyou ga kirei desu.",
+        "translation": "The autumn leaves are beautiful in autumn."
+      },
+      {
+        "sentence": "秋(あき)の味覚(みかく)を楽(たの)しみます。",
+        "pronunciation": "aki no mikaku o tanoshimimasu.",
+        "translation": "I enjoy the tastes of autumn."
+      },
+      {
+        "sentence": "秋(あき)の夜長(よなが)は読書(どくしょ)にぴったりです。",
+        "pronunciation": "aki no yonaga wa dokusho ni pittari desu.",
+        "translation": "Long autumn nights are perfect for reading."
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "word": "冬",
+    "partsOfSpeech": "noun",
+    "categories": ["seasons"],
+    "english": "winter",
+    "burmese": "ဆောင်းရာသီ",
+    "definition": "The coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "ふゆ",
+    "romaji": "fuyu",
+    "synonyms": [],
+    "antonyms": ["夏", "春", "秋"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "冬(ふゆ)は寒(さむ)いです。",
+        "pronunciation": "fuyu wa samui desu.",
+        "translation": "Winter is cold."
+      },
+      {
+        "sentence": "冬休(ふゆやす)みは短(みじか)いです。",
+        "pronunciation": "fuyuyasumi wa mijikai desu.",
+        "translation": "Winter vacation is short."
+      },
+      {
+        "sentence": "冬(ふゆ)には雪(ゆき)が降(ふ)ります。",
+        "pronunciation": "fuyu ni wa yuki ga furimasu.",
+        "translation": "It snows in winter."
+      },
+      {
+        "sentence": "冬(ふゆ)の朝(あさ)は暗(くら)いです。",
+        "pronunciation": "fuyu no asa wa kurai desu.",
+        "translation": "Winter mornings are dark."
+      },
+      {
+        "sentence": "冬(ふゆ)の夜(よる)は長(なが)いです。",
+        "pronunciation": "fuyu no yoru wa nagai desu.",
+        "translation": "Winter nights are long."
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "word": "太陽",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "astronomy"],
+    "english": "sun",
+    "burmese": "နေ",
+    "definition": "The star around which the earth orbits, and which provides light and heat for the earth.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "たいよう",
+    "romaji": "taiyou",
+    "synonyms": [],
+    "antonyms": ["月"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "太陽(たいよう)が昇(のぼ)ります。",
+        "pronunciation": "taiyou ga noborimasu.",
+        "translation": "The sun rises."
+      },
+      {
+        "sentence": "太陽(たいよう)は暖(あたた)かいです。",
+        "pronunciation": "taiyou wa atatakai desu.",
+        "translation": "The sun is warm."
+      },
+      {
+        "sentence": "太陽(たいよう)の光(ひかり)が眩(まぶ)しいです。",
+        "pronunciation": "taiyou no hikari ga mabushii desu.",
+        "translation": "The sunlight is dazzling."
+      },
+      {
+        "sentence": "太陽(たいよう)が沈(しず)みます。",
+        "pronunciation": "taiyou ga shizumimasu.",
+        "translation": "The sun sets."
+      },
+      {
+        "sentence": "太陽(たいよう)の下(した)で遊(あそ)びました。",
+        "pronunciation": "taiyou no shita de asobimashita.",
+        "translation": "I played under the sun."
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "word": "地震",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "disaster"],
+    "english": "earthquake",
+    "burmese": "ငလျင်",
+    "definition": "A sudden and violent shaking of the ground, sometimes causing great destruction, as a result of movements within the earth's crust or volcanic action.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "じしん",
+    "romaji": "jishinn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "地震(じしん)がありました。",
+        "pronunciation": "jishin ga arimashita.",
+        "translation": "There was an earthquake."
+      },
+      {
+        "sentence": "強(つよ)い地震(じしん)でした。",
+        "pronunciation": "tsuyoi jishin deshita.",
+        "translation": "It was a strong earthquake."
+      },
+      {
+        "sentence": "地震(じしん)で建物(たてもの)が倒(たお)れました。",
+        "pronunciation": "jishin de tatemono ga taoremashita.",
+        "translation": "Buildings collapsed in the earthquake."
+      },
+      {
+        "sentence": "地震(じしん)の揺(ゆ)れが長(なが)かったです。",
+        "pronunciation": "jishin no yure ga nagakatta desu.",
+        "translation": "The shaking of the earthquake lasted a long time."
+      },
+      {
+        "sentence": "地震(じしん)の備(そな)えは大切(たいせつ)です。",
+        "pronunciation": "jishin no sonae wa taisetsu desu.",
+        "translation": "Earthquake preparedness is important."
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "word": "原っぱ",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "places"],
+    "english": "field, open field, plain",
+    "burmese": "လွင်တီးခေါင်။လယ်ကွင်း",
+    "definition": "A large area of open land, especially one planted with crops or pasture, or one left in its natural state.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "はらっぱ",
+    "romaji": "harappa",
+    "synonyms": ["野原"],
+    "antonyms": ["森", "市街地"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "原(はら)っぱで遊(あそ)びました。",
+        "pronunciation": "harappa de asobimashita.",
+        "translation": "I played in the open field."
+      },
+      {
+        "sentence": "広(ひろ)い原(はら)っぱが続(つづ)いています。",
+        "pronunciation": "hiroi harappa ga tsuzuite imasu.",
+        "translation": "A vast open field stretches out."
+      },
+      {
+        "sentence": "原(はら)っぱに花(はな)が咲(さ)いています。",
+        "pronunciation": "harappa ni hana ga saite imasu.",
+        "translation": "Flowers are blooming in the field."
+      },
+      {
+        "sentence": "原(はら)っぱでピクニックをしました。",
+        "pronunciation": "harappa de pikunikku o shimashita.",
+        "translation": "We had a picnic in the field."
+      },
+      {
+        "sentence": "夕暮(ゆうぐ)れの原(はら)っぱは静(しず)かです。",
+        "pronunciation": "yuugure no harappa wa shizuka desu.",
+        "translation": "The open field at dusk is quiet."
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "word": "火山",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "volcano",
+    "burmese": "မီးတောင်",
+    "definition": "A rupture in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "かざん",
+    "romaji": "kazann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "火山(かざん)が噴火(ふんか)しました。",
+        "pronunciation": "kazan ga funka shimashita.",
+        "translation": "A volcano erupted."
+      },
+      {
+        "sentence": "あの山(やま)は火山(かざん)です。",
+        "pronunciation": "ano yama wa kazan desu.",
+        "translation": "That mountain is a volcano."
+      },
+      {
+        "sentence": "火山(かざん)の灰(はい)が降(ふ)りました。",
+        "pronunciation": "kazan no hai ga furimashita.",
+        "translation": "Volcanic ash fell."
+      },
+      {
+        "sentence": "火山(かざん)の活動(かつどう)が活発(かっぱつ)です。",
+        "pronunciation": "kazan no katsudou ga kappatsu desu.",
+        "translation": "Volcanic activity is high."
+      },
+      {
+        "sentence": "火山(かざん)の周(まわ)りは温泉(おんせん)が多(おお)いです。",
+        "pronunciation": "kazan no mawari wa onsen ga ooi desu.",
+        "translation": "There are many hot springs around volcanoes."
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "word": "滝",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "places"],
+    "english": "waterfall",
+    "burmese": "ရေတံခွန်",
+    "definition": "A cascade of water falling from a height, formed when a river or stream flows over a precipice or steep incline.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "たき",
+    "romaji": "taki",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "滝(たき)を見(み)に行(い)きました。",
+        "pronunciation": "taki o mi ni ikimashita.",
+        "translation": "I went to see a waterfall."
+      },
+      {
+        "sentence": "この滝(たき)は高(たか)いです。",
+        "pronunciation": "kono taki wa takai desu.",
+        "translation": "This waterfall is high."
+      },
+      {
+        "sentence": "滝(たき)の音(おと)が轟(とどろ)いています。",
+        "pronunciation": "taki no oto ga todoroite imasu.",
+        "translation": "The sound of the waterfall is roaring."
+      },
+      {
+        "sentence": "滝(たき)の水(みず)は冷(つめ)たいです。",
+        "pronunciation": "taki no mizu wa tsumetai desu.",
+        "translation": "The water of the waterfall is cold."
+      },
+      {
+        "sentence": "滝(たき)の周(まわ)りは涼(すず)しいです。",
+        "pronunciation": "taki no mawari wa suzushii desu.",
+        "translation": "It's cool around the waterfall."
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "word": "波",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "wave",
+    "burmese": "လှိုင်း",
+    "definition": "A ridge of water or air moving along the surface of the sea or a lake.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "なみ",
+    "romaji": "nami",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "波(なみ)が寄(よ)せては返(かえ)します。",
+        "pronunciation": "nami ga yosete wa kaeshimasu.",
+        "translation": "Waves come in and go back."
+      },
+      {
+        "sentence": "大(おお)きな波(なみ)が来(き)ました。",
+        "pronunciation": "ookina nami ga kimashita.",
+        "translation": "A big wave came."
+      },
+      {
+        "sentence": "波(なみ)の音(おと)を聞(き)きながら眠(ねむ)りました。",
+        "pronunciation": "nami no oto o kikinagara nemurimashita.",
+        "translation": "I fell asleep listening to the sound of the waves."
+      },
+      {
+        "sentence": "波(なみ)に乗(の)ってサーフィンをします。",
+        "pronunciation": "nami ni notte saafin o shimasu.",
+        "translation": "I will surf on the waves."
+      },
+      {
+        "sentence": "穏(おだ)やかな波(なみ)です。",
+        "pronunciation": "odayaka na nami desu.",
+        "translation": "The waves are calm."
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "word": "植物",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "plant, vegetation",
+    "burmese": "အပင်။ဟင်းသီးဟင်းရွက်",
+    "definition": "A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the energy of sunlight.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "しょくぶつ",
+    "romaji": "shokubotsu",
+    "synonyms": [],
+    "antonyms": ["動物"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "植物(しょくぶつ)を育(そだ)てています。",
+        "pronunciation": "shokubutsu o sodatete imasu.",
+        "translation": "I am growing plants."
+      },
+      {
+        "sentence": "色々(いろいろ)な種類(しゅるい)の植物(しょくぶつ)があります。",
+        "pronunciation": "iroiro na shurui no shokubutsu ga arimasu.",
+        "translation": "There are various kinds of plants."
+      },
+      {
+        "sentence": "この植物(しょくぶつ)の名前(なまえ)は何(なん)ですか。",
+        "pronunciation": "kono shokubutsu no namae wa nan desu ka.",
+        "translation": "What is the name of this plant?"
+      },
+      {
+        "sentence": "植物(しょくぶつ)は光合成(こうごうせい)をします。",
+        "pronunciation": "shokubutsu wa kougousei o shimasu.",
+        "translation": "Plants perform photosynthesis."
+      },
+      {
+        "sentence": "植物(しょくぶつ)に水(みず)をあげましょう。",
+        "pronunciation": "shokubutsu ni mizu o agemashou.",
+        "translation": "Let's water the plants."
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "word": "動物",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "animals"],
+    "english": "animal",
+    "burmese": "တိရစ္ဆာန်",
+    "definition": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "どうぶつ",
+    "romaji": "doubutsu",
+    "synonyms": [],
+    "antonyms": ["植物"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "動物(どうぶつ)が好き(すき)です。",
+        "pronunciation": "doubutsu ga suki desu.",
+        "translation": "I like animals."
+      },
+      {
+        "sentence": "動物園(どうぶつえん)に行(い)きました。",
+        "pronunciation": "doubutsuen ni ikimashita.",
+        "translation": "I went to the zoo."
+      },
+      {
+        "sentence": "色々(いろいろ)な動物(どうぶつ)がいます。",
+        "pronunciation": "iroiro na doubutsu ga imasu.",
+        "translation": "There are various kinds of animals."
+      },
+      {
+        "sentence": "犬(いぬ)は賢(かしこ)い動物(どうぶつ)です。",
+        "pronunciation": "inu wa kashikoi doubutsu desu.",
+        "translation": "Dogs are intelligent animals."
+      },
+      {
+        "sentence": "動物(どうぶつ)の世話(せわ)をします。",
+        "pronunciation": "doubutsu no sewa o shimasu.",
+        "translation": "I take care of animals."
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "word": "自然",
+    "partsOfSpeech": "noun, adjectival noun (na-adjective)",
+    "categories": ["nature"],
+    "english": "nature, natural",
+    "burmese": "သဘာဝ",
+    "definition": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations; existing in or caused by nature; not made or caused by humankind.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "しぜん",
+    "romaji": "shizenn",
+    "synonyms": [],
+    "antonyms": ["人工"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "自然(しぜん)は美(うつく)しいです。",
+        "pronunciation": "shizen wa utsukushii desu.",
+        "translation": "Nature is beautiful."
+      },
+      {
+        "sentence": "自然(しぜん)の中(なか)で過(す)ごしたいです。",
+        "pronunciation": "shizen no naka de sugoshitai desu.",
+        "translation": "I want to spend time in nature."
+      },
+      {
+        "sentence": "これは自然(しぜん)の恵(めぐ)みです。",
+        "pronunciation": "kore wa shizen no megumi desu.",
+        "translation": "This is a blessing of nature."
+      },
+      {
+        "sentence": "自然(しぜん)を守(まも)ることは大切(たいせつ)です。",
+        "pronunciation": "shizen o mamoru koto wa taisetsu desu.",
+        "translation": "Protecting nature is important."
+      },
+      {
+        "sentence": "自然(しぜん)な色(いろ)を使(つか)っています。",
+        "pronunciation": "shizen na iro o tsukatte imasu.",
+        "translation": "Natural colors are used."
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "word": "氷",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "ice",
+    "burmese": "ရေခဲ",
+    "definition": "Water frozen into a solid state.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "こおり",
+    "romaji": "koori",
+    "synonyms": [],
+    "antonyms": ["湯"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "氷(こおり)は冷(つめ)たいです。",
+        "pronunciation": "koori wa tsumetai desu.",
+        "translation": "Ice is cold."
+      },
+      {
+        "sentence": "氷(こおり)が溶(と)けています。",
+        "pronunciation": "koori ga tokete imasu.",
+        "translation": "The ice is melting."
+      },
+      {
+        "sentence": "グラスに氷(こおり)を入(い)れてください。",
+        "pronunciation": "gurasu ni koori o irete kudasai.",
+        "translation": "Please put ice in the glass."
+      },
+      {
+        "sentence": "氷(こおり)の上(うえ)は滑(すべ)りやすいです。",
+        "pronunciation": "koori no ue wa suberiyasui desu.",
+        "translation": "It's easy to slip on ice."
+      },
+      {
+        "sentence": "氷(こおり)で冷(ひ)やします。",
+        "pronunciation": "koori de hiyashimasu.",
+        "translation": "I will chill it with ice."
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "word": "霧",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "fog, mist",
+    "burmese": "မြူ",
+    "definition": "A cloud at ground level consisting of tiny water droplets suspended in the atmosphere, reducing visibility.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "きり",
+    "romaji": "kiri",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "霧(きり)が濃(こ)いです。",
+        "pronunciation": "kiri ga koi desu.",
+        "translation": "The fog is thick."
+      },
+      {
+        "sentence": "霧(きり)で前(まえ)が見(み)えません。",
+        "pronunciation": "kiri de mae ga miemasen.",
+        "translation": "I can't see ahead because of the fog."
+      },
+      {
+        "sentence": "朝(あさ)は霧(きり)が出ていました。",
+        "pronunciation": "asa wa kiri ga dete imashita.",
+        "translation": "There was fog in the morning."
+      },
+      {
+        "sentence": "霧(きり)が晴(は)れてきました。",
+        "pronunciation": "kiri ga harete kimashita.",
+        "translation": "The fog is clearing up."
+      },
+      {
+        "sentence": "山(やま)は霧(きり)に包(つつ)まれていました。",
+        "pronunciation": "yama wa kiri ni tsutsumarete imashita.",
+        "translation": "The mountain was enveloped in fog."
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "word": "宇宙",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "astronomy"],
+    "english": "universe, space, cosmos",
+    "burmese": "စကြဝဠာ, အာကာသ",
+    "definition": "The totality of known or supposed objects and phenomena throughout space; the cosmos.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "うちゅう",
+    "romaji": "uchuu",
+    "synonyms": [],
+    "antonyms": ["地球"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "宇宙(うちゅう)は広大(こうだい)です。",
+        "pronunciation": "uchuu wa koudai desu.",
+        "translation": "The universe is vast."
+      },
+      {
+        "sentence": "宇宙(うちゅう)に行(い)きたいです。",
+        "pronunciation": "uchuu ni ikitai desu.",
+        "translation": "I want to go to space."
+      },
+      {
+        "sentence": "宇宙(うちゅう)にはたくさんの星(ほし)があります。",
+        "pronunciation": "uchuu ni wa takusan no hoshi ga arimasu.",
+        "translation": "There are many stars in space."
+      },
+      {
+        "sentence": "宇宙船(うちゅうせん)が飛(と)んでいます。",
+        "pronunciation": "uchuusen ga tonde imasu.",
+        "translation": "A spaceship is flying."
+      },
+      {
+        "sentence": "宇宙(うちゅう)の謎(なぞ)は深(ふか)いです。",
+        "pronunciation": "uchuu no nazo wa fukai desu.",
+        "translation": "The mysteries of the universe are deep."
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "word": "豆腐",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "tofu, bean curd",
+    "burmese": "ပဲပြား။တို့ဟူး",
+    "definition": "A soft, white food made from soybeans.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "とうふ",
+    "romaji": "toufu",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "豆腐(とうふ)はヘルシーな食(た)べ物(もの)です。",
+        "pronunciation": "toufu wa herushii na tabemono desu.",
+        "translation": "Tofu is a healthy food."
+      },
+      {
+        "sentence": "冷(ひ)や奴(やっこ)に豆腐(とうふ)を使(つか)います。",
+        "pronunciation": "hiyayakko ni toufu o tsukaimasu.",
+        "translation": "I use tofu for cold tofu with toppings."
+      },
+      {
+        "sentence": "麻婆豆腐(マーボードウフ)を作(つく)りました。",
+        "pronunciation": "maaboudoufu o tsukurimashita.",
+        "translation": "I made mapo tofu."
+      },
+      {
+        "sentence": "豆腐(とうふ)には色(いろ)々な種類(しゅるい)があります。",
+        "pronunciation": "toufu ni wa iroiro na shurui ga arimasu.",
+        "translation": "There are various kinds of tofu."
+      },
+      {
+        "sentence": "豆腐(とうふ)は植物性(しょくぶつせい)たんぱく質(しつ)が豊富(ほうふ)です。",
+        "pronunciation": "toufu wa shokubutsusei tanpakushitsu ga houfu desu.",
+        "translation": "Tofu is rich in vegetable protein."
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "word": "納豆",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "natto (fermented soybeans)",
+    "burmese": "နတ်တိုး (ပဲပုပ်)",
+    "definition": "A traditional Japanese food made from soybeans that have been fermented with Bacillus subtilis.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "なっとう",
+    "romaji": "nattou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "納豆(なっとう)は独特(どくとく)の匂(にお)いがします。",
+        "pronunciation": "nattou wa dokutoku no nioi ga shimasu.",
+        "translation": "Natto has a unique smell."
+      },
+      {
+        "sentence": "納豆(なっとう)は好(す)き嫌(きら)いが分(わ)かれます。",
+        "pronunciation": "nattou wa suki kirai ga wakaremasu.",
+        "translation": "Opinions about natto are divided."
+      },
+      {
+        "sentence": "朝(あさ)ごはんに納豆(なっとう)を食(た)べます。",
+        "pronunciation": "asagohan ni nattou o tabemasu.",
+        "translation": "I eat natto for breakfast."
+      },
+      {
+        "sentence": "納豆(なっとう)は健康(けんこう)に良(よ)いです。",
+        "pronunciation": "nattou wa kenkou ni yoi desu.",
+        "translation": "Natto is good for your health."
+      },
+      {
+        "sentence": "納豆(なっとう)にはネバネバした糸(いと)があります。",
+        "pronunciation": "nattou ni wa nebaneba shita ito ga arimasu.",
+        "translation": "Natto has sticky strings."
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "word": "味噌",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "miso (fermented soybean paste)",
+    "burmese": "မီဆို(ပဲငံပြာရည်အနှစ်)",
+    "definition": "A thick paste made from fermented soybeans and barley or rice malt, used in Japanese cooking.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "みそ",
+    "romaji": "miso",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "味噌汁(みそしる)を作(つく)りました。",
+        "pronunciation": "misoshiru o tsukurimashita.",
+        "translation": "I made miso soup."
+      },
+      {
+        "sentence": "味噌(みそ)は色(いろ)々な種類(しゅるい)があります。",
+        "pronunciation": "miso wa iroiro na shurui ga arimasu.",
+        "translation": "There are various kinds of miso."
+      },
+      {
+        "sentence": "味噌(みそ)の風味(ふうみ)が好(す)きです。",
+        "pronunciation": "miso no fuumi ga suki desu.",
+        "translation": "I like the flavor of miso."
+      },
+      {
+        "sentence": "味噌(みそ)を使(つか)った料理(りょうり)は美味(おい)しいです。",
+        "pronunciation": "miso o tsukatta ryouri wa oishii desu.",
+        "translation": "Dishes that use miso are delicious."
+      },
+      {
+        "sentence": "冷蔵庫(れいぞうこ)に味噌(みそ)が入(はい)っています。",
+        "pronunciation": "reizouko ni miso ga haitte imasu.",
+        "translation": "There is miso in the refrigerator."
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "word": "牛肉",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "beef",
+    "burmese": "အမဲသား",
+    "definition": "The flesh of a cow, ox, or other bovine animal, used as food.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "synonyms": [],
+    "antonyms": ["豚肉", "鶏肉"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "牛肉(ぎゅうにく)を食(た)べます。",
+        "pronunciation": "gyuuniku o tabemasu.",
+        "translation": "I will eat beef."
+      },
+      {
+        "sentence": "牛肉(ぎゅうにく)は少(すこ)し高(たか)いです。",
+        "pronunciation": "gyuuniku wa sukoshi takai desu.",
+        "translation": "Beef is a little expensive."
+      },
+      {
+        "sentence": "牛肉(ぎゅうにく)のステーキを作(つく)りました。",
+        "pronunciation": "gyuuniku no suteeki o tsukurimashita.",
+        "translation": "I made a beef steak."
+      },
+      {
+        "sentence": "牛肉(ぎゅうにく)は色(いろ)々な調理(ちょうり)方法(ほうほう)があります。",
+        "pronunciation": "gyuuniku wa iroiro na chouri houhou ga arimasu.",
+        "translation": "There are various ways to cook beef."
+      },
+      {
+        "sentence": "好(す)きな牛肉(ぎゅうにく)の部位(ぶい)はロースです。",
+        "pronunciation": "suki na gyuuniku no bui wa roosu desu.",
+        "translation": "My favorite cut of beef is loin."
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "word": "豚肉",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "pork",
+    "burmese": "ဝက်သား",
+    "definition": "The flesh of a pig used as food.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ぶたにく",
+    "romaji": "butaniku",
+    "synonyms": [],
+    "antonyms": ["牛肉", "鶏肉"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "豚肉(ぶたにく)を食(た)べます。",
+        "pronunciation": "butaniku o tabemasu.",
+        "translation": "I will eat pork."
+      },
+      {
+        "sentence": "豚肉(ぶたにく)は牛肉(ぎゅうにく)より安(やす)いです。",
+        "pronunciation": "butaniku wa gyuuniku yori yasui desu.",
+        "translation": "Pork is cheaper than beef."
+      },
+      {
+        "sentence": "豚肉(ぶたにく)の生姜焼(しょうがや)きを作(つく)りました。",
+        "pronunciation": "butaniku no shougayaki o tsukurimashita.",
+        "translation": "I made ginger pork."
+      },
+      {
+        "sentence": "豚肉(ぶたにく)は色(いろ)々な料理(りょうり)に使(つか)われます。",
+        "pronunciation": "butaniku wa iroiro na ryouri ni tsukawaremasu.",
+        "translation": "Pork is used in various dishes."
+      },
+      {
+        "sentence": "好(す)きな豚肉(ぶたにく)の部位(ぶい)はバラ肉(ばらにく)です。",
+        "pronunciation": "suki na butaniku no bui wa baraniku desu.",
+        "translation": "My favorite cut of pork is belly."
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "word": "鶏肉",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "chicken",
+    "burmese": "ကြက်သား",
+    "definition": "The flesh of a chicken used as food.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "とりにく",
+    "romaji": "toriniku",
+    "synonyms": [],
+    "antonyms": ["牛肉", "豚肉"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "鶏肉(とりにく)を食(た)べます。",
+        "pronunciation": "toriniku o tabemasu.",
+        "translation": "I will eat chicken."
+      },
+      {
+        "sentence": "鶏肉(とりにく)はヘルシーです。",
+        "pronunciation": "toriniku wa herushii desu.",
+        "translation": "Chicken is healthy."
+      },
+      {
+        "sentence": "鶏(とり)の唐揚(からあ)げを作(つく)りました。",
+        "pronunciation": "tori no karaage o tsukurimashita.",
+        "translation": "I made fried chicken."
+      },
+      {
+        "sentence": "鶏肉(とりにく)は色(いろ)々な料理(りょうり)に合(あ)います。",
+        "pronunciation": "toriniku wa iroiro na ryouri ni aimasu.",
+        "translation": "Chicken goes well with various dishes."
+      },
+      {
+        "sentence": "鶏肉(とりにく)は価格(かかく)が手頃(てごろ)です。",
+        "pronunciation": "toriniku wa kakaku ga tegorodesu.",
+        "translation": "Chicken is reasonably priced."
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "word": "卵",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "egg",
+    "burmese": "ဥ",
+    "definition": "An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "たまご",
+    "romaji": "tamago",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "卵(たまご)を食(た)べます。",
+        "pronunciation": "tamago o tabemasu.",
+        "translation": "I will eat an egg."
+      },
+      {
+        "sentence": "卵(たまご)を割(わ)りました。",
+        "pronunciation": "tamago o warimashita.",
+        "translation": "I cracked an egg."
+      },
+      {
+        "sentence": "卵(たまご)は栄養(えいよう)があります。",
+        "pronunciation": "tamago wa eiyou ga arimasu.",
+        "translation": "Eggs are nutritious."
+      },
+      {
+        "sentence": "卵(たまご)料理(りょうり)を作(つく)りました。",
+        "pronunciation": "tamago ryouri o tsukurimashita.",
+        "translation": "I made an egg dish."
+      },
+      {
+        "sentence": "卵(たまご)は冷蔵庫(れいぞうこ)に入(い)れてあります。",
+        "pronunciation": "tamago wa reizouko ni irete arimasu.",
+        "translation": "The eggs are in the refrigerator."
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "word": "醤油",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "soy sauce",
+    "burmese": "ပဲငံပြာရည်",
+    "definition": "A salty dark-brown liquid made from fermented soybeans, used as a condiment in Japanese and Chinese cooking.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "しょうゆ",
+    "romaji": "shouyu",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "醤油(しょうゆ)を少(すこ)し入(い)れてください。",
+        "pronunciation": "shouyu o sukoshi irete kudasai.",
+        "translation": "Please add a little soy sauce."
+      },
+      {
+        "sentence": "寿司(すし)には醤油(しょうゆ)が欠(か)かせません。",
+        "pronunciation": "sushi ni wa shouyu ga kakasemasen.",
+        "translation": "Soy sauce is essential for sushi."
+      },
+      {
+        "sentence": "醤油(しょうゆ)の味(あじ)が濃(こ)いです。",
+        "pronunciation": "shouyu no aji ga koi desu.",
+        "translation": "The taste of the soy sauce is strong."
+      },
+      {
+        "sentence": "薄口醤油(うすくちしょうゆ)と濃口醤油(こいくちしょうゆ)があります。",
+        "pronunciation": "usukuchi shouyu to koikuchi shouyu ga arimasu.",
+        "translation": "There is light soy sauce and dark soy sauce."
+      },
+      {
+        "sentence": "醤油(しょうゆ)は色(いろ)々な料理(りょうり)に使(つか)われます。",
+        "pronunciation": "shouyu wa iroiro na ryouri ni tsukawaremasu.",
+        "translation": "Soy sauce is used in various dishes."
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "word": "塩",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "salt",
+    "burmese": "ဆား",
+    "definition": "A white crystalline substance that gives seawater its characteristic taste and is used for seasoning or preserving food.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "しお",
+    "romaji": "shio",
+    "synonyms": [],
+    "antonyms": ["砂糖"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "塩(しお)を少(すこ)し振(ふ)ってください。",
+        "pronunciation": "shio o sukoshi futte kudasai.",
+        "translation": "Please sprinkle a little salt."
+      },
+      {
+        "sentence": "塩辛(しおから)い料理(りょうり)は苦手(にがて)です。",
+        "pronunciation": "shiokarai ryouri wa nigate desu.",
+        "translation": "I don't like salty food."
+      },
+      {
+        "sentence": "塩(しお)は料理(りょうり)に欠(か)かせない調味料(ちょうみりょう)です。",
+        "pronunciation": "shio wa ryouri ni kakasenai choumiryou desu.",
+        "translation": "Salt is an essential seasoning for cooking."
+      },
+      {
+        "sentence": "塩(しお)には色(いろ)々な種類(しゅるい)があります。",
+        "pronunciation": "shio ni wa iroiro na shurui ga arimasu.",
+        "translation": "There are various kinds of salt."
+      },
+      {
+        "sentence": "塩(しお)分(ぶん)を控(ひか)えましょう。",
+        "pronunciation": "shiobun o hikaemashou.",
+        "translation": "Let's reduce salt intake."
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "word": "胡椒",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "pepper",
+    "burmese": "ငရုတ်ကောင်း",
+    "definition": "A pungent, hot-tasting powder prepared from dried and ground peppercorns, used as a seasoning.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "こしょう",
+    "romaji": "koshou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "胡椒(こしょう)を少(すこ)し加(くわ)えてください。",
+        "pronunciation": "koshou o sukoshi kuwaete kudasai.",
+        "translation": "Please add a little pepper."
+      },
+      {
+        "sentence": "胡椒(こしょう)の香(かお)りが食欲(しょくよく)をそそります。",
+        "pronunciation": "koshou no kaori ga shokuyoku o sosorimasu.",
+        "translation": "The aroma of pepper stimulates the appetite."
+      },
+      {
+        "sentence": "黒胡椒(くろこしょう)と白胡椒(しろこしょう)があります。",
+        "pronunciation": "kurokoshou to shirokoshou ga arimasu.",
+        "translation": "There is black pepper and white pepper."
+      },
+      {
+        "sentence": "胡椒(こしょう)は料理(りょうり)の味(あじ)を引(ひ)き締(し)めます。",
+        "pronunciation": "koshou wa ryouri no aji o hikishimemasu.",
+        "translation": "Pepper enhances the flavor of dishes."
+      },
+      {
+        "sentence": "胡椒(こしょう)をかけすぎました。",
+        "pronunciation": "koshou o kakesugimashita.",
+        "translation": "I put too much pepper."
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "word": "砂糖",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "sugar",
+    "burmese": "သကြား",
+    "definition": "A sweet crystalline substance, white when pure, consisting essentially of sucrose, obtained from sugarcane, sugar beet, and other sources and used as a sweetener.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "さとう",
+    "romaji": "satou",
+    "synonyms": [],
+    "antonyms": ["塩"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "砂糖(さとう)を少(すこ)し入(い)れてください。",
+        "pronunciation": "satou o sukoshi irete kudasai.",
+        "translation": "Please add a little sugar."
+      },
+      {
+        "sentence": "砂糖(さとう)は甘(あま)いです。",
+        "pronunciation": "satou wa amai desu.",
+        "translation": "Sugar is sweet."
+      },
+      {
+        "sentence": "砂糖(さとう)を使(つか)いすぎないようにしましょう。",
+        "pronunciation": "satou o tsukaisuginai you ni shimashou.",
+        "translation": "Let's try not to use too much sugar."
+      },
+      {
+        "sentence": "砂糖(さとう)には色(いろ)々な種類(しゅるい)があります。",
+        "pronunciation": "satou ni wa iroiro na shurui ga arimasu.",
+        "translation": "There are various kinds of sugar."
+      },
+      {
+        "sentence": "甘(あま)いコーヒーには砂糖(さとう)がたくさん入(はい)っています。",
+        "pronunciation": "amai koohii ni wa satou ga takusan haitte imasu.",
+        "translation": "There is a lot of sugar in sweet coffee."
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "word": "林檎",
+    "partsOfSpeech": "noun",
+    "categories": ["food", "fruit"],
+    "english": "apple",
+    "burmese": "ပန်းသီး",
+    "definition": "A round fruit with firm, white flesh and a green, red, or yellow skin.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "りんご",
+    "romaji": "ringo",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "林檎(りんご)を食(た)べます。",
+        "pronunciation": "ringo o tabemasu.",
+        "translation": "I will eat an apple."
+      },
+      {
+        "sentence": "林檎(りんご)は甘(あま)くて美味(おい)しいです。",
+        "pronunciation": "ringo wa amakute oishii desu.",
+        "translation": "Apples are sweet and delicious."
+      },
+      {
+        "sentence": "林檎(りんご)ジュースを飲(の)みます。",
+        "pronunciation": "ringo juusu o nomimasu.",
+        "translation": "I will drink apple juice."
+      },
+      {
+        "sentence": "林檎(りんご)は皮(かわ)ごと食(た)べられます。",
+        "pronunciation": "ringo wa kawa goto taberaremasu.",
+        "translation": "Apples can be eaten with the skin on."
+      },
+      {
+        "sentence": "色々(いろいろ)な種類(しゅるい)の林檎(りんご)があります。",
+        "pronunciation": "iroiro na shurui no ringo ga arimasu.",
+        "translation": "There are various kinds of apples."
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "word": "蜜柑",
+    "partsOfSpeech": "noun",
+    "categories": ["food", "fruit"],
+    "english": "mandarin orange, tangerine",
+    "burmese": "လိမ္မော်သီး",
+    "definition": "A small citrus fruit with a loose, easily peeled skin and sweet-tasting flesh.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "みかん",
+    "romaji": "mikann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "蜜柑(みかん)を食(た)べます。",
+        "pronunciation": "mikan o tabemasu.",
+        "translation": "I will eat a mandarin orange."
+      },
+      {
+        "sentence": "蜜柑(みかん)は甘(あま)くて酸(す)っぱいです。",
+        "pronunciation": "mikan wa amakute suppai desu.",
+        "translation": "Mandarin oranges are sweet and sour."
+      },
+      {
+        "sentence": "冬(ふゆ)になると蜜柑(みかん)をよく食(た)べます。",
+        "pronunciation": "fuyu ni naru to mikan o yoku tabemasu.",
+        "translation": "I often eat mandarin oranges in winter."
+      },
+      {
+        "sentence": "蜜柑(みかん)の皮(かわ)は剥(む)きやすいです。",
+        "pronunciation": "mikan no kawa wa mukiyasui desu.",
+        "translation": "The skin of a mandarin orange is easy to peel."
+      },
+      {
+        "sentence": "箱(はこ)で蜜柑(みかん)をもらいました。",
+        "pronunciation": "hako de mikan o moraimashita.",
+        "translation": "I received a box of mandarin oranges."
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "word": "葡萄",
+    "partsOfSpeech": "noun",
+    "categories": ["food", "fruit"],
+    "english": "grape",
+    "burmese": "စပျစ်သီး",
+    "definition": "A smooth-skinned juicy berry with a translucent green or reddish skin, eaten raw or dried (as raisins, currants, or sultanas) and widely used in winemaking.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ぶどう",
+    "romaji": "budou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "葡萄(ぶどう)を食(た)べます。",
+        "pronunciation": "budou o tabemasu.",
+        "translation": "I will eat grapes."
+      },
+      {
+        "sentence": "葡萄(ぶどう)は甘(あま)いです。",
+        "pronunciation": "budou wa amai desu.",
+        "translation": "Grapes are sweet."
+      },
+      {
+        "sentence": "葡萄(ぶどう)ジュースを飲(の)みます。",
+        "pronunciation": "budou juusu o nomimasu.",
+        "translation": "I will drink grape juice."
+      },
+      {
+        "sentence": "葡萄(ぶどう)は種(たね)があるものとないものがあります。",
+        "pronunciation": "budou wa tane ga aru mono to nai mono ga arimasu.",
+        "translation": "There are grapes with seeds and seedless grapes."
+      },
+      {
+        "sentence": "秋(あき)になると葡萄(ぶどう)がおいしいです。",
+        "pronunciation": "aki ni naru to budou ga oishii desu.",
+        "translation": "Grapes are delicious in autumn."
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "word": "苺",
+    "partsOfSpeech": "noun",
+    "categories": ["food", "fruit"],
+    "english": "strawberry",
+    "burmese": "စတော်ဘယ်ရီသီး",
+    "definition": "A sweet soft red fruit with a seed-studded surface.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "いちご",
+    "romaji": "ichigo",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "苺(いちご)を食(た)べます。",
+        "pronunciation": "ichigo o tabemasu.",
+        "translation": "I will eat a strawberry."
+      },
+      {
+        "sentence": "苺(いちご)は甘(あま)くて美味(おい)しいです。",
+        "pronunciation": "ichigo wa amakute oishii desu.",
+        "translation": "Strawberries are sweet and delicious."
+      },
+      {
+        "sentence": "苺(いちご)ジャムを作(つく)りました。",
+        "pronunciation": "ichigo jamu o tsukurimashita.",
+        "translation": "I made strawberry jam."
+      },
+      {
+        "sentence": "苺(いちご)のケーキは人気(にんき)があります。",
+        "pronunciation": "ichigo no keeki wa ninki ga arimasu.",
+        "translation": "Strawberry cake is popular."
+      },
+      {
+        "sentence": "春(はる)になると苺(いちご)が出回(でまわ)ります。",
+        "pronunciation": "haru ni naru to ichigo ga demawarimasu.",
+        "translation": "Strawberries become available in spring."
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "word": "桃",
+    "partsOfSpeech": "noun",
+    "categories": ["food", "fruit"],
+    "english": "peach",
+    "burmese": "မက်မွန်သီး",
+    "definition": "A round fruit with juicy yellow or whitish flesh and downy pinkish-yellow skin.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "もも",
+    "romaji": "momo",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "桃(もも)を食(た)べます。",
+        "pronunciation": "momo o tabemasu.",
+        "translation": "I will eat a peach."
+      },
+      {
+        "sentence": "桃(もも)は甘(あま)くて美味(おい)しいです。",
+        "pronunciation": "momo wa amakute oishii desu.",
+        "translation": "Peaches are sweet and delicious."
+      },
+      {
+        "sentence": "桃(もも)ジュースを飲(の)みます。",
+        "pronunciation": "momo juusu o nomimasu.",
+        "translation": "I will drink peach juice."
+      },
+      {
+        "sentence": "桃(もも)の皮(かわ)は薄(うす)いです。",
+        "pronunciation": "momo no kawa wa usui desu.",
+        "translation": "The skin of a peach is thin."
+      },
+      {
+        "sentence": "夏(なつ)になると桃(もも)が出回(でまわ)ります。",
+        "pronunciation": "natsu ni naru to momo ga demawarimasu.",
+        "translation": "Peaches become available in summer."
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "word": "お握り",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "rice ball, onigiri",
+    "burmese": "ထမင်းလုံး",
+    "definition": "A Japanese food made from white rice formed into triangular or cylindrical shapes and often wrapped in nori (seaweed).",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "おにぎり",
+    "romaji": "onigiri",
+    "synonyms": ["握り飯"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "お握(にぎ)りを二(ふた)つください。",
+        "pronunciation": "onigiri o futatsu kudasai.",
+        "translation": "Please give me two rice balls."
+      },
+      {
+        "sentence": "お握(にぎ)りは弁当(べんとう)によく入(はい)っています。",
+        "pronunciation": "onigiri wa bentou ni yoku haitte imasu.",
+        "translation": "Rice balls are often included in lunch boxes."
+      },
+      {
+        "sentence": "梅干(うめぼ)しのお握(にぎ)りが好(す)きです。",
+        "pronunciation": "umeboshi no onigiri ga suki desu.",
+        "translation": "I like rice balls with pickled plum."
+      },
+      {
+        "sentence": "自分(じぶん)でお握(にぎ)りを作(つく)りました。",
+        "pronunciation": "jibun de onigiri o tsukurimashita.",
+        "translation": "I made rice balls myself."
+      },
+      {
+        "sentence": "お握(にぎ)りの具(ぐ)は色々(いろいろ)あります。",
+        "pronunciation": "onigiri no gu wa iroiro arimasu.",
+        "translation": "There are various fillings for rice balls."
+      }
+    ]
   }
 ]
