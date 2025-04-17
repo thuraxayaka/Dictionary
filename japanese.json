@@ -8798,5 +8798,2513 @@
         "translation": "There are various fillings for rice balls."
       }
     ]
+  },
+  {
+    "id": 201,
+    "word": "うどん",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "udon (thick Japanese wheat noodles)",
+    "burmese": "အူဒွန် (ဂျပန်ခေါက်ဆွဲပြား)",
+    "definition": "A type of thick, white Japanese wheat noodle.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "うどん",
+    "romaji": "udon",
+    "synonyms": [],
+    "antonyms": ["そば", "ラーメン"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "うどんを食(た)べに行(い)きましょう。",
+        "pronunciation": "udon o tabe ni ikimashou.",
+        "translation": "Let's go eat udon."
+      },
+      {
+        "sentence": "温(あたた)かいかけうどんが好(す)きです。",
+        "pronunciation": "atatakai kakeudon ga suki desu.",
+        "translation": "I like hot plain udon."
+      },
+      {
+        "sentence": "うどんはもちもちした食感(しょっかん)です。",
+        "pronunciation": "udon wa mochimochi shita shokkan desu.",
+        "translation": "Udon has a chewy texture."
+      },
+      {
+        "sentence": "色々(いろいろ)な種類(しゅるい)のうどんがあります。",
+        "pronunciation": "iroiro na shurui no udon ga arimasu.",
+        "translation": "There are various kinds of udon."
+      },
+      {
+        "sentence": "今日(きょう)の昼食(ちゅうしょく)はうどんにしました。",
+        "pronunciation": "kyou no chuushoku wa udon ni shimashita.",
+        "translation": "I had udon for lunch today."
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "word": "そば",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "soba (thin Japanese buckwheat noodles)",
+    "burmese": "ဆိုဘ (ဂျပန်ခေါက်ဆွဲသေး)",
+    "definition": "Thin Japanese noodles made from buckwheat flour.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "そば",
+    "romaji": "soba",
+    "synonyms": [],
+    "antonyms": ["うどん", "ラーメン"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "そばをすすって食(た)べます。",
+        "pronunciation": "soba o susutte tabemasu.",
+        "translation": "I eat soba by slurping it."
+      },
+      {
+        "sentence": "冷(つめ)たいざるそばがおいしいです。",
+        "pronunciation": "tsumetai zarusoba ga oishii desu.",
+        "translation": "Cold zaru soba (buckwheat noodles served on a bamboo draining basket) is delicious."
+      },
+      {
+        "sentence": "そばは香(かお)りがいいです。",
+        "pronunciation": "soba wa kaori ga ii desu.",
+        "translation": "Soba has a nice aroma."
+      },
+      {
+        "sentence": "年越(としこ)しそばを食(た)べる習慣(しゅうかん)があります。",
+        "pronunciation": "toshikoshi soba o taberu shuukan ga arimasu.",
+        "translation": "There is a custom of eating toshikoshi soba (year-crossing soba) on New Year's Eve."
+      },
+      {
+        "sentence": "そば粉(こ)を使(つか)ってそばを作(つく)ります。",
+        "pronunciation": "sobako o tsukatte soba o tsukurimasu.",
+        "translation": "I make soba using buckwheat flour."
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "word": "ちゃんぽん",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "champon (noodle dish from Nagasaki)",
+    "burmese": "ချမ်းပွန် (နာဂါဆာကီခေါက်ဆွဲဟင်း)",
+    "definition": "A noodle dish that is a regional cuisine of Nagasaki, Japan. It is made with fried pork, seafood, and vegetables in a pork bone broth.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "ちゃんぽん",
+    "romaji": "channponn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "長崎(ながさき)でちゃんぽんを食(た)べました。",
+        "pronunciation": "nagasaki de channponn o tabemashita.",
+        "translation": "I ate champon in Nagasaki."
+      },
+      {
+        "sentence": "ちゃんぽんは具(ぐ)がたくさん入(はい)っています。",
+        "pronunciation": "channponn wa gu ga takusan haitte imasu.",
+        "translation": "Champon has a lot of ingredients."
+      },
+      {
+        "sentence": "ちゃんぽんのスープは濃厚(のうこう)です。",
+        "pronunciation": "channponn no suupu wa noukou desu.",
+        "translation": "Champon soup is rich."
+      },
+      {
+        "sentence": "ちゃんぽんはボリュームがあります。",
+        "pronunciation": "channponn wa boryuumu ga arimasu.",
+        "translation": "Champon has a large serving size."
+      },
+      {
+        "sentence": "地元(じもと)のちゃんぽんは味(あじ)が違(ちが)います。",
+        "pronunciation": "jimoto no channponn wa aji ga chigaimasu.",
+        "translation": "Local champon tastes different."
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "word": "焼肉",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "yakiniku (Japanese BBQ)",
+    "burmese": "ယာကီနီကူ (ဂျပန်အသားကင်)",
+    "definition": "A Japanese style of grilling bite-sized meat (usually beef and offal) and vegetables on a griddle or barbecue.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "やきにく",
+    "romaji": "yakiniku",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "焼肉(やきにく)に行(い)きましょう。",
+        "pronunciation": "yakiniku ni ikimashou.",
+        "translation": "Let's go for yakiniku."
+      },
+      {
+        "sentence": "焼(や)いた肉(にく)は美味(おい)しいです。",
+        "pronunciation": "yaita niku wa oishii desu.",
+        "translation": "Grilled meat is delicious."
+      },
+      {
+        "sentence": "焼肉(やきにく)のタレが好(す)きです。",
+        "pronunciation": "yakiniku no tare ga suki desu.",
+        "translation": "I like yakiniku sauce."
+      },
+      {
+        "sentence": "家族(かぞく)で焼肉(やきにく)を囲(かこ)みました。",
+        "pronunciation": "kazoku de yakiniku o kakomimashita.",
+        "translation": "The family gathered around for yakiniku."
+      },
+      {
+        "sentence": "色(いろ)々な部位(ぶい)の肉(にく)を焼(や)いて食(た)べます。",
+        "pronunciation": "iroiro na bui no niku o yaite tabemasu.",
+        "translation": "We grill and eat various cuts of meat."
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "word": "とんかつ",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "tonkatsu (Japanese pork cutlet)",
+    "burmese": "တုန်ကတ်ဆု (ဂျပန်ဝက်သားကင်)",
+    "definition": "A Japanese dish that consists of a breaded, deep-fried pork cutlet.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "とんかつ",
+    "romaji": "tonnkatsu",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "とんかつを食(た)べたいです。",
+        "pronunciation": "tonkatsu o tabetai desu.",
+        "translation": "I want to eat tonkatsu."
+      },
+      {
+        "sentence": "とんかつはサクサクした食感(しょっかん)です。",
+        "pronunciation": "tonkatsu wa sakusaku shita shokkan desu.",
+        "translation": "Tonkatsu has a crispy texture."
+      },
+      {
+        "sentence": "とんかつソースをかけて食(た)べます。",
+        "pronunciation": "tonkatsu soosu o kakete tabemasu.",
+        "translation": "I eat tonkatsu with tonkatsu sauce."
+      },
+      {
+        "sentence": "とんかつ定食(ていしょく)はボリュームがあります。",
+        "pronunciation": "tonkatsu teishoku wa boryuumu ga arimasu.",
+        "translation": "A tonkatsu set meal has a large serving size."
+      },
+      {
+        "sentence": "ひれかつとロースかつがあります。",
+        "pronunciation": "hirekatsu to roosukatsu ga arimasu.",
+        "translation": "There is fillet cutlet and loin cutlet."
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "word": "寿司",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "sushi",
+    "burmese": "ဆူရှီ",
+    "definition": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold cooked rice served with a garnish of raw fish, vegetables, or egg.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "すし",
+    "romaji": "sushi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "寿司(すし)を食(た)べに行(い)きましょう。",
+        "pronunciation": "sushi o tabe ni ikimashou.",
+        "translation": "Let's go eat sushi."
+      },
+      {
+        "sentence": "色々(いろいろ)な種類(しゅるい)の寿司(すし)があります。",
+        "pronunciation": "iroiro na shurui no sushi ga arimasu.",
+        "translation": "There are various kinds of sushi."
+      },
+      {
+        "sentence": "私(わたし)はマグロの寿司(すし)が好(す)きです。",
+        "pronunciation": "watashi wa maguro no sushi ga suki desu.",
+        "translation": "I like tuna sushi."
+      },
+      {
+        "sentence": "寿司屋(すしや)で食事(しょくじ)をしました。",
+        "pronunciation": "sushiya de shokuji o shimashita.",
+        "translation": "I had a meal at a sushi restaurant."
+      },
+      {
+        "sentence": "新鮮(しんせん)な魚(さかな)を使(つか)った寿司(すし)はおいしいです。",
+        "pronunciation": "shinsen na sakana o tsukatta sushi wa oishii desu.",
+        "translation": "Sushi made with fresh fish is delicious."
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "word": "刺身",
+    "partsOfSpeech": "noun",
+    "categories": ["food"],
+    "english": "sashimi (raw sliced fish)",
+    "burmese": "ဆာရှိမိ (ငါးအစိမ်း)",
+    "definition": "A Japanese dish consisting of thinly sliced raw meat or fish.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "さしみ",
+    "romaji": "sashimi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "刺身(さしみ)は新鮮(しんせん)さが大切(たいせつ)です。",
+        "pronunciation": "sashimi wa shinsensa ga taisetsu desu.",
+        "translation": "Freshness is essential for sashimi."
+      },
+      {
+        "sentence": "色々(いろいろ)な魚(さかな)の刺身(さしみ)を食(た)べました。",
+        "pronunciation": "iroiro na sakana no sashimi o tabemashita.",
+        "translation": "I ate sashimi of various kinds of fish."
+      },
+      {
+        "sentence": "刺身(さしみ)は醤油(しょうゆ)とわさびで食(た)べます。",
+        "pronunciation": "sashimi wa shouyu to wasabi de tabemasu.",
+        "translation": "I eat sashimi with soy sauce and wasabi."
+      },
+      {
+        "sentence": "私(わたし)はマグロの刺身(さしみ)が一番(いちばん)好(す)きです。",
+        "pronunciation": "watashi wa maguro no sashimi ga ichiban suki desu.",
+        "translation": "I like tuna sashimi the best."
+      },
+      {
+        "sentence": "新鮮(しんせん)な刺身(さしみ)はとろけるような食感(しょっかん)です。",
+        "pronunciation": "shinsen na sashimi wa torokeru you na shokkan desu.",
+        "translation": "Fresh sashimi has a melt-in-your-mouth texture."
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "word": "雨",
+    "partsOfSpeech": "noun",
+    "categories": ["nature", "weather"],
+    "english": "rain",
+    "burmese": "မိုး",
+    "definition": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "あめ",
+    "romaji": "ame",
+    "synonyms": [],
+    "antonyms": ["晴れ"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "雨(あめ)が降(ふ)っています。",
+        "pronunciation": "ame ga futte imasu.",
+        "translation": "It is raining."
+      },
+      {
+        "sentence": "強(つよ)い雨(あめ)です。",
+        "pronunciation": "tsuyoi ame desu.",
+        "translation": "It is heavy rain."
+      },
+      {
+        "sentence": "雨(あめ)がやみました。",
+        "pronunciation": "ame ga yamimashita.",
+        "translation": "The rain stopped."
+      },
+      {
+        "sentence": "雨(あめ)の日(ひ)は家(うち)で過(す)ごします。",
+        "pronunciation": "ame no hi wa uchi de sugoshimasu.",
+        "translation": "I spend rainy days at home."
+      },
+      {
+        "sentence": "傘(かさ)を持(も)って行(い)きましょう。",
+        "pronunciation": "kasa o motte ikimashou.",
+        "translation": "Let's take an umbrella."
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "word": "水",
+    "partsOfSpeech": "noun",
+    "categories": ["nature"],
+    "english": "water",
+    "burmese": "ရေ",
+    "definition": "A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "みず",
+    "romaji": "mizu",
+    "synonyms": [],
+    "antonyms": ["湯"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "水(みず)を飲(の)みます。",
+        "pronunciation": "mizu o nomimasu.",
+        "translation": "I will drink water."
+      },
+      {
+        "sentence": "冷(つめ)たい水(みず)が飲(の)みたいです。",
+        "pronunciation": "tsumetai mizu ga nomitai desu.",
+        "translation": "I want to drink cold water."
+      },
+      {
+        "sentence": "水(みず)は大切(たいせつ)です。",
+        "pronunciation": "mizu wa taisetsu desu.",
+        "translation": "Water is important."
+      },
+      {
+        "sentence": "お湯(ゆ)と水(みず)を混(ま)ぜます。",
+        "pronunciation": "oyu to mizu o mazemasu.",
+        "translation": "I will mix hot water and cold water."
+      },
+      {
+        "sentence": "水道(すいどう)の水(みず)は飲(の)めます。",
+        "pronunciation": "suidou no mizu wa nomemasu.",
+        "translation": "Tap water is drinkable."
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "word": "酒",
+    "partsOfSpeech": "noun",
+    "categories": ["food", "drinks"],
+    "english": "sake, alcohol",
+    "burmese": "အရက်",
+    "definition": "An alcoholic drink made by fermenting rice malt, yeast, and water.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "さけ",
+    "romaji": "sake",
+    "synonyms": ["日本酒"],
+    "antonyms": ["水", "ジュース"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "酒(さけ)を飲(の)みますか。",
+        "pronunciation": "sake o nomimasu ka.",
+        "translation": "Do you drink sake?"
+      },
+      {
+        "sentence": "日本酒(にほんしゅ)は米(こめ)から作(つく)られます。",
+        "pronunciation": "nihonshu wa kome kara tsukuraremasu.",
+        "translation": "Sake is made from rice."
+      },
+      {
+        "sentence": "色々(いろいろ)な種類(しゅるい)の酒(さけ)があります。",
+        "pronunciation": "iroiro na shurui no sake ga arimasu.",
+        "translation": "There are various kinds of sake."
+      },
+      {
+        "sentence": "熱燗(あつかん)で酒(さけ)を飲(の)むのが好(す)きです。",
+        "pronunciation": "atsukan de sake o nomu no ga suki desu.",
+        "translation": "I like to drink sake warm."
+      },
+      {
+        "sentence": "飲(の)みすぎに注意(ちゅうい)しましょう。",
+        "pronunciation": "nomisugi ni chuui shimashou.",
+        "translation": "Let's be careful not to drink too much alcohol."
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "word": "空港",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "transportation"],
+    "english": "airport",
+    "burmese": "လေဆိပ်",
+    "definition": "A complex of runways and buildings for the take-off, landing, and maintenance of civil aircraft, with facilities for passengers.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "くうこう",
+    "romaji": "kuukou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "空港(くうこう)に着(つ)きました。",
+        "pronunciation": "kuukou ni tsukimashita.",
+        "translation": "I arrived at the airport."
+      },
+      {
+        "sentence": "空港(くうこう)は広(ひろ)いです。",
+        "pronunciation": "kuukou wa hiroi desu.",
+        "translation": "The airport is spacious."
+      },
+      {
+        "sentence": "空港(くうこう)で友達(ともだち)を見送(みおく)りました。",
+        "pronunciation": "kuukou de tomodachi o miokurimashita.",
+        "translation": "I saw my friend off at the airport."
+      },
+      {
+        "sentence": "空港(くうこう)にはたくさんのお店(みせ)があります。",
+        "pronunciation": "kuukou ni wa takusan no omise ga arimasu.",
+        "translation": "There are many shops at the airport."
+      },
+      {
+        "sentence": "飛行機(ひこうき)は空港(くうこう)から出発(しゅっぱつ)します。",
+        "pronunciation": "hikouki wa kuukou kara shuppatsu shimasu.",
+        "translation": "Airplanes depart from the airport."
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "word": "家",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "house, home",
+    "burmese": "အိမ်",
+    "definition": "A building for human habitation, especially one that is lived in by a family or small group of people.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "いえ",
+    "romaji": "ie",
+    "synonyms": ["うち", "住宅"],
+    "antonyms": ["会社", "学校"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "家(いえ)に帰(かえ)ります。",
+        "pronunciation": "ie ni kaerimasu.",
+        "translation": "I will go home."
+      },
+      {
+        "sentence": "私(わたし)の家(いえ)はここです。",
+        "pronunciation": "watashi no ie wa koko desu.",
+        "translation": "My house is here."
+      },
+      {
+        "sentence": "家(いえ)でゆっくり休(やす)みます。",
+        "pronunciation": "ie de yukkuri yasumimasu.",
+        "translation": "I will relax at home."
+      },
+      {
+        "sentence": "新(あたら)しい家(いえ)を建(た)てたいです。",
+        "pronunciation": "atarashii ie o tatetai desu.",
+        "translation": "I want to build a new house."
+      },
+      {
+        "sentence": "家族(かぞく)と家(いえ)で過(す)ごします。",
+        "pronunciation": "kazoku to ie de sugoshimasu.",
+        "translation": "I spend time with my family at home."
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "word": "駅",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "transportation"],
+    "english": "station",
+    "burmese": "ဘူတာ",
+    "definition": "A place where trains or buses regularly stop, allowing passengers to get on and off.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "えき",
+    "romaji": "eki",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "駅(えき)に行(い)きます。",
+        "pronunciation": "eki ni ikimasu.",
+        "translation": "I will go to the station."
+      },
+      {
+        "sentence": "駅(えき)の前(まえ)で待(ま)ち合(あ)わせしましょう。",
+        "pronunciation": "eki no mae de machiawase shimashou.",
+        "translation": "Let's meet in front of the station."
+      },
+      {
+        "sentence": "この駅(えき)は乗(の)り換(か)えが便利(べんり)です。",
+        "pronunciation": "kono eki wa norikae ga benri desu.",
+        "translation": "This station is convenient for transfers."
+      },
+      {
+        "sentence": "駅(えき)のホームで電車(でんしゃ)を待(ま)ちます。",
+        "pronunciation": "eki no hoomu de densha o machimasu.",
+        "translation": "I will wait for the train on the platform."
+      },
+      {
+        "sentence": "終電(しゅうでん)はもうすぐ駅(えき)に着(つ)きます。",
+        "pronunciation": "shuuden wa mousugu eki ni tsukimasu.",
+        "translation": "The last train will arrive at the station soon."
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "word": "温泉",
+    "partsOfSpeech": "noun",
+    "categories": ["places"],
+    "english": "hot spring",
+    "burmese": "ရေပူစမ်း",
+    "definition": "A spring of naturally hot water.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "おんせん",
+    "romaji": "onnsenn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "温泉(おんせん)に入(はい)りたいです。",
+        "pronunciation": "onsen ni hairitai desu.",
+        "translation": "I want to take a hot spring bath."
+      },
+      {
+        "sentence": "温泉(おんせん)はリラックスできます。",
+        "pronunciation": "onsen wa rirakkusu dekimasu.",
+        "translation": "Hot springs are relaxing."
+      },
+      {
+        "sentence": "温泉(おんせん)地(ち)へ旅行(りょこう)に行(い)きました。",
+        "pronunciation": "onsen chi e ryokou ni ikimashita.",
+        "translation": "I went on a trip to a hot spring resort."
+      },
+      {
+        "sentence": "露天風呂(ろてんぶろ)のある温泉(おんせん)が好(す)きです。",
+        "pronunciation": "rotenburo no aru onsen ga suki desu.",
+        "translation": "I like hot springs with outdoor baths."
+      },
+      {
+        "sentence": "温泉(おんせん)の効能(こうのう)は色々(いろいろ)あります。",
+        "pronunciation": "onsen no kounou wa iroiro arimasu.",
+        "translation": "Hot springs have various health benefits."
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "word": "郵便局",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "services"],
+    "english": "post office",
+    "burmese": "စာတိုက်",
+    "definition": "A department or organization responsible for postal services.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ゆうびんきょく",
+    "romaji": "yuubinnkyoku",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "郵便局(ゆうびんきょく)へ行(い)きます。",
+        "pronunciation": "yuubinkyoku e ikimasu.",
+        "translation": "I will go to the post office."
+      },
+      {
+        "sentence": "郵便局(ゆうびんきょく)で手紙(てがみ)を出(だ)します。",
+        "pronunciation": "yuubinkyoku de tegami o dashimasu.",
+        "translation": "I will mail a letter at the post office."
+      },
+      {
+        "sentence": "郵便局(ゆうびんきょく)は何時(なんじ)まで開(あ)いていますか。",
+        "pronunciation": "yuubinkyoku wa nanji made aite imasu ka.",
+        "translation": "Until what time is the post office open?"
+      },
+      {
+        "sentence": "郵便局(ゆうびんきょく)で切手(きって)を買(か)いました。",
+        "pronunciation": "yuubinkyoku de kitte o kaimashita.",
+        "translation": "I bought stamps at the post office."
+      },
+      {
+        "sentence": "小包(こづつみ)を郵便局(ゆうびんきょく)から送(おく)りました。",
+        "pronunciation": "kozutsumi o yuubinkyoku kara okurimashita.",
+        "translation": "I sent a parcel from the post office."
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "word": "銀行",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "services"],
+    "english": "bank",
+    "burmese": "ဘဏ်",
+    "definition": "An institution for receiving, keeping, and lending money.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ぎんこう",
+    "romaji": "ginnkou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "銀行(ぎんこう)へ行(い)きます。",
+        "pronunciation": "ginkou e ikimasu.",
+        "translation": "I will go to the bank."
+      },
+      {
+        "sentence": "銀行(ぎんこう)でお金(かね)を引(ひ)き出(だ)します。",
+        "pronunciation": "ginkou de okane o hikidashimasu.",
+        "translation": "I will withdraw money at the bank."
+      },
+      {
+        "sentence": "銀行(ぎんこう)は何時(なんじ)まで開(あ)いていますか。",
+        "pronunciation": "ginkou wa nanji made aite imasu ka.",
+        "translation": "Until what time is the bank open?"
+      },
+      {
+        "sentence": "銀行(ぎんこう)で口座(こうざ)を開(ひら)きました。",
+        "pronunciation": "ginkou de kouza o hirakimashita.",
+        "translation": "I opened an account at the bank."
+      },
+      {
+        "sentence": "銀行(ぎんこう)のATMを使(つか)います。",
+        "pronunciation": "ginkou no ATM o tsukaimasu.",
+        "translation": "I will use the bank's ATM."
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "word": "病院",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "services"],
+    "english": "hospital",
+    "burmese": "ဆေးရုံ",
+    "definition": "An institution providing medical or surgical treatment and nursing care for sick or injured people.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "びょういん",
+    "romaji": "byouinn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "病院(びょういん)へ行(い)きます。",
+        "pronunciation": "byouin e ikimasu.",
+        "translation": "I will go to the hospital."
+      },
+      {
+        "sentence": "病院(びょういん)で診察(しんさつ)を受(う)けました。",
+        "pronunciation": "byouin de shinsatsu o ukemashita.",
+        "translation": "I had a medical examination at the hospital."
+      },
+      {
+        "sentence": "病院(びょういん)の待合室(まちあいしつ)は混(こ)んでいます。",
+        "pronunciation": "byouin no machiaishitsu wa konde imasu.",
+        "translation": "The hospital waiting room is crowded."
+      },
+      {
+        "sentence": "病院(びょういん)にお見舞(みま)いに行(い)きました。",
+        "pronunciation": "byouin ni omimai ni ikimashita.",
+        "translation": "I went to visit someone in the hospital."
+      },
+      {
+        "sentence": "救急車(きゅうきゅうしゃ)が病院(びょういん)へ向(む)かいました。",
+        "pronunciation": "kyuukyuusha ga byouin e mukaimashita.",
+        "translation": "An ambulance headed to the hospital."
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "word": "学校",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "education"],
+    "english": "school",
+    "burmese": "ကျောင်း",
+    "definition": "An institution for educating children or young people.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "がっこう",
+    "romaji": "gakkou",
+    "synonyms": [],
+    "antonyms": ["会社", "家"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "学校(がっこう)へ行(い)きます。",
+        "pronunciation": "gakkou e ikimasu.",
+        "translation": "I will go to school."
+      },
+      {
+        "sentence": "私(わたし)の学校(がっこう)はあそこです。",
+        "pronunciation": "watashi no gakkou wa asoko desu.",
+        "translation": "My school is over there."
+      },
+      {
+        "sentence": "学校(がっこう)で勉強(べんきょう)します。",
+        "pronunciation": "gakkou de benkyou shimasu.",
+        "translation": "I will study at school."
+      },
+      {
+        "sentence": "学校(がっこう)の友達(ともだち)と遊(あそ)びます。",
+        "pronunciation": "gakkou no tomodachi to asobimasu.",
+        "translation": "I will play with my school friends."
+      },
+      {
+        "sentence": "今日(きょう)は学校(がっこう)が休(やす)みです。",
+        "pronunciation": "kyou wa gakkou ga yasumi desu.",
+        "translation": "School is closed today."
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "word": "体育館",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "sports"],
+    "english": "gymnasium, gym",
+    "burmese": "အားကစားရုံ",
+    "definition": "A building equipped for indoor sports.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "たいいくかん",
+    "romaji": "taiikukann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "体育館(たいいくかん)でバスケットボールをします。",
+        "pronunciation": "taiikukan de basukettobooru o shimasu.",
+        "translation": "I will play basketball in the gymnasium."
+      },
+      {
+        "sentence": "学校(がっこう)の体育館(たいいくかん)は広(ひろ)いです。",
+        "pronunciation": "gakkou no taiikukan wa hiroi desu.",
+        "translation": "The school gymnasium is spacious."
+      },
+      {
+        "sentence": "体育館(たいいくかん)で運動会(うんどうかい)がありました。",
+        "pronunciation": "taiikukan de undoukai ga arimashita.",
+        "translation": "There was a sports day in the gymnasium."
+      },
+      {
+        "sentence": "体育館(たいいくかん)の床(ゆか)は滑(すべ)りやすいです。",
+        "pronunciation": "taiikukan no yuka wa suberiyasui desu.",
+        "translation": "The floor of the gymnasium is slippery."
+      },
+      {
+        "sentence": "体育館(たいいくかん)で練習(れんしゅう)します。",
+        "pronunciation": "taiikukan de renshuu shimasu.",
+        "translation": "I will practice in the gymnasium."
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "word": "寺",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "religion"],
+    "english": "temple (Buddhist)",
+    "burmese": "ဘုန်းကြီးကျောင်း",
+    "definition": "A building or buildings devoted to the worship, or regarded as the dwelling place, of a god or gods or other objects of religious reverence.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "てら",
+    "romaji": "tera",
+    "synonyms": ["お寺"],
+    "antonyms": ["神社", "教会"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "寺(てら)にお参(まい)りに行(い)きました。",
+        "pronunciation": "tera ni omairi ni ikimashita.",
+        "translation": "I went to visit a temple."
+      },
+      {
+        "sentence": "この寺(てら)は歴史(れきし)が古(ふる)いです。",
+        "pronunciation": "kono tera wa rekishi ga furui desu.",
+        "translation": "This temple has a long history."
+      },
+      {
+        "sentence": "寺(てら)の境内(けいだい)は静(しず)かです。",
+        "pronunciation": "tera no keidai wa shizuka desu.",
+        "translation": "The temple grounds are quiet."
+      },
+      {
+        "sentence": "有名(ゆうめい)な寺(てら)を見学(けんがく)しました。",
+        "pronunciation": "yuumei na tera o kengaku shimashita.",
+        "translation": "I visited a famous temple."
+      },
+      {
+        "sentence": "寺(てら)の庭(にわ)が綺麗(きれい)です。",
+        "pronunciation": "tera no niwa ga kirei desu.",
+        "translation": "The temple garden is beautiful."
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "word": "神社",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "religion"],
+    "english": "shrine (Shinto)",
+    "burmese": "နတ်ကွန်း",
+    "definition": "A shrine dedicated to a Shinto deity.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "じんじゃ",
+    "romaji": "jinnja",
+    "synonyms": ["お宮"],
+    "antonyms": ["寺", "教会"],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "神社(じんじゃ)にお参(まい)りしました。",
+        "pronunciation": "jinnja ni omairi shimashita.",
+        "translation": "I visited a shrine."
+      },
+      {
+        "sentence": "この神社(じんじゃ)の祭(まつ)りは賑(にぎ)やかです。",
+        "pronunciation": "kono jinnja no matsuri wa nigiyaka desu.",
+        "translation": "The festival at this shrine is lively."
+      },
+      {
+        "sentence": "神社(じんじゃ)の鳥居(とりい)をくぐりました。",
+        "pronunciation": "jinnja no torii o kugurimashita.",
+        "translation": "I passed through the torii gate of the shrine."
+      },
+      {
+        "sentence": "神社(じんじゃ)の静(しず)かな雰囲気(ふんいき)が好(す)きです。",
+        "pronunciation": "jinnja no shizuka na fun'iki ga suki desu.",
+        "translation": "I like the quiet atmosphere of the shrine."
+      },
+      {
+        "sentence": "神社(じんじゃ)で御籤(おみくじ)を引(ひ)きました。",
+        "pronunciation": "jinnja de omikuji o hikimashita.",
+        "translation": "I drew a fortune slip at the shrine."
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "word": "交番",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "services"],
+    "english": "police box, police station (small)",
+    "burmese": "ရဲကင်း။ရဲစခန်းငယ်",
+    "definition": "A small local police station found in urban neighborhoods throughout Japan.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "こうばん",
+    "romaji": "koubann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "道(みち)に迷(まよ)ったので交番(こうばん)で聞(き)きました。",
+        "pronunciation": "michi ni mayotta node kouban de kikimashita.",
+        "translation": "I got lost, so I asked at the police box."
+      },
+      {
+        "sentence": "交番(こうばん)は地域(ちいき)の安全(あんぜん)を守(まも)っています。",
+        "pronunciation": "kouban wa chiiki no anzen o mamotte imasu.",
+        "translation": "The police box protects the safety of the neighborhood."
+      },
+      {
+        "sentence": "交番(こうばん)の警察官(けいさつかん)に尋(たず)ねました。",
+        "pronunciation": "kouban no keisatsukan ni tazunemashita.",
+        "translation": "I asked the police officer at the police box."
+      },
+      {
+        "sentence": "近(ちか)くに交番(こうばん)はありますか。",
+        "pronunciation": "chikaku ni kouban wa arimasu ka.",
+        "translation": "Is there a police box nearby?"
+      },
+      {
+        "sentence": "交番(こうばん)の明(あか)かりが見(み)えました。",
+        "pronunciation": "kouban no akari ga miemashita.",
+        "translation": "I could see the light of the police box."
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "word": "城",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "historical"],
+    "english": "castle",
+    "burmese": "ရဲတိုက်",
+    "definition": "A large fortified building or set of buildings enclosed by strong walls, typically dating from the medieval period.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "しろ",
+    "romaji": "shiro",
+    "synonyms": ["お城"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "お城(しろ)を見学(けんがく)しました。",
+        "pronunciation": "oshiro o kengaku shimashita.",
+        "translation": "I visited a castle."
+      },
+      {
+        "sentence": "この城(しろ)は有名(ゆうめい)な観光(かんこう)スポットです。",
+        "pronunciation": "kono shiro wa yuumei na kankou supotto desu.",
+        "translation": "This castle is a famous tourist spot."
+      },
+      {
+        "sentence": "城(しろ)の天守閣(てんしゅかく)からの眺(なが)めは素晴(すば)らしいです。",
+        "pronunciation": "shiro no tenshukaku kara no nagame wa subarashii desu.",
+        "translation": "The view from the castle tower is wonderful."
+      },
+      {
+        "sentence": "昔(むかし)の城(しろ)は軍事(ぐんじ)的(てき)な役割(やくわり)も持(も)っていました。",
+        "pronunciation": "mukashi no shiro wa gunjiteki na yakuwari mo motte imashita.",
+        "translation": "Old castles also had a military role."
+      },
+      {
+        "sentence": "城(しろ)の周(まわ)りの堀(ほり)には水(みず)が張(は)られています。",
+        "pronunciation": "shiro no mawari no hori ni wa mizu ga hararete imasu.",
+        "translation": "The moat around the castle is filled with water."
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "word": "遊園地",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "entertainment"],
+    "english": "amusement park, theme park",
+    "burmese": "ကစားကွင်း",
+    "definition": "A large outdoor area with fairground rides, shows, food stalls, and other entertainments.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "ゆうえんち",
+    "romaji": "yuuennchi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "遊園地(ゆうえんち)に行(い)きたいです。",
+        "pronunciation": "yuuenchi ni ikitai desu.",
+        "translation": "I want to go to an amusement park."
+      },
+      {
+        "sentence": "遊園地(ゆうえんち)は楽(たの)しい乗(の)り物(もの)がたくさんあります。",
+        "pronunciation": "yuuenchi wa tanoshii norimono ga takusan arimasu.",
+        "translation": "There are many fun rides in the amusement park."
+      },
+      {
+        "sentence": "週末(しゅうまつ)は遊園地(ゆうえんち)が混(こ)みます。",
+        "pronunciation": "shuumatsu wa yuuenchi ga komimasu.",
+        "translation": "Amusement parks are crowded on weekends."
+      },
+      {
+        "sentence": "遊園地(ゆうえんち)で一日中(いちにちじゅう)遊(あそ)びました。",
+        "pronunciation": "yuuenchi de ichinichijuu asobimashita.",
+        "translation": "I spent the whole day playing at the amusement park."
+      },
+      {
+        "sentence": "ジェットコースターは遊園地(ゆうえんち)の人気(にんき)アトラクションです。",
+        "pronunciation": "jettokoosutaa wa yuuenchi no ninki atorakushon desu.",
+        "translation": "The roller coaster is a popular attraction at the amusement park."
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "word": "美術館",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "culture"],
+    "english": "art museum, art gallery",
+    "burmese": "အနုပညာပြတိုက်",
+    "definition": "A building or space for the exhibition of art, usually visual art.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "びじゅつかん",
+    "romaji": "bijutsukann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "美術館(びじゅつかん)で絵(え)を見(み)ました。",
+        "pronunciation": "bijutsukan de e o mimashita.",
+        "translation": "I saw paintings at the art museum."
+      },
+      {
+        "sentence": "この美術館(びじゅつかん)には有名(ゆうめい)な作品(さくひん)がたくさんあります。",
+        "pronunciation": "kono bijutsukan ni wa yuumei na sakuhin ga takusan arimasu.",
+        "translation": "This art museum has many famous works."
+      },
+      {
+        "sentence": "美術館(びじゅつかん)の静(しず)かな雰囲気(ふんいき)が好(す)きです。",
+        "pronunciation": "bijutsukan no shizuka na fun'iki ga suki desu.",
+        "translation": "I like the quiet atmosphere of the art museum."
+      },
+      {
+        "sentence": "週末(しゅうまつ)は美術館(びじゅつかん)も賑(にぎ)わっています。",
+        "pronunciation": "shuumatsu wa bijutsukan mo nigiwatte imasu.",
+        "translation": "Art museums are also crowded on weekends."
+      },
+      {
+        "sentence": "無料(むりょう)で入(はい)れる美術館(びじゅつかん)もあります。",
+        "pronunciation": "muryou de haireru bijutsukan mo arimasu.",
+        "translation": "There are also art museums that you can enter for free."
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "word": "公園",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "nature", "recreation"],
+    "english": "park",
+    "burmese": "ဥယျာဉ်။ပန်းခြံ",
+    "definition": "A large public green area in a town, used for recreation.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "こうえん",
+    "romaji": "kouenn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "公園(こうえん)を散歩(さんぽ)します。",
+        "pronunciation": "kouen o sanpo shimasu.",
+        "translation": "I will take a walk in the park."
+      },
+      {
+        "sentence": "公園(こうえん)で子供(こども)たちが遊(あそ)んでいます。",
+        "pronunciation": "kouen de kodomotachi ga asonde imasu.",
+        "translation": "Children are playing in the park."
+      },
+      {
+        "sentence": "この公園(こうえん)は広(ひろ)くて綺麗(きれい)です。",
+        "pronunciation": "kono kouen wa hirokute kirei desu.",
+        "translation": "This park is spacious and beautiful."
+      },
+      {
+        "sentence": "公園(こうえん)のベンチで休(やす)みました。",
+        "pronunciation": "kouen no benchi de yasumimashita.",
+        "translation": "I rested on a park bench."
+      },
+      {
+        "sentence": "週末(しゅうまつ)は公園(こうえん)でピクニックをするのが楽(たの)しいです。",
+        "pronunciation": "shuumatsu wa kouen de pikunikku o suru no ga tanoshii desu.",
+        "translation": "Having a picnic in the park on weekends is fun."
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "word": "港",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "transportation"],
+    "english": "port, harbor",
+    "burmese": "ဆိပ်ကမ်း",
+    "definition": "A place on the coast where ships can moor safely and take on or discharge cargo or passengers.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "みなと",
+    "romaji": "minato",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "港(みなと)にはたくさんの船(ふね)が停(と)まっています。",
+        "pronunciation": "minato ni wa takusan no fune ga tomatte imasu.",
+        "translation": "Many ships are docked in the port."
+      },
+      {
+        "sentence": "この港(みなと)は貿易(ぼうえき)で賑(にぎ)わっています。",
+        "pronunciation": "kono minato wa boueki de nigiwatte imasu.",
+        "translation": "This port is bustling with trade."
+      },
+      {
+        "sentence": "港(みなと)の景色(けしき)を見(み)ながら散歩(さんぽ)しました。",
+        "pronunciation": "minato no keshiki o minagara sanpo shimashita.",
+        "translation": "I took a walk while looking at the port scenery."
+      },
+      {
+        "sentence": "港(みなと)から船(ふね)が出航(しゅっこう)しました。",
+        "pronunciation": "minato kara fune ga shukkou shimashita.",
+        "translation": "A ship departed from the port."
+      },
+      {
+        "sentence": "港(みなと)の近(ちか)くには魚市場(うおいちば)があります。",
+        "pronunciation": "minato no chikaku ni wa uoichiba ga arimasu.",
+        "translation": "There is a fish market near the port."
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "word": "バスターミナル",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "transportation"],
+    "english": "bus terminal",
+    "burmese": "ဘတ်စ်ကားဂိတ်",
+    "definition": "A station where buses start and end their routes and where passengers can get on and off.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "バスターミナル",
+    "romaji": "basutaaminaru",
+    "synonyms": ["バスターミナル"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "バスターミナルでバスを待(ま)ちます。",
+        "pronunciation": "basutaaminaru de basu o machimasu.",
+        "translation": "I will wait for the bus at the bus terminal."
+      },
+      {
+        "sentence": "バスターミナルはたくさんの人(ひと)で賑(にぎ)わっています。",
+        "pronunciation": "basutaaminaru wa takusan no hito de nigiwatte imasu.",
+        "translation": "The bus terminal is crowded with many people."
+      },
+      {
+        "sentence": "バスターミナルの案内所(あんないじょ)で聞(き)きました。",
+        "pronunciation": "basutaaminaru no annaijo de kikimashita.",
+        "translation": "I asked at the information desk at the bus terminal."
+      },
+      {
+        "sentence": "高速(こうそく)バスはバスターミナルから出発(しゅっぱつ)します。",
+        "pronunciation": "kousoku basu wa basutaaminaru kara shuppatsu shimasu.",
+        "translation": "The express bus departs from the bus terminal."
+      },
+      {
+        "sentence": "バスターミナルの売店(ばいてん)で切符(きっぷ)を買(か)いました。",
+        "pronunciation": "basutaaminaru no baiten de kippu o kaimashita.",
+        "translation": "I bought a ticket at the kiosk in the bus terminal."
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "word": "大学",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "education"],
+    "english": "university, college",
+    "burmese": "တက္ကသိုလ်",
+    "definition": "An educational institution designed for instruction and examination of students in many branches of advanced learning, conferring degrees.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "だいがく",
+    "romaji": "daigaku",
+    "synonyms": [],
+    "antonyms": ["高校", "中学校", "小学校"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "大学(だいがく)で勉強(べんきょう)しています。",
+        "pronunciation": "daigaku de benkyou shite imasu.",
+        "translation": "I am studying at university."
+      },
+      {
+        "sentence": "私(わたし)は来年(らいねん)大学(だいがく)に入学(にゅうがく)します。",
+        "pronunciation": "watashi wa rainen daigaku ni nyuugaku shimasu.",
+        "translation": "I will enter university next year."
+      },
+      {
+        "sentence": "大学(だいがく)のキャンパスは広(ひろ)いです。",
+        "pronunciation": "daigaku no kyanpasu wa hiroi desu.",
+        "translation": "The university campus is large."
+      },
+      {
+        "sentence": "大学(だいがく)の図書館(としょかん)で本(ほん)を借(か)りました。",
+        "pronunciation": "daigaku no toshokan de hon o karimashita.",
+        "translation": "I borrowed a book from the university library."
+      },
+      {
+        "sentence": "大学(だいがく)のサークル活動(かつどう)は楽(たの)しいです。",
+        "pronunciation": "daigaku no saakuru katsudou wa tanoshii desu.",
+        "translation": "University club activities are fun."
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "word": "動物園",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "animals", "entertainment"],
+    "english": "zoo",
+    "burmese": "တိရစ္ဆာန်ရုံ",
+    "definition": "An establishment that maintains a collection of wild animals, typically in a park or gardens, for study, conservation, or display to the public.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "どうぶつえん",
+    "romaji": "doubutsuenn",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "動物園(どうぶつえん)に行(い)きました。",
+        "pronunciation": "doubutsuen ni ikimashita.",
+        "translation": "I went to the zoo."
+      },
+      {
+        "sentence": "動物園(どうぶつえん)には色々(いろいろ)な動物(どうぶつ)がいます。",
+        "pronunciation": "doubutsuen ni wa iroiro na doubutsu ga imasu.",
+        "translation": "There are various kinds of animals in the zoo."
+      },
+      {
+        "sentence": "子供(こども)たちは動物園(どうぶつえん)が好(す)きです。",
+        "pronunciation": "kodomotachi wa doubutsuen ga suki desu.",
+        "translation": "Children like the zoo."
+      },
+      {
+        "sentence": "動物園(どうぶつえん)で象(ぞう)を見(み)ました。",
+        "pronunciation": "doubutsuen de zou o mimashita.",
+        "translation": "I saw an elephant at the zoo."
+      },
+      {
+        "sentence": "週末(しゅうまつ)は動物園(どうぶつえん)が賑(にぎ)わっています。",
+        "pronunciation": "shuumatsu wa doubutsuen ga nigiwatte imasu.",
+        "translation": "The zoo is crowded on weekends."
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "word": "水族館",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "animals", "entertainment"],
+    "english": "aquarium",
+    "burmese": "ငါးပြတိုက်",
+    "definition": "A building or institution for the public display of live aquatic animals and plants.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "すいぞくかん",
+    "romaji": "suizokukann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "水族館(すいぞくかん)に行(い)きたいです。",
+        "pronunciation": "suizokukan ni ikitai desu.",
+        "translation": "I want to go to the aquarium."
+      },
+      {
+        "sentence": "水族館(すいぞくかん)には珍(めずら)しい魚(さかな)がたくさんいます。",
+        "pronunciation": "suizokukan ni wa mezurashii sakana ga takusan imasu.",
+        "translation": "There are many rare fish in the aquarium."
+      },
+      {
+        "sentence": "水族館(すいぞくかん)のイルカショーは人気(にんき)があります。",
+        "pronunciation": "suizokukan no iruka shoo wa ninki ga arimasu.",
+        "translation": "The dolphin show at the aquarium is popular."
+      },
+      {
+        "sentence": "水族館(すいぞくかん)のトンネルを通(とお)りました。",
+        "pronunciation": "suizokukan no tonneru o toorimashita.",
+        "translation": "I went through the tunnel at the aquarium."
+      },
+      {
+        "sentence": "水族館(すいぞくかん)で熱帯魚(ねったいぎょ)を見(み)ました。",
+        "pronunciation": "suizokukan de nettaigyo o mimashita.",
+        "translation": "I saw tropical fish at the aquarium."
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "word": "塔",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "architecture"],
+    "english": "tower",
+    "burmese": "မျှော်စင်",
+    "definition": "A tall, narrow building, often part of a larger structure and higher than it.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "とう",
+    "romaji": "tou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "あの塔(とう)は高(たか)いです。",
+        "pronunciation": "ano tou wa takai desu.",
+        "translation": "That tower is tall."
+      },
+      {
+        "sentence": "塔(とう)の上(うえ)から景色(けしき)を見(み)ました。",
+        "pronunciation": "tou no ue kara keshiki o mimashita.",
+        "translation": "I saw the view from the top of the tower."
+      },
+      {
+        "sentence": "東京(とうきょう)タワーは有名(ゆうめい)です。",
+        "pronunciation": "toukyou tawaa wa yuumei desu.",
+        "translation": "Tokyo Tower is famous."
+      },
+      {
+        "sentence": "塔(とう)のライトアップが綺麗(きれい)です。",
+        "pronunciation": "tou no raitoappu ga kirei desu.",
+        "translation": "The tower's illumination is beautiful."
+      },
+      {
+        "sentence": "歴史的(れきしてき)な塔(とう)を見学(けんがく)しました。",
+        "pronunciation": "rekishiteki na tou o kengaku shimashita.",
+        "translation": "I visited a historical tower."
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "word": "建物",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "architecture"],
+    "english": "building",
+    "burmese": "အဆောက်အဦး",
+    "definition": "A structure with a roof and walls, such as a house, school, store, or factory.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "たてもの",
+    "romaji": "tatemono",
+    "synonyms": ["ビル", "家", "建築物"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "高(たか)い建物(たてもの)がたくさんあります。",
+        "pronunciation": "takai tatemono ga takusan arimasu.",
+        "translation": "There are many tall buildings."
+      },
+      {
+        "sentence": "この建物(たてもの)は古(ふる)いです。",
+        "pronunciation": "kono tatemono wa furui desu.",
+        "translation": "This building is old."
+      },
+      {
+        "sentence": "建物(たてもの)の中(なか)に入(はい)ります。",
+        "pronunciation": "tatemono no naka ni hairimasu.",
+        "translation": "I will go inside the building."
+      },
+      {
+        "sentence": "新(あたら)しい建物(たてもの)が建(た)ちました。",
+        "pronunciation": "atarashii tatemono ga tachimashita.",
+        "translation": "A new building was built."
+      },
+      {
+        "sentence": "地震(じしん)で建物(たてもの)が揺(ゆ)れました。",
+        "pronunciation": "jishin de tatemono ga yuremashita.",
+        "translation": "The building shook in the earthquake."
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "word": "倉庫",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "industry"],
+    "english": "warehouse, storehouse",
+    "burmese": "ဂိုဒေါင်",
+    "definition": "A large building used for storing goods.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "そうこ",
+    "romaji": "souko",
+    "synonyms": ["納屋"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "倉庫(そうこ)に荷物(にもつ)を保管(ほかん)します。",
+        "pronunciation": "souko ni nimotsu o hokan shimasu.",
+        "translation": "I will store the luggage in the warehouse."
+      },
+      {
+        "sentence": "この倉庫(そうこ)は広(ひろ)いです。",
+        "pronunciation": "kono souko wa hiroi desu.",
+        "translation": "This warehouse is large."
+      },
+      {
+        "sentence": "倉庫(そうこ)の中(なか)は暗(くら)いです。",
+        "pronunciation": "souko no naka wa kurai desu.",
+        "translation": "It is dark inside the warehouse."
+      },
+      {
+        "sentence": "倉庫(そうこ)から商品(しょうひん)を出荷(しゅっか)します。",
+        "pronunciation": "souko kara shouhin o shukka shimasu.",
+        "translation": "We will ship the goods from the warehouse."
+      },
+      {
+        "sentence": "古(ふる)い倉庫(そうこ)が建(た)っています。",
+        "pronunciation": "furui souko ga tatte imasu.",
+        "translation": "An old warehouse is standing there."
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "word": "工場",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "industry"],
+    "english": "factory",
+    "burmese": "စက်ရုံ",
+    "definition": "A building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "こうじょう",
+    "romaji": "koujou",
+    "synonyms": ["製作所", "プラント"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "工場(こうじょう)で働(はたら)いています。",
+        "pronunciation": "koujou de hataraite imasu.",
+        "translation": "I work at a factory."
+      },
+      {
+        "sentence": "この工場(こうじょう)では自動車(じどうしゃ)を製造(せいぞう)しています。",
+        "pronunciation": "kono koujou de wa jidousha o seizou shite imasu.",
+        "translation": "This factory manufactures automobiles."
+      },
+      {
+        "sentence": "工場(こうじょう)の周(まわ)りは騒(さわ)がしいです。",
+        "pronunciation": "koujou no mawari wa sawagashii desu.",
+        "translation": "It is noisy around the factory."
+      },
+      {
+        "sentence": "新(あたら)しい工場(こうじょう)が建設(けんせつ)されました。",
+        "pronunciation": "atarashii koujou ga kensetsu saremashita.",
+        "translation": "A new factory was constructed."
+      },
+      {
+        "sentence": "工場(こうじょう)を見学(けんがく)するツアーに参加(さんか)しました。",
+        "pronunciation": "koujou o kengaku suru tsuaa ni sanka shimashita.",
+        "translation": "I participated in a tour to visit a factory."
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "word": "本屋",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "commerce"],
+    "english": "bookstore, bookshop",
+    "burmese": "စာအုပ်ဆိုင်",
+    "definition": "A shop where books are sold.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ほんや",
+    "romaji": "honnya",
+    "synonyms": ["書店"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "本屋(ほんや)で本(ほん)を買(か)いました。",
+        "pronunciation": "honnya de hon o kaimashita.",
+        "translation": "I bought a book at the bookstore."
+      },
+      {
+        "sentence": "この本屋(ほんや)は品揃(しなぞろ)えが豊富(ほうふ)です。",
+        "pronunciation": "kono honnya wa shinazoroe ga houfu desu.",
+        "translation": "This bookstore has a wide selection of books."
+      },
+      {
+        "sentence": "本屋(ほんや)で立(た)ち読(よ)みをしました。",
+        "pronunciation": "honnya de tachiyomi o shimashita.",
+        "translation": "I browsed books while standing at the bookstore."
+      },
+      {
+        "sentence": "近(ちか)くに本屋(ほんや)はありますか。",
+        "pronunciation": "chikaku ni honnya wa arimasu ka.",
+        "translation": "Is there a bookstore nearby?"
+      },
+      {
+        "sentence": "本屋(ほんや)の雰囲気(ふんいき)が好(す)きです。",
+        "pronunciation": "honnya no fun'iki ga suki desu.",
+        "translation": "I like the atmosphere of bookstores."
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "word": "高校",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "education"],
+    "english": "high school",
+    "burmese": "အထက်တန်းကျောင်း",
+    "definition": "A school attended by adolescents, typically after they have completed their secondary education and before higher education.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "こうこう",
+    "romaji": "koukou",
+    "synonyms": ["高等学校"],
+    "antonyms": ["大学", "中学校", "小学校"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "高校(こうこう)に通(かよ)っています。",
+        "pronunciation": "koukou ni kayotte imasu.",
+        "translation": "I am attending high school."
+      },
+      {
+        "sentence": "高校(こうこう)の時(とき)の友達(ともだち)と会(あ)いました。",
+        "pronunciation": "koukou no toki no tomodachi to aimashita.",
+        "translation": "I met a friend from high school."
+      },
+      {
+        "sentence": "高校(こうこう)の文化祭(ぶんかさい)は楽(たの)しいです。",
+        "pronunciation": "koukou no bunkasai wa tanoshii desu.",
+        "translation": "High school cultural festivals are fun."
+      },
+      {
+        "sentence": "高校(こうこう)を卒業(そつぎょう)しました。",
+        "pronunciation": "koukou o sotsugyou shimashita.",
+        "translation": "I graduated from high school."
+      },
+      {
+        "sentence": "来年(らいねん)から高校生(こうこうせい)になります。",
+        "pronunciation": "rainen kara koukousei ni narimasu.",
+        "translation": "I will become a high school student from next year."
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "word": "中学校",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "education"],
+    "english": "middle school, junior high school",
+    "burmese": "အလယ်တန်းကျောင်း",
+    "definition": "A school intermediate between elementary school and high school.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "synonyms": ["中学"],
+    "antonyms": ["高校", "小学校", "幼稚園"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "中学校(ちゅうがっこう)に通(かよ)っています。",
+        "pronunciation": "chuugakkou ni kayotte imasu.",
+        "translation": "I am attending middle school."
+      },
+      {
+        "sentence": "中学校(ちゅうがっこう)の時(とき)のクラブ活動(かつどう)は楽(たの)しかったです。",
+        "pronunciation": "chuugakkou no toki no kurabu katsudou wa tanoshikatta desu.",
+        "translation": "Club activities in middle school were fun."
+      },
+      {
+        "sentence": "中学校(ちゅうがっこう)で色(いろ)々なことを学(まな)びます。",
+        "pronunciation": "chuugakkou de iroiro na koto o manabimasu.",
+        "translation": "I learn various things in middle school."
+      },
+      {
+        "sentence": "中学校(ちゅうがっこう)を卒業(そつぎょう)して高校(こうこう)へ進(すす)みます。",
+        "pronunciation": "chuugakkou o sotsugyou shite koukou e susumimasu.",
+        "translation": "I will graduate from middle school and go on to high school."
+      },
+      {
+        "sentence": "中学校(ちゅうがっこう)の制服(せいふく)を着(き)ています。",
+        "pronunciation": "chuugakkou no seifuku o kite imasu.",
+        "translation": "I am wearing the middle school uniform."
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "word": "小学校",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "education"],
+    "english": "elementary school, primary school",
+    "burmese": "မူလတန်းကျောင်း",
+    "definition": "A school for children in the first four to six years of their formal education.",
+    "language": "japanese",
+    "level": "N5",
+    "formality": "neutral",
+    "pronunciation": "しょうがっこう",
+    "romaji": "shougakkou",
+    "synonyms": ["小学"],
+    "antonyms": ["高校", "中学校", "幼稚園"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "小学校(しょうがっこう)に通(かよ)っています。",
+        "pronunciation": "shougakkou ni kayotte imasu.",
+        "translation": "I am attending elementary school."
+      },
+      {
+        "sentence": "小学校(しょうがっこう)の運動会(うんどうかい)に行(い)きました。",
+        "pronunciation": "shougakkou no undoukai ni ikimashita.",
+        "translation": "I went to the elementary school sports day."
+      },
+      {
+        "sentence": "小学校(しょうがっこう)で友達(ともだち)がたくさんできました。",
+        "pronunciation": "shougakkou de tomodachi ga takusan dekimashita.",
+        "translation": "I made many friends in elementary school."
+      },
+      {
+        "sentence": "小学校(しょうがっこう)の先生(せんせい)は優(やさ)しいです。",
+        "pronunciation": "shougakkou no sensei wa yasashii desu.",
+        "translation": "The elementary school teachers are kind."
+      },
+      {
+        "sentence": "小学校(しょうがっこう)を卒業(そつぎょう)して中学校(ちゅうがっこう)へ進(すす)みます。",
+        "pronunciation": "shougakkou o sotsugyou shite chuugakkou e susumimasu.",
+        "translation": "I will graduate from elementary school and go on to middle school."
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "word": "幼稚園",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "education"],
+    "english": "kindergarten",
+    "burmese": "သူငယ်တန်း",
+    "definition": "A preschool for children aged 4 to 6 to prepare them for primary school.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ようちえん",
+    "romaji": "youchienn",
+    "synonyms": [],
+    "antonyms": ["高校", "中学校", "小学校"],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "幼稚園(ようちえん)に通(かよ)っています。",
+        "pronunciation": "youchien ni kayotte imasu.",
+        "translation": "I am attending kindergarten."
+      },
+      {
+        "sentence": "幼稚園(ようちえん)で歌(うた)を歌(うた)います。",
+        "pronunciation": "youchien de uta o utaimasu.",
+        "translation": "I sing songs in kindergarten."
+      },
+      {
+        "sentence": "幼稚園(ようちえん)で遊(あそ)ぶのが楽(たの)しいです。",
+        "pronunciation": "youchien de asobu no ga tanoshii desu.",
+        "translation": "Playing in kindergarten is fun."
+      },
+      {
+        "sentence": "幼稚園(ようちえん)の先生(せんせい)は子供(こども)に優(やさ)しいです。",
+        "pronunciation": "youchien no sensei wa kodomo ni yasashii desu.",
+        "translation": "The kindergarten teachers are kind to the children."
+      },
+      {
+        "sentence": "幼稚園(ようちえん)を卒業(そつぎょう)して小学校(しょうがっこう)へ行(い)きます。",
+        "pronunciation": "youchien o sotsugyou shite shougakkou e ikimasu.",
+        "translation": "I will graduate from kindergarten and go to elementary school."
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "word": "肉屋",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "commerce"],
+    "english": "butcher shop",
+    "burmese": "အသားဆိုင်",
+    "definition": "A shop selling meat.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "にくや",
+    "romaji": "nikuya",
+    "synonyms": ["精肉店"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "肉屋(にくや)で牛肉(ぎゅうにく)を買(か)いました。",
+        "pronunciation": "nikuya de gyuuniku o kaimashita.",
+        "translation": "I bought beef at the butcher shop."
+      },
+      {
+        "sentence": "この肉屋(にくや)の肉(にく)は新鮮(しんせん)です。",
+        "pronunciation": "kono nikuya no niku wa shinsen desu.",
+        "translation": "The meat at this butcher shop is fresh."
+      },
+      {
+        "sentence": "肉屋(にくや)で色(いろ)々な種類(しゅるい)の肉(にく)が売(う)られています。",
+        "pronunciation": "nikuya de iroiro na shurui no niku ga urarete imasu.",
+        "translation": "Various kinds of meat are sold at the butcher shop."
+      },
+      {
+        "sentence": "肉屋(にくや)のおじさんは親切(しんせつ)です。",
+        "pronunciation": "nikuya no ojisan wa shinsetsu desu.",
+        "translation": "The butcher shop owner is kind."
+      },
+      {
+        "sentence": "近(ちか)くにいい肉屋(にくや)がありますか。",
+        "pronunciation": "chikaku ni ii nikuya ga arimasu ka.",
+        "translation": "Is there a good butcher shop nearby?"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "word": "魚屋",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "commerce"],
+    "english": "fish shop, fishmonger's",
+    "burmese": "ငါးဆိုင်",
+    "definition": "A shop selling fish.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "さかなや",
+    "romaji": "sakanaya",
+    "synonyms": ["鮮魚店"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "魚屋(さかなや)で新鮮(しんせん)な魚(さかな)を買(か)いました。",
+        "pronunciation": "sakanaya de shinsen na sakana o kaimashita.",
+        "translation": "I bought fresh fish at the fish shop."
+      },
+      {
+        "sentence": "この魚屋(さかなや)の魚(さかな)は種類(しゅるい)が豊富(ほうふ)です。",
+        "pronunciation": "kono sakanaya no sakana wa shurui ga houfu desu.",
+        "translation": "This fish shop has a wide variety of fish."
+      },
+      {
+        "sentence": "魚屋(さかなや)で刺身(さしみ)を注文(ちゅうもん)しました。",
+        "pronunciation": "sakanaya de sashimi o chuumon shimashita.",
+        "translation": "I ordered sashimi at the fish shop."
+      },
+      {
+        "sentence": "魚屋(さかなや)のおばさんは元気(げんき)です。",
+        "pronunciation": "sakanaya no obasan wa genki desu.",
+        "translation": "The fish shop owner is energetic."
+      },
+      {
+        "sentence": "近(ちか)くに評判(ひょうばん)のいい魚屋(さかなや)があります。",
+        "pronunciation": "chikaku ni hyouban no ii sakanaya ga arimasu.",
+        "translation": "There is a well-regarded fish shop nearby."
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "word": "魚屋",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "commerce"],
+    "english": "fish shop, fishmonger's",
+    "burmese": "ငါးဆိုင်",
+    "definition": "A shop selling fish.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "さかなや",
+    "romaji": "sakanaya",
+    "synonyms": ["鮮魚店"],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "魚屋(さかなや)で新鮮(しんせん)な魚(さかな)を買(か)いました。",
+        "pronunciation": "sakanaya de shinsen na sakana o kaimashita.",
+        "translation": "I bought fresh fish at the fish shop."
+      },
+      {
+        "sentence": "この魚屋(さかなや)の魚(さかな)は種類(しゅるい)が豊富(ほうふ)です。",
+        "pronunciation": "kono sakanaya no sakana wa shurui ga houfu desu.",
+        "translation": "This fish shop has a wide variety of fish."
+      },
+      {
+        "sentence": "魚屋(さかなや)で刺身(さしみ)を注文(ちゅうもん)しました。",
+        "pronunciation": "sakanaya de sashimi o chuumon shimashita.",
+        "translation": "I ordered sashimi at the fish shop."
+      },
+      {
+        "sentence": "魚屋(さかなや)のおばさんは元気(げんき)です。",
+        "pronunciation": "sakanaya no obasan wa genki desu.",
+        "translation": "The fish shop owner is energetic."
+      },
+      {
+        "sentence": "近(ちか)くに評判(ひょうばん)のいい魚屋(さかなや)があります。",
+        "pronunciation": "chikaku ni hyouban no ii sakanaya ga arimasu.",
+        "translation": "There is a well-regarded fish shop nearby."
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "word": "寿司屋",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "food"],
+    "english": "sushi restaurant",
+    "burmese": "ဆူရှီဆိုင်",
+    "definition": "A restaurant where sushi is served.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "すしや",
+    "romaji": "sushiya",
+    "synonyms": ["寿司店"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "寿司屋(すしや)で夕食(ゆうしょく)を食(た)べました。",
+        "pronunciation": "sushiya de yuushoku o tabemashita.",
+        "translation": "I ate dinner at a sushi restaurant."
+      },
+      {
+        "sentence": "この寿司屋(すしや)の寿司(すし)はとてもおいしいです。",
+        "pronunciation": "kono sushiya no sushi wa totemo oishii desu.",
+        "translation": "The sushi at this sushi restaurant is very delicious."
+      },
+      {
+        "sentence": "カウンター席(せき)の寿司屋(すしや)は人気(にんき)があります。",
+        "pronunciation": "kauntaa seki no sushiya wa ninki ga arimasu.",
+        "translation": "Sushi restaurants with counter seats are popular."
+      },
+      {
+        "sentence": "近(ちか)くにおすすめの寿司屋(すしや)はありますか。",
+        "pronunciation": "chikaku ni osusume no sushiya wa arimasu ka.",
+        "translation": "Is there a recommended sushi restaurant nearby?"
+      },
+      {
+        "sentence": "回(まわ)る寿司屋(すしや)は手軽(てがる)に寿司(すし)が楽(たの)しめます。",
+        "pronunciation": "mawaru sushiya wa tegaru ni sushi ga tanoshimemasu.",
+        "translation": "Conveyor belt sushi restaurants allow you to easily enjoy sushi."
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "word": "駐車場",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "transportation"],
+    "english": "parking lot, car park",
+    "burmese": "ကားပါကင်",
+    "definition": "A place where vehicles can be parked.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "synonyms": ["パーキング"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "駐車場(ちゅうしゃじょう)に車(くるま)を停(と)めます。",
+        "pronunciation": "chuushajou ni kuruma o tomemasu.",
+        "translation": "I will park the car in the parking lot."
+      },
+      {
+        "sentence": "この駐車場(ちゅうしゃじょう)は広(ひろ)いです。",
+        "pronunciation": "kono chuushajou wa hiroi desu.",
+        "translation": "This parking lot is large."
+      },
+      {
+        "sentence": "駐車場(ちゅうしゃじょう)は満車(まんしゃ)でした。",
+        "pronunciation": "chuushajou wa mansha deshita.",
+        "translation": "The parking lot was full."
+      },
+      {
+        "sentence": "駐車場(ちゅうしゃじょう)の料金(りょうきん)は高(たか)いです。",
+        "pronunciation": "chuushajou no ryoukin wa takai desu.",
+        "translation": "The parking lot fee is expensive."
+      },
+      {
+        "sentence": "近(ちか)くに無料(むりょう)の駐車場(ちゅうしゃじょう)はありますか。",
+        "pronunciation": "chikaku ni muryou no chuushajou wa arimasu ka.",
+        "translation": "Is there a free parking lot nearby?"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "word": "橋",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "architecture"],
+    "english": "bridge",
+    "burmese": "တံတား",
+    "definition": "A structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "はし",
+    "romaji": "hashi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "橋(はし)を渡(わた)ります。",
+        "pronunciation": "hashi o watarimasu.",
+        "translation": "I will cross the bridge."
+      },
+      {
+        "sentence": "この橋(はし)は長(なが)いです。",
+        "pronunciation": "kono hashi wa nagai desu.",
+        "translation": "This bridge is long."
+      },
+      {
+        "sentence": "橋(はし)の上(うえ)からの眺(なが)めは綺麗(きれい)です。",
+        "pronunciation": "hashi no ue kara no nagame wa kirei desu.",
+        "translation": "The view from the bridge is beautiful."
+      },
+      {
+        "sentence": "古(ふる)い橋(はし)が残(のこ)っています。",
+        "pronunciation": "furui hashi ga nokotte imasu.",
+        "translation": "An old bridge remains."
+      },
+      {
+        "sentence": "橋(はし)の工事(こうじ)が行(おこな)われています。",
+        "pronunciation": "hashi no kouji ga okonawarete imasu.",
+        "translation": "Bridge construction is underway."
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "word": "博物館",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "culture"],
+    "english": "museum",
+    "burmese": "ပြတိုက်",
+    "definition": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "はくぶつかん",
+    "romaji": "hakubutsukann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "博物館(はくぶつかん)に行(い)きました。",
+        "pronunciation": "hakubutsukan ni ikimashita.",
+        "translation": "I went to the museum."
+      },
+      {
+        "sentence": "この博物館(はくぶつかん)には貴重(きちょう)な展示品(てんじひん)がたくさんあります。",
+        "pronunciation": "kono hakubutsukan ni wa kichou na tenjihin ga takusan arimasu.",
+        "translation": "This museum has many valuable exhibits."
+      },
+      {
+        "sentence": "博物館(はくぶつかん)で歴史(れきし)について学(まな)びました。",
+        "pronunciation": "hakubutsukan de rekishi ni tsuite manabimashita.",
+        "translation": "I learned about history at the museum."
+      },
+      {
+        "sentence": "博物館(はくぶつかん)の入館料(にゅうかんりょう)はいくらですか。",
+        "pronunciation": "hakubutsukan no nyuukanryou wa ikura desu ka.",
+        "translation": "How much is the museum entrance fee?"
+      },
+      {
+        "sentence": "週末(しゅうまつ)は博物館(はくぶつかん)も賑(にぎ)わっています。",
+        "pronunciation": "shuumatsu wa hakubutsukan mo nigiwatte imasu.",
+        "translation": "Museums are also crowded on weekends."
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "word": "消防署",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "services"],
+    "english": "fire station",
+    "burmese": "မီးသတ်စခန်း",
+    "definition": "A building housing fire engines and other firefighting equipment, together with the personnel trained to use them.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "しょうぼうしょ",
+    "romaji": "shoubousho",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "消防署(しょうぼうしょ)には消防車(しょうぼうしゃ)があります。",
+        "pronunciation": "shoubousho ni wa shoubousha ga arimasu.",
+        "translation": "There are fire trucks at the fire station."
+      },
+      {
+        "sentence": "消防署(しょうぼうしょ)のサイレンが鳴(な)りました。",
+        "pronunciation": "shoubousho no sairen ga narimashita.",
+        "translation": "The fire station siren went off."
+      },
+      {
+        "sentence": "消防署員(しょうぼうしょいん)は訓練(くんれん)をしています。",
+        "pronunciation": "shouboushoin wa kunren o shite imasu.",
+        "translation": "Firefighters are training."
+      },
+      {
+        "sentence": "近(ちか)くに消防署(しょうぼうしょ)はありますか。",
+        "pronunciation": "chikaku ni shoubousho wa arimasu ka.",
+        "translation": "Is there a fire station nearby?"
+      },
+      {
+        "sentence": "消防署(しょうぼうしょ)は地域(ちいき)の安全(あんぜん)を守(まも)ります。",
+        "pronunciation": "shoubousho wa chiiki no anzen o mamorimasu.",
+        "translation": "The fire station protects the safety of the community."
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "word": "映画館",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "entertainment"],
+    "english": "movie theater, cinema",
+    "burmese": "ရုပ်ရှင်ရုံ",
+    "definition": "A theater where films are shown for public entertainment.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "えいがかん",
+    "romaji": "eigakann",
+    "synonyms": ["映画館"],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "映画館(えいがかん)で映画(えいが)を見(み)ます。",
+        "pronunciation": "eigakan de eiga o mimasu.",
+        "translation": "I will watch a movie at the movie theater."
+      },
+      {
+        "sentence": "この映画館(えいがかん)は新(あたら)しくて綺麗(きれい)です。",
+        "pronunciation": "kono eigakan wa atarashikute kirei desu.",
+        "translation": "This movie theater is new and clean."
+      },
+      {
+        "sentence": "映画館(えいがかん)は週末(しゅうまつ)は混(こ)みます。",
+        "pronunciation": "eigakan wa shuumatsu wa komimasu.",
+        "translation": "Movie theaters are crowded on weekends."
+      },
+      {
+        "sentence": "映画館(えいがかん)でポップコーンを買(か)いました。",
+        "pronunciation": "eigakan de poppukoon o kaimashita.",
+        "translation": "I bought popcorn at the movie theater."
+      },
+      {
+        "sentence": "レイトショーは映画館(えいがかん)で夜遅(よるおそ)くまで上映(じょうえい)しています。",
+        "pronunciation": "reito shoo wa eigakan de yoru osoku made jouei shite imasu.",
+        "translation": "Late shows are screened late at night at the movie theater."
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "word": "図書館",
+    "partsOfSpeech": "noun",
+    "categories": ["places", "education", "services"],
+    "english": "library",
+    "burmese": "စာကြည့်တိုက်",
+    "definition": "A building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "としょかん",
+    "romaji": "toshokann",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "図書館(としょかん)で本(ほん)を借(か)ります。",
+        "pronunciation": "toshokan de hon o karimasu.",
+        "translation": "I will borrow a book from the library."
+      },
+      {
+        "sentence": "図書館(としょかん)で勉強(べんきょう)します。",
+        "pronunciation": "toshokan de benkyou shimasu.",
+        "translation": "I will study at the library."
+      },
+      {
+        "sentence": "図書館(としょかん)は静(しず)かです。",
+        "pronunciation": "toshokan wa shizuka desu.",
+        "translation": "The library is quiet."
+      },
+      {
+        "sentence": "図書館(としょかん)の本(ほん)は無料(むりょう)で借(か)りられます。",
+        "pronunciation": "toshokan no hon wa muryou de karararemasu.",
+        "translation": "Library books can be borrowed for free."
+      },
+      {
+        "sentence": "近(ちか)くに図書館(としょかん)はありますか。",
+        "pronunciation": "chikaku ni toshokan wa arimasu ka.",
+        "translation": "Is there a library nearby?"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "word": "猿",
+    "partsOfSpeech": "noun",
+    "categories": ["animals"],
+    "english": "monkey, ape",
+    "burmese": "မျောက်",
+    "definition": "A medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "さる",
+    "romaji": "saru",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "動物園(どうぶつえん)で猿(さる)を見(み)ました。",
+        "pronunciation": "doubutsuen de saru o mimashita.",
+        "translation": "I saw a monkey at the zoo."
+      },
+      {
+        "sentence": "猿(さる)は木(き)の上(うえ)に登(のぼ)るのが得意(とくい)です。",
+        "pronunciation": "saru wa ki no ue ni noboru no ga tokui desu.",
+        "translation": "Monkeys are good at climbing trees."
+      },
+      {
+        "sentence": "賢(かしこ)い猿(さる)もいます。",
+        "pronunciation": "kashikoi saru mo imasu.",
+        "translation": "There are also clever monkeys."
+      },
+      {
+        "sentence": "猿(さる)の顔(かお)は赤(あか)いです。",
+        "pronunciation": "saru no kao wa akai desu.",
+        "translation": "The monkey's face is red."
+      },
+      {
+        "sentence": "野生(やせい)の猿(さる)を見(み)かけることがあります。",
+        "pronunciation": "yasei no saru o mikakeru koto ga arimasu.",
+        "translation": "Sometimes you see wild monkeys."
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "word": "兎",
+    "partsOfSpeech": "noun",
+    "categories": ["animals"],
+    "english": "rabbit, hare",
+    "burmese": "ယုန်",
+    "definition": "A burrowing, plant-eating mammal with long ears, soft fur, and a short tail.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "うさぎ",
+    "romaji": "usagi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "兎(うさぎ)は耳(みみ)が長(なが)いです。",
+        "pronunciation": "usagi wa mimi ga nagai desu.",
+        "translation": "Rabbits have long ears."
+      },
+      {
+        "sentence": "兎(うさぎ)は跳(は)ねて移動(いどう)します。",
+        "pronunciation": "usagi wa hanete idou shimasu.",
+        "translation": "Rabbits move by hopping."
+      },
+      {
+        "sentence": "可愛(かわい)い兎(うさぎ)を飼(か)っています。",
+        "pronunciation": "kawaii usagi o katte imasu.",
+        "translation": "I am keeping a cute rabbit."
+      },
+      {
+        "sentence": "兎(うさぎ)は人参(にんじん)が好(す)きです。",
+        "pronunciation": "usagi wa ninjin ga suki desu.",
+        "translation": "Rabbits like carrots."
+      },
+      {
+        "sentence": "童話(どうわ)には兎(うさぎ)が登場(とうじょう)することが多(おお)いです。",
+        "pronunciation": "douwa ni wa usagi ga toujou suru koto ga ooi desu.",
+        "translation": "Rabbits often appear in fairy tales."
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "word": "鼠",
+    "partsOfSpeech": "noun",
+    "categories": ["animals"],
+    "english": "mouse, rat",
+    "burmese": "ကြွက်",
+    "definition": "A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ねずみ",
+    "romaji": "nezumi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "家(いえ)に鼠(ねずみ)が出(で)ました。",
+        "pronunciation": "ie ni nezumi ga demashita.",
+        "translation": "A mouse appeared in the house."
+      },
+      {
+        "sentence": "鼠(ねずみ)は小(ちい)さいです。",
+        "pronunciation": "nezumi wa chiisai desu.",
+        "translation": "Mice are small."
+      },
+      {
+        "sentence": "鼠(ねずみ)はチーズが好(す)きだと思(おも)われています。",
+        "pronunciation": "nezumi wa chiizu ga suki da to omowarete imasu.",
+        "translation": "Mice are thought to like cheese."
+      },
+      {
+        "sentence": "鼠(ねずみ)の鳴(な)き声(ごえ)が聞(き)こえます。",
+        "pronunciation": "nezumi no nakigoe ga kikoemasu.",
+        "translation": "I can hear the sound of a mouse."
+      },
+      {
+        "sentence": "実験(じっけん)に鼠(ねずみ)が使(つか)われることがあります。",
+        "pronunciation": "jikken ni nezumi ga tsukawareru koto ga arimasu.",
+        "translation": "Mice are sometimes used in experiments."
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "word": "虎",
+    "partsOfSpeech": "noun",
+    "categories": ["animals"],
+    "english": "tiger",
+    "burmese": "ကျား",
+    "definition": "A very large solitary cat with a reddish-brown coat striped with black, native to the forests of Asia.",
+    "language": "japanese",
+    "level": "N3",
+    "formality": "neutral",
+    "pronunciation": "とら",
+    "romaji": "tora",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "medium",
+    "examples": [
+      {
+        "sentence": "動物園(どうぶつえん)で虎(とら)を見(み)ました。",
+        "pronunciation": "doubutsuen de tora o mimashita.",
+        "translation": "I saw a tiger at the zoo."
+      },
+      {
+        "sentence": "虎(とら)は強(つよ)い動物(どうぶつ)です。",
+        "pronunciation": "tora wa tsuyoi doubutsu desu.",
+        "translation": "Tigers are strong animals."
+      },
+      {
+        "sentence": "虎(とら)の縞模様(しまもよう)は特徴的(とくちょうてき)です。",
+        "pronunciation": "tora no shimamoyou wa tokuchouteki desu.",
+        "translation": "The tiger's stripes are characteristic."
+      },
+      {
+        "sentence": "虎(とら)は肉食(にくしょく)動物(どうぶつ)です。",
+        "pronunciation": "tora wa nikushoku doubutsu desu.",
+        "translation": "Tigers are carnivorous animals."
+      },
+      {
+        "sentence": "絶滅(ぜつめつ)の危機(きき)に瀕(ひん)している虎(とら)もいます。",
+        "pronunciation": "zetsumetsu no kiki ni hin shite iru tora mo imasu.",
+        "translation": "There are also tigers that are in danger of extinction."
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "word": "象",
+    "partsOfSpeech": "noun",
+    "categories": ["animals"],
+    "english": "elephant",
+    "burmese": "ဆင်",
+    "definition": "A very large plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears, native to Africa and Asia.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ぞう",
+    "romaji": "zou",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "動物園(どうぶつえん)で象(ぞう)を見(み)ました。",
+        "pronunciation": "doubutsuen de zou o mimashita.",
+        "translation": "I saw an elephant at the zoo."
+      },
+      {
+        "sentence": "象(ぞう)は鼻(はな)が長(なが)いです。",
+        "pronunciation": "zou wa hana ga nagai desu.",
+        "translation": "Elephants have long trunks."
+      },
+      {
+        "sentence": "象(ぞう)は賢(かしこ)い動物(どうぶつ)です。",
+        "pronunciation": "zou wa kashikoi doubutsu desu.",
+        "translation": "Elephants are intelligent animals."
+      },
+      {
+        "sentence": "象(ぞう)は体(からだ)が大(おお)きいです。",
+        "pronunciation": "zou wa karada ga ookii desu.",
+        "translation": "Elephants have large bodies."
+      },
+      {
+        "sentence": "象(ぞう)は草(くさ)や葉(は)を食(た)べます。",
+        "pronunciation": "zou wa kusa ya ha o tabemasu.",
+        "translation": "Elephants eat grass and leaves."
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "word": "豚",
+    "partsOfSpeech": "noun",
+    "categories": ["animals"],
+    "english": "pig, hog, swine",
+    "burmese": "ဝက်",
+    "definition": "An omnivorous domesticated hoofed mammal with sparse bristly hair and a flat snout.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "ぶた",
+    "romaji": "buta",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "豚(ぶた)は雑食(ざっしょく)動物(どうぶつ)です。",
+        "pronunciation": "buta wa zasshoku doubutsu desu.",
+        "translation": "Pigs are omnivorous animals."
+      },
+      {
+        "sentence": "豚肉(ぶたにく)は美味(おい)しいです。",
+        "pronunciation": "butaniku wa oishii desu.",
+        "translation": "Pork is delicious."
+      },
+      {
+        "sentence": "豚(ぶた)は鼻(はな)が特徴的(とくちょうてき)です。",
+        "pronunciation": "buta wa hana ga tokuchouteki desu.",
+        "translation": "Pigs have distinctive snouts."
+      },
+      {
+        "sentence": "農場(のうじょう)で豚(ぶた)が飼(か)われています。",
+        "pronunciation": "noujou de buta ga kawarete imasu.",
+        "translation": "Pigs are raised on farms."
+      },
+      {
+        "sentence": "豚(ぶた)は賢(かしこ)い動物(どうぶつ)だと言(い)われています。",
+        "pronunciation": "buta wa kashikoi doubutsu da to iwarete imasu.",
+        "translation": "Pigs are said to be intelligent animals."
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "word": "牛",
+    "partsOfSpeech": "noun",
+    "categories": ["animals"],
+    "english": "cow, bull, ox",
+    "burmese": "နွား",
+    "definition": "A domesticated bovine animal that is kept for its milk or meat; a cow.",
+    "language": "japanese",
+    "level": "N4",
+    "formality": "neutral",
+    "pronunciation": "うし",
+    "romaji": "ushi",
+    "synonyms": [],
+    "antonyms": [],
+    "frequency": "high",
+    "examples": [
+      {
+        "sentence": "牧場(ぼくじょう)に牛(うし)がいます。",
+        "pronunciation": "bokujou ni ushi ga imasu.",
+        "translation": "There are cows in the pasture."
+      },
+      {
+        "sentence": "牛乳(ぎゅうにゅう)は栄養(えいよう)があります。",
+        "pronunciation": "gyuunyuu wa eiyou ga arimasu.",
+        "translation": "Milk is nutritious."
+      },
+      {
+        "sentence": "牛肉(ぎゅうにく)は色(いろ)々な料理(りょうり)に使(つか)われます。",
+        "pronunciation": "gyuuniku wa iroiro na ryouri ni tsukawaremasu.",
+        "translation": "Beef is used in various dishes."
+      },
+      {
+        "sentence": "牛(うし)は草(くさ)を食(た)べます。",
+        "pronunciation": "ushi wa kusa o tabemasu.",
+        "translation": "Cows eat grass."
+      },
+      {
+        "sentence": "牛(うし)の鳴(な)き声(ごえ)が聞(き)こえます。",
+        "pronunciation": "ushi no nakigoe ga kikoemasu.",
+        "translation": "I can hear the sound of a cow."
+      }
+    ]
   }
 ]
